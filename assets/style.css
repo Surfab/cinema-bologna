@@ -105,6 +105,7 @@ img { display: block; max-width: 100%; }
   display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none;
   margin: 0 calc(var(--gutter) * -1); padding: 2px var(--gutter) 10px;
   scroll-snap-type: x proximity;
+  scroll-padding-inline: var(--gutter);
 }
 .days::-webkit-scrollbar { display: none; }
 .day {
