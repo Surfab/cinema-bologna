@@ -2575,8 +2575,10 @@
    "date": "2026-10-14",
    "time": "20:45",
    "sala": "Roma D'Essai",
-   "vo": false,
-   "tags": [],
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
    "price": null,
    "url": "http://roma.ccb.18tickets.it/film/il-dottor-stranamore_2026-192c742b-72c2-4181-b23c-ffd7e62001aa/840848#sala"
   },
@@ -2643,8 +2645,10 @@
    "date": "2026-10-14",
    "time": "21:10",
    "sala": "Rialto 2",
-   "vo": false,
-   "tags": [],
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/digger_2026-1a207fe0-ac58-463b-9a60-55f06cbf6c18/840745#sala"
   },
@@ -2654,8 +2658,10 @@
    "date": "2026-10-14",
    "time": "21:15",
    "sala": "Jolly",
-   "vo": false,
-   "tags": [],
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
    "price": null,
    "url": "http://jolly.popupcinema.18tickets.it/film/original-version-the-invite-il-piacere-e-tutto-nostro_2026-b138fa6a-e53b-4fe9-be22-9187b7aea620/839167#sala"
   },
@@ -3014,8 +3020,10 @@
    "date": "2026-10-16",
    "time": "21:10",
    "sala": "Rialto 2",
-   "vo": false,
-   "tags": [],
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/digger_2026/840739#sala"
   },
@@ -3080,8 +3088,10 @@
    "date": "2026-10-17",
    "time": "21:10",
    "sala": "Rialto 2",
-   "vo": false,
-   "tags": [],
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/digger_2026/840740#sala"
   },
