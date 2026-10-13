@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Cinema a Bologna</title>
+  <meta name="description" content="Film, cinema e orari a Bologna, aggiornati ogni giorno.">
+  <meta name="theme-color" content="#F2F3EF" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#12162A" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cpath fill='%23C42B3A' d='M6 16h52v10a6 6 0 0 0 0 12v10H6V38a6 6 0 0 0 0-12z'/%3E%3Cpath stroke='%23F2F3EF' stroke-width='3' stroke-dasharray='4 4' d='M42 18v28'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&display=swap">
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="assets/app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#lista">Vai ai film</a>
+
+  <header class="top">
+    <div class="wrap top__row">
+      <p class="brand">Cinema a Bologna</p>
+      <div class="views" role="group" aria-label="Vista">
+        <button type="button" data-view="film" aria-pressed="true">Film</button>
+        <button type="button" data-view="cinema" aria-pressed="false">Cinema</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <h1 class="day-title" id="day-title" aria-live="polite">&nbsp;</h1>
+
+    <nav class="days" id="days" aria-label="Giorno"></nav>
+
+    <div class="tools">
+      <label class="search">
+        <span class="sr">Cerca</span>
+        <input id="q" type="search" placeholder="Cerca film, attore o cinema" autocomplete="off" enterkeyhint="search">
+      </label>
+      <div class="filters" role="group" aria-label="Filtri">
+        <button type="button" class="chip" id="f-vo" aria-pressed="false">Solo V.O.</button>
+        <button type="button" class="chip" id="f-pom" aria-pressed="false">Fino alle 19</button>
+        <button type="button" class="chip" id="f-sera" aria-pressed="false">Dalle 19</button>
+        <details class="pick" id="pick">
+          <summary class="chip" id="pick-label">Tutti i cinema</summary>
+          <div class="pick__panel">
+            <div class="pick__actions">
+              <button type="button" id="pick-all">Tutti</button>
+              <button type="button" id="pick-none">Nessuno</button>
+            </div>
+            <div class="pick__list" id="pick-list"></div>
+          </div>
+        </details>
+      </div>
+    </div>
+
+    <p class="notice" id="notice" hidden></p>
+
+    <div id="lista" class="lista" tabindex="-1">
+      <p class="empty">Carico la programmazione…</p>
+    </div>
+  </main>
+
+  <footer class="foot wrap">
+    <p id="updated"></p>
+    <p>Orari e locandine da <a href="https://www.comingsoon.it/cinema/bologna/">ComingSoon.it</a>. Verifica sempre sul sito del cinema prima di uscire.</p>
+    <p><a href="https://github.com/Surfab/cinema-bologna">Codice su GitHub</a></p>
+  </footer>
+</body>
+</html>

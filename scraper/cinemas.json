@@ -1,0 +1,23 @@
+[
+  {"id": 147,  "slug": "antoniano",                 "name": "Antoniano",                "short": "Antoniano",     "address": "Via Guinizelli, 3"},
+  {"id": 153,  "slug": "bellinzona-d-essai",        "name": "Bellinzona d'Essai",       "short": "Bellinzona",    "address": "Via Bellinzona, 6"},
+  {"id": 181,  "slug": "chaplin",                   "name": "Chaplin",                  "short": "Chaplin",       "address": "Piazza di Porta Saragozza, 5/a"},
+  {"id": 177,  "slug": "cinema-perla",              "name": "Cinema Perla",             "short": "Perla",         "address": "Via S. Donato, 34/2"},
+  {"id": 182,  "slug": "cinema-teatro-tivoli",      "name": "Cinema Teatro Tivoli",     "short": "Tivoli",        "address": "Via Massarenti, 418"},
+  {"id": 5480, "slug": "cineteca-sala-cervi",       "name": "Cineteca - Sala Cervi",    "short": "Sala Cervi",    "address": "Via Riva di Reno, 72"},
+  {"id": 4587, "slug": "europa-cinema",             "name": "Europa Cinema",            "short": "Europa",        "address": "Via Pietralata, 55/a"},
+  {"id": 161,  "slug": "fossolo",                   "name": "Fossolo",                  "short": "Fossolo",       "address": "Viale Abramo Lincoln, 3"},
+  {"id": 163,  "slug": "galliera",                  "name": "Galliera",                 "short": "Galliera",      "address": "Via Matteotti, 27"},
+  {"id": 5075, "slug": "lumiere",                   "name": "Lumière",                  "short": "Lumière",       "address": "Via Azzo Gardino, 65"},
+  {"id": 5817, "slug": "modernissimo",              "name": "Modernissimo",             "short": "Modernissimo",  "address": "Piazza Re Enzo, 1"},
+  {"id": 5085, "slug": "nuovo-nosadella",           "name": "Nuovo Nosadella",          "short": "Nosadella",     "address": "Via L. Berti, 2/7"},
+  {"id": 174,  "slug": "odeon",                     "name": "Odeon",                    "short": "Odeon",         "address": "Via Mascarella, 3"},
+  {"id": 176,  "slug": "orione",                    "name": "Orione",                   "short": "Orione",        "address": "Via Cimabue, 14"},
+  {"id": 152,  "slug": "pop-up-cinema-arlecchino",  "name": "Pop Up Cinema Arlecchino", "short": "Arlecchino",    "address": "Via Lame, 59"},
+  {"id": 5074, "slug": "pop-up-cinema-bristol",     "name": "Pop Up Cinema Bristol",    "short": "Bristol",       "address": "Via Toscana, 146"},
+  {"id": 167,  "slug": "pop-up-cinema-jolly",       "name": "Pop Up Cinema Jolly",      "short": "Jolly",         "address": "Via Marconi, 14"},
+  {"id": 170,  "slug": "pop-up-cinema-medica-4k",   "name": "Pop Up Cinema Medica 4K",  "short": "Medica",        "address": "Via Montegrappa, 9"},
+  {"id": 178,  "slug": "rialto-studio",             "name": "Rialto Studio",            "short": "Rialto",        "address": "Via Rialto, 19"},
+  {"id": 179,  "slug": "roma-d-essai",              "name": "Roma d'Essai",             "short": "Roma d'Essai",  "address": "Via Fondazza, 4"},
+  {"id": 171,  "slug": "the-space-cinema-bologna",  "name": "The Space Cinema Bologna", "short": "The Space",     "address": "Viale Europa"}
+]

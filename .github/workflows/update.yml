@@ -1,0 +1,56 @@
+name: Aggiorna programmazione
+
+on:
+  schedule:
+    # Orari in UTC: 07:17 e 16:17 ora di Bologna d'estate (06:17 e 15:17 d'inverno)
+    - cron: "17 5 * * *"
+    - cron: "17 14 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scraper/**"
+      - "tests/**"
+      - ".github/workflows/update.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-showtimes
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Installa dipendenze
+        run: pip install -r scraper/requirements.txt
+
+      - name: Test del parser
+        run: python -m unittest discover -s tests -v
+
+      - name: Scarica orari da comingsoon.it
+        run: python scraper/scrape.py --out data
+
+      - name: Salva i dati se sono cambiati
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Nessuna novita' nella programmazione."
+            exit 0
+          fi
+          git commit -m "dati: programmazione del $(TZ=Europe/Rome date +'%Y-%m-%d %H:%M')"
+          git pull --rebase --quiet origin main
+          git push

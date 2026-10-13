@@ -1,0 +1,258 @@
+/* Cinema a Bologna
+   Idea guida: gli orari sono talloncini di biglietto, rosa per i film doppiati
+   e verdi per la versione originale, come i vecchi biglietti SIAE. Tutto il resto tace. */
+
+:root {
+  --paper: #F2F3EF;
+  --raised: #FFFFFF;
+  --ink: #1C2238;
+  --ink-2: #585E73;
+  --rule: #D8DAD2;
+  --stamp: #C42B3A;
+  --rose: #F4D3D8;
+  --rose-ink: #7B1F2D;
+  --mint: #CDEADB;
+  --mint-ink: #1C5A3B;
+  --focus: #2A55D4;
+
+  --font: "Archivo", "Helvetica Neue", Arial, system-ui, sans-serif;
+  --step--1: 0.8125rem;
+  --step-0: 1rem;
+  --step-1: 1.25rem;
+  --step-2: 1.5625rem;
+  --step-3: clamp(2.25rem, 9vw, 3.5rem);
+  --gutter: 16px;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #12162A;
+    --raised: #1A1F36;
+    --ink: #ECEDF2;
+    --ink-2: #A3A8BC;
+    --rule: #2C3250;
+    --stamp: #FF6B79;
+    --rose: #43232F;
+    --rose-ink: #F7C9D1;
+    --mint: #1D3B30;
+    --mint-ink: #BDE8D0;
+    --focus: #8FB0FF;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #12162A; --raised: #1A1F36; --ink: #ECEDF2; --ink-2: #A3A8BC; --rule: #2C3250;
+  --stamp: #FF6B79; --rose: #43232F; --rose-ink: #F7C9D1; --mint: #1D3B30; --mint-ink: #BDE8D0;
+  --focus: #8FB0FF; color-scheme: dark;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 400 var(--step-0)/1.5 var(--font);
+  font-variant-numeric: tabular-nums;
+}
+a { color: inherit; text-underline-offset: 0.18em; text-decoration-thickness: 1px; }
+a:hover { text-decoration-thickness: 2px; }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; border-radius: 4px; }
+img { display: block; max-width: 100%; }
+
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.skip { position: absolute; left: var(--gutter); top: -40px; background: var(--ink); color: var(--paper); padding: 8px 12px; z-index: 10; }
+.skip:focus { top: 8px; }
+
+.wrap { width: 100%; max-width: 760px; margin: 0 auto; padding: 0 var(--gutter); }
+
+/* ---------------------------------------------------------------- testata */
+
+.top {
+  position: sticky; top: 0; z-index: 5;
+  background: color-mix(in srgb, var(--paper) 92%, transparent);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--rule);
+}
+.top__row { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 52px; }
+.brand { margin: 0; font-weight: 800; font-stretch: 75%; font-size: var(--step-1); letter-spacing: 0.01em; }
+
+.views { display: inline-flex; background: var(--raised); border: 1px solid var(--rule); border-radius: 999px; padding: 3px; }
+.views button {
+  border: 0; background: none; padding: 6px 14px; border-radius: 999px; cursor: pointer;
+  font-weight: 600; font-size: var(--step--1); color: var(--ink-2);
+}
+.views button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+
+/* Il giorno scelto e' il titolo della pagina: grande, stretto, come un cartellone */
+.day-title {
+  margin: 28px 0 14px;
+  font-weight: 900;
+  font-stretch: 62.5%;
+  font-size: var(--step-3);
+  line-height: 0.95;
+  letter-spacing: -0.005em;
+}
+.day-title small { display: block; font-size: 0.42em; font-weight: 600; font-stretch: 87.5%; color: var(--ink-2); margin-top: 6px; letter-spacing: 0; }
+
+/* ---------------------------------------------------------------- giorni */
+
+.days {
+  position: relative;
+  display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none;
+  margin: 0 calc(var(--gutter) * -1); padding: 2px var(--gutter) 10px;
+  scroll-snap-type: x proximity;
+}
+.days::-webkit-scrollbar { display: none; }
+.day {
+  flex: 0 0 auto; scroll-snap-align: start;
+  border: 1px solid var(--rule); background: var(--raised); border-radius: 10px;
+  padding: 6px 12px 7px; min-width: 64px; text-align: left; cursor: pointer;
+  line-height: 1.15;
+}
+.day b { display: block; font-weight: 700; font-stretch: 87.5%; }
+.day span { font-size: var(--step--1); color: var(--ink-2); }
+.day[aria-current="date"] { background: var(--ink); border-color: var(--ink); color: var(--paper); }
+.day[aria-current="date"] span { color: inherit; opacity: 0.75; }
+
+/* ---------------------------------------------------------------- filtri */
+
+.tools { display: grid; gap: 10px; margin: 8px 0 6px; }
+.search input {
+  width: 100%; font: inherit; color: var(--ink);
+  background: var(--raised); border: 1px solid var(--rule); border-radius: 10px;
+  padding: 10px 12px; min-height: 44px;
+}
+.search input::placeholder { color: var(--ink-2); }
+.filters { display: flex; flex-wrap: wrap; gap: 6px; align-items: flex-start; }
+.chip {
+  border: 1px solid var(--rule); background: transparent; border-radius: 999px;
+  padding: 6px 12px; font-size: var(--step--1); font-weight: 600; cursor: pointer; min-height: 34px;
+  list-style: none;
+}
+.chip::-webkit-details-marker { display: none; }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+
+.pick { position: relative; }
+.pick[open] > .chip { border-color: var(--ink); }
+.pick__panel {
+  position: absolute; z-index: 4; left: 0; top: calc(100% + 6px);
+  width: min(320px, calc(100vw - 2 * var(--gutter)));
+  background: var(--raised); border: 1px solid var(--rule); border-radius: 12px;
+  box-shadow: 0 12px 32px rgba(20, 24, 45, 0.18); padding: 10px;
+}
+.pick__actions { display: flex; gap: 8px; padding: 0 4px 8px; border-bottom: 1px solid var(--rule); margin-bottom: 6px; }
+.pick__actions button { border: 0; background: none; padding: 4px 0; font-weight: 600; font-size: var(--step--1); text-decoration: underline; cursor: pointer; }
+.pick__list { max-height: 52vh; overflow: auto; }
+.pick__list label { display: flex; gap: 10px; align-items: center; padding: 7px 4px; font-size: var(--step--1); cursor: pointer; }
+.pick__list input { width: 18px; height: 18px; accent-color: var(--ink); }
+.pick__list .n { margin-left: auto; color: var(--ink-2); }
+
+.notice { margin: 12px 0 0; padding: 10px 12px; border-left: 3px solid var(--stamp); background: var(--raised); font-size: var(--step--1); }
+
+/* ---------------------------------------------------------------- elenco */
+
+.lista { padding-bottom: 24px; }
+.lista:focus { outline: none; }
+.group { margin-top: 30px; }
+.group > h2 {
+  margin: 0 0 4px; font-size: var(--step-1); font-weight: 800; font-stretch: 75%;
+  display: flex; align-items: baseline; gap: 8px;
+}
+.group > h2 .n { font-weight: 500; font-stretch: 100%; font-size: var(--step--1); color: var(--ink-2); }
+.group > p.hint { margin: 0 0 8px; color: var(--ink-2); font-size: var(--step--1); }
+
+.film { display: grid; grid-template-columns: 68px 1fr; gap: 14px; padding: 16px 0; border-top: 1px solid var(--rule); }
+.film:first-of-type { border-top: 0; }
+.poster {
+  width: 68px; aspect-ratio: 235 / 336; border-radius: 6px; overflow: hidden;
+  background: linear-gradient(160deg, var(--rose), var(--mint));
+}
+.poster img { width: 100%; height: 100%; object-fit: cover; }
+.film__title {
+  margin: 0; font-size: var(--step-2); line-height: 1.05;
+  font-weight: 800; font-stretch: 75%;
+}
+.film__title button { all: unset; cursor: pointer; }
+.film__title button:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; border-radius: 4px; }
+.film__meta { margin: 4px 0 0; color: var(--ink-2); font-size: var(--step--1); }
+.badge {
+  display: inline-block; margin-left: 6px; vertical-align: 0.25em;
+  font-size: 0.75rem; font-weight: 700; font-stretch: 87.5%;
+  color: var(--stamp); border: 1.5px solid currentColor; border-radius: 4px; padding: 0 5px; line-height: 1.4;
+  transform: rotate(-3deg);
+}
+
+.where { margin: 10px 0 0; display: grid; gap: 8px; }
+.where__row { display: grid; grid-template-columns: 1fr; gap: 5px; align-items: start; }
+.where__name { font-size: var(--step--1); font-weight: 600; line-height: 1.25; }
+.times { display: flex; flex-wrap: wrap; gap: 6px; }
+
+/* Il talloncino: tacche ai lati, perforazione tratteggiata prima della V.O. */
+.tk {
+  --notch: 5px;
+  display: inline-flex; align-items: stretch;
+  background: var(--rose); color: var(--rose-ink);
+  text-decoration: none; font-weight: 700; font-stretch: 87.5%;
+  border-radius: 3px; min-height: 34px;
+  -webkit-mask:
+    radial-gradient(circle var(--notch) at 0 50%, #0000 97%, #000) left / 51% 100% no-repeat,
+    radial-gradient(circle var(--notch) at 100% 50%, #0000 97%, #000) right / 51% 100% no-repeat;
+          mask:
+    radial-gradient(circle var(--notch) at 0 50%, #0000 97%, #000) left / 51% 100% no-repeat,
+    radial-gradient(circle var(--notch) at 100% 50%, #0000 97%, #000) right / 51% 100% no-repeat;
+}
+.tk > span { display: flex; align-items: center; padding: 0 11px; }
+.tk .tk__vo { padding: 0 9px 0 7px; border-left: 1.5px dashed currentColor; font-size: 0.72rem; letter-spacing: 0.02em; }
+.tk.is-vo { background: var(--mint); color: var(--mint-ink); }
+a.tk:hover { filter: brightness(0.96); }
+a.tk:focus-visible { outline: none; box-shadow: inset 0 0 0 2px var(--focus); }
+.tk.is-past { opacity: 0.42; text-decoration: line-through; text-decoration-thickness: 1.5px; }
+
+.also { margin: 10px 0 0; font-size: var(--step--1); color: var(--ink-2); }
+.also button {
+  border: 0; background: none; padding: 0; margin: 0; cursor: pointer;
+  color: var(--ink); text-decoration: underline; text-underline-offset: 0.18em; font-size: inherit;
+}
+
+.more { margin: 10px 0 0; font-size: var(--step--1); color: var(--ink-2); }
+.more p { margin: 0 0 4px; }
+.more a { margin-right: 14px; color: var(--ink); }
+
+/* Vista per cinema */
+.cin { padding: 18px 0 10px; border-top: 1px solid var(--rule); }
+.cin:first-of-type { border-top: 0; }
+.cin__head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; margin-bottom: 8px; }
+.cin__name { margin: 0; font-size: var(--step-2); font-weight: 800; font-stretch: 75%; line-height: 1.05; }
+.cin__addr { font-size: var(--step--1); color: var(--ink-2); }
+.cin .where__name { font-size: var(--step-0); font-weight: 600; }
+.cin .where__name button { all: unset; cursor: pointer; }
+.cin .where__name button:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+
+.empty { margin: 36px 0; color: var(--ink-2); }
+.empty b { color: var(--ink); display: block; font-size: var(--step-1); font-weight: 800; font-stretch: 75%; margin-bottom: 4px; }
+.off { margin-top: 26px; font-size: var(--step--1); color: var(--ink-2); }
+
+/* ---------------------------------------------------------------- piede */
+
+.foot { border-top: 1px solid var(--rule); padding-top: 14px; padding-bottom: 40px; color: var(--ink-2); font-size: var(--step--1); }
+.foot p { margin: 0 0 6px; max-width: 64ch; }
+
+@media (min-width: 640px) {
+  :root { --gutter: 24px; }
+  .film { grid-template-columns: 92px 1fr; gap: 18px; }
+  .poster { width: 92px; }
+  .day-title { margin-top: 40px; }
+  .where__row { grid-template-columns: 8.5rem 1fr; gap: 12px; }
+  .where__name { padding-top: 7px; }
+  .cin .where__row { grid-template-columns: 14rem 1fr; }
+  .cin .where__name { padding-top: 5px; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .lista.is-swapping { animation: swap 220ms ease-out; }
+  @keyframes swap { from { opacity: 0.35; } to { opacity: 1; } }
+}
