@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-13, uscite della settimana dopo
+
+- Lo scraper legge il calendario uscite di comingsoon (settimana corrente e successiva) e scrive `data/upcoming.json`; se la pagina non risponde, il giro va avanti con un avviso
+- Nuova sezione in fondo alla mail del giovedì: "In uscita dal [giovedì successivo]", divisa per giorno, con genere, regia e i cinema di Bologna che hanno già il film in programma
+- Task del giovedì aggiornato per scaricare anche `upcoming.json`
+- 5 test in più (30 in tutto), con la pagina reale del calendario come fixture
+
 ## 2026-10-13, mail del giovedì
 
 - `scraper/weekly_email.py`: genera oggetto, HTML e testo della mail settimanale, con i film nuovi separati da quelli già in sala

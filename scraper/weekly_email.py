@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Prepara la mail del giovedi': film nuovi della settimana e, separati, quelli gia' in sala.
 
-Legge data/showtimes.json (e data/meta.json se c'e') e scrive in --out:
+Legge data/showtimes.json (e, se ci sono, data/meta.json e data/upcoming.json) e scrive in --out:
   subject.txt   oggetto della mail
   email.html    versione HTML
   email.txt     versione testo
@@ -10,7 +10,7 @@ Stampa un riepilogo JSON su stdout.
 Solo libreria standard, cosi' gira ovunque senza installare niente.
 
 Uso:
-  python scraper/weekly_email.py --data data/showtimes.json --meta data/meta.json --out out
+  python scraper/weekly_email.py --data data/showtimes.json --meta data/meta.json --upcoming data/upcoming.json --out out
   python scraper/weekly_email.py --today 2026-10-15 ...   # per provare un giovedi' qualsiasi
 """
 from __future__ import annotations
@@ -56,7 +56,7 @@ def il(day: dt.date) -> str:
     return ("l'" if day.day in (8, 11) else "il ") + long_date(day)
 
 
-def build(data: dict, meta: Optional[dict], today: dt.date) -> dict:
+def build(data: dict, meta: Optional[dict], today: dt.date, upcoming: Optional[dict] = None) -> dict:
     """Divide i film della settimana (da oggi a 6 giorni dopo) in nuovi e gia' in sala.
 
     Nuovo = uscito dopo il giovedi' precedente (today - 6 in poi), comprese le uscite
@@ -104,7 +104,38 @@ def build(data: dict, meta: Optional[dict], today: dt.date) -> dict:
         if hours > STALE_HOURS:
             stale = updated
 
-    return {"today": today, "end": end, "new": new, "old": old, "meta": meta, "stale": stale}
+    return {"today": today, "end": end, "new": new, "old": old, "meta": meta, "stale": stale,
+            "upcoming": pick_upcoming(upcoming, data, today)}
+
+
+def pick_upcoming(upcoming: Optional[dict], data: dict, today: dt.date) -> Optional[dict]:
+    """La prima settimana del calendario che parte dopo oggi, solo con i film non ancora usciti.
+
+    Per ogni film segna i cinema di Bologna che lo hanno gia' in programma (anteprime, prevendite).
+    """
+    if not upcoming or not upcoming.get("weeks"):
+        return None
+    weeks = sorted((w for w in upcoming["weeks"] if w.get("from") and d(w["from"]) > today), key=lambda w: w["from"])
+    if not weeks:
+        return None
+    week = weeks[0]
+
+    cinemas = {c["id"]: c["short"] for c in data["cinemas"]}
+    by_cs: dict[int, set] = {}
+    films = {f["idf"]: f for f in data["films"]}
+    for s in data["shows"]:
+        f = films.get(s["film"])
+        if f and f.get("cs_id") and d(s["date"]) >= today and s["cinema"] in cinemas:
+            by_cs.setdefault(f["cs_id"], set()).add(cinemas[s["cinema"]])
+
+    items = []
+    for f in week["films"]:
+        if not f.get("release_date") or d(f["release_date"]) <= today:
+            continue
+        items.append({**f, "in_bologna": sorted(by_cs.get(f.get("cs_id"), set()))})
+    if not items:
+        return None
+    return {"from": d(week["from"]), "films": items}
 
 
 # --------------------------------------------------------------------------- testo
@@ -165,6 +196,21 @@ def render_text(w: dict) -> str:
 
     section("Nuovi questa settimana", w["new"], "Nessun film nuovo in programmazione a Bologna questa settimana.")
     section("Ancora in sala", w["old"], "Nessun altro film in programmazione.")
+
+    up = w.get("upcoming")
+    if up:
+        out.append("")
+        out.append(f"== In uscita {dal(up['from'])} ({len(up['films'])}) ==")
+        out.append("Uscite in tutta Italia: non tutti i film arrivano nei cinema di Bologna.")
+        for day, group in group_by_day(up["films"]):
+            out.append("")
+            out.append(f"{DAYS_LONG[day.weekday()].capitalize()} {long_date(day)}")
+            for f in group:
+                line = f"  {f['title']}" + (f" ({f['original_title']})" if f.get("original_title") else "")
+                extra = upcoming_meta(f)
+                out.append(line + (f". {extra}" if extra else ""))
+                if f["in_bologna"]:
+                    out.append(f"    Già in programma a Bologna: {', '.join(f['in_bologna'])}")
     out += [
         "",
         "Molti cinema pubblicano gli orari pochi giorni alla volta: per il weekend ricontrolla sul sito.",
@@ -172,6 +218,22 @@ def render_text(w: dict) -> str:
         "Dati da ComingSoon.it.",
     ]
     return "\n".join(line for line in out if line is not None) + "\n"
+
+
+def group_by_day(films: list) -> list:
+    groups: dict[dt.date, list] = {}
+    for f in films:
+        groups.setdefault(d(f["release_date"]), []).append(f)
+    return sorted(groups.items())
+
+
+def upcoming_meta(f: dict) -> str:
+    bits = []
+    if f.get("genres"):
+        bits.append(", ".join(f["genres"]).capitalize())
+    if f.get("director"):
+        bits.append(f"Regia di {f['director']}")
+    return ". ".join(bits)
 
 
 # --------------------------------------------------------------------------- html
@@ -196,6 +258,11 @@ h2 span{color:#585E73;font-weight:normal;font-size:14px}
 .v{background:#CDEADB;color:#1C5A3B}
 .old .t{font-size:16px}
 .e{color:#585E73}
+.up2 h3{font-size:15px;margin:14px 0 4px}
+.u{margin:0 0 8px;font-size:14px}
+.u a{color:#1C2238}
+.u .m{margin:0}
+.b{display:inline-block;margin-top:2px;font-size:13px;color:#1C5A3B}
 .ft{color:#585E73;font-size:13px;margin-top:26px}
 .ft a{color:#1C2238}
 """
@@ -231,6 +298,24 @@ def render_html(w: dict) -> str:
         body = "".join(film_html(r) for r in rows) or f'<p class="e">{esc(empty)}</p>'
         return f'<div class="{cls}"><h2>{esc(title)} <span>{len(rows)}</span></h2>{body}</div>'
 
+    def upcoming_html(up: Optional[dict]) -> str:
+        if not up:
+            return ""
+        parts = [f'<div class="up2"><h2>In uscita {esc(dal(up["from"]))} <span>{len(up["films"])}</span></h2>',
+                 '<p class="m">Uscite in tutta Italia: non tutti i film arrivano nei cinema di Bologna.</p>']
+        for day, group in group_by_day(up["films"]):
+            parts.append(f"<h3>{esc(DAYS_LONG[day.weekday()].capitalize())} {esc(long_date(day))}</h3>")
+            for f in group:
+                title = esc(f["title"])
+                if f.get("scheda_url"):
+                    title = f'<a href="{esc(f["scheda_url"])}">{title}</a>'
+                orig = f' <span class="o">({esc(f["original_title"])})</span>' if f.get("original_title") else ""
+                extra = upcoming_meta(f)
+                here = f'<br><span class="b">Già in programma a Bologna: {esc(", ".join(f["in_bologna"]))}</span>' if f["in_bologna"] else ""
+                parts.append(f'<p class="u"><b>{title}</b>{orig}{f"<br><span class=m>{esc(extra)}</span>" if extra else ""}{here}</p>')
+        parts.append("</div>")
+        return "".join(parts)
+
     head = f"Da {DAYS_LONG[w['today'].weekday()]} {long_date(w['today'])} a {DAYS_LONG[w['end'].weekday()]} {long_date(w['end'])}"
     alert = ""
     if w["stale"]:
@@ -243,6 +328,7 @@ def render_html(w: dict) -> str:
         f"<h1>Cinema a Bologna</h1><p class=\"up\">{esc(head)}. {esc(updated_line(w))}</p>{alert}"
         + section("Nuovi questa settimana", w["new"], "Nessun film nuovo in programmazione a Bologna questa settimana.")
         + section("Ancora in sala", w["old"], "Nessun altro film in programmazione.", "old")
+        + upcoming_html(w.get("upcoming"))
         + '<p class="ft">Molti cinema pubblicano gli orari pochi giorni alla volta: per il weekend ricontrolla sul sito.<br>'
         f'Tutti gli orari, con i link per i biglietti: <a href="{SITE}">{SITE.replace("https://", "").rstrip("/")}</a><br>'
         "Dati da ComingSoon.it.</p>"
@@ -256,6 +342,7 @@ def main(argv: Optional[list[str]] = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--data", default="data/showtimes.json")
     ap.add_argument("--meta", default="data/meta.json")
+    ap.add_argument("--upcoming", default="data/upcoming.json")
     ap.add_argument("--out", default="out")
     ap.add_argument("--today", help="YYYY-MM-DD, default: oggi a Bologna")
     args = ap.parse_args(argv)
@@ -265,7 +352,9 @@ def main(argv: Optional[list[str]] = None) -> int:
     meta = json.loads(meta_path.read_text(encoding="utf-8")) if meta_path.exists() else None
     today = dt.date.fromisoformat(args.today) if args.today else dt.datetime.now(ROME).date()
 
-    w = build(data, meta, today)
+    up_path = Path(args.upcoming)
+    upcoming = json.loads(up_path.read_text(encoding="utf-8")) if up_path.exists() else None
+    w = build(data, meta, today, upcoming)
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
     subj = subject(w)
@@ -278,6 +367,7 @@ def main(argv: Optional[list[str]] = None) -> int:
         "week": [w["today"].isoformat(), w["end"].isoformat()],
         "new_films": [r["film"]["title"] for r in w["new"]],
         "old_films": len(w["old"]),
+        "upcoming_films": len(w["upcoming"]["films"]) if w["upcoming"] else 0,
         "stale": bool(w["stale"]),
         "html_bytes": (out / "email.html").stat().st_size,
     }, ensure_ascii=False))

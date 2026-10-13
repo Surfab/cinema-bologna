@@ -91,6 +91,33 @@ class ParseTicketPage(unittest.TestCase):
         self.assertIsNone(scrape.parse_ticket_page(fixture("antoniano_cinema.html"), TODAY))
 
 
+class ParseCalendar(unittest.TestCase):
+    def test_week_and_films(self):
+        block = scrape.parse_calendar(fixture("calendario_uscite.html"))
+        self.assertEqual(block["from"], "2026-10-15")
+        self.assertEqual(len(block["films"]), 15)  # le 10 card del box office sono escluse
+        lalisa = block["films"][0]
+        self.assertEqual(lalisa["title"], "Always Lalisa")
+        self.assertEqual(lalisa["release_date"], "2026-10-12")
+        self.assertEqual(lalisa["cs_id"], 69318)
+        they_live = next(f for f in block["films"] if f["title"] == "Essi vivono")
+        self.assertEqual(they_live["original_title"], "They Live")
+        self.assertEqual(they_live["director"], "John Carpenter")
+        dates = [f["release_date"] for f in block["films"]]
+        self.assertEqual(dates, sorted(dates))
+
+    def test_scrape_upcoming_tolerates_errors(self):
+        warnings = []
+        pages = {"/cinema/calendariouscite/?r=0": fixture("calendario_uscite.html")}
+        def fetch(path):
+            if path not in pages:
+                raise ConnectionError(path)
+            return pages[path]
+        blocks = scrape.scrape_upcoming(fetch, warnings)
+        self.assertEqual(len(blocks), 1)
+        self.assertTrue(any("r=7" in w for w in warnings))
+
+
 class InferYear(unittest.TestCase):
     def test_same_year(self):
         self.assertEqual(scrape.infer_year(TODAY, 10, 18), dt.date(2026, 10, 18))

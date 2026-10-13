@@ -65,6 +65,37 @@ class WeeklyEmail(unittest.TestCase):
         self.assertEqual(weekly_email.dal(dt.date(2026, 10, 1)), "dal 1° ottobre")
         self.assertEqual(weekly_email.il(dt.date(2026, 10, 11)), "l'11 ottobre")
 
+    def upcoming(self):
+        block = scrape.parse_calendar((ROOT / "tests/fixtures/calendario_uscite.html").read_text(encoding="utf-8"))
+        later = {"from": "2026-10-22", "films": [{**block["films"][-1], "release_date": "2026-10-22", "cs_id": 68142}]}
+        return {"weeks": [block, later]}
+
+    def test_upcoming_picks_next_week_only_future_releases(self):
+        w = weekly_email.build(self.data, None, TODAY, self.upcoming())
+        up = w["upcoming"]
+        self.assertEqual(up["from"], dt.date(2026, 10, 15))
+        self.assertEqual(len(up["films"]), 12)  # le 3 uscite del 12 ottobre sono gia' passate
+        self.assertTrue(all(f["release_date"] > "2026-10-13" for f in up["films"]))
+
+    def test_upcoming_on_thursday_shows_following_week_and_bologna_cinemas(self):
+        w = weekly_email.build(self.data, None, dt.date(2026, 10, 15), self.upcoming())
+        up = w["upcoming"]
+        self.assertEqual(up["from"], dt.date(2026, 10, 22))
+        # cs_id 68142 e' L'Estranea: dal 15 in poi nei fixture resta solo l'Odeon (domenica 18)
+        self.assertEqual(up["films"][0]["in_bologna"], ["Odeon"])
+        text = weekly_email.render_text(w)
+        html = weekly_email.render_html(w)
+        self.assertIn("In uscita dal 22 ottobre", text)
+        self.assertIn("Già in programma a Bologna: Odeon", text)
+        self.assertIn("Già in programma a Bologna: Odeon", html)
+        self.assertIn("In uscita dal 22 ottobre", html)
+        self.assertLess(text.index("Ancora in sala"), text.index("In uscita"))
+
+    def test_upcoming_missing_is_fine(self):
+        w = weekly_email.build(self.data, None, TODAY, None)
+        self.assertIsNone(w["upcoming"])
+        self.assertNotIn("In uscita", weekly_email.render_text(w))
+
     def test_cli_writes_files(self):
         import json
         with tempfile.TemporaryDirectory() as tmp:

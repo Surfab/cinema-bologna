@@ -26,10 +26,11 @@ comingsoon.it ──► scraper/scrape.py ──► data/showtimes.json ──�
 1. Per ognuno dei 21 cinema in `scraper/cinemas.json` lo script legge la pagina del cinema (film, sale, orari e prezzi di oggi).
 2. Per ogni film apre la pagina "tutte le date" (orari dei giorni successivi e link d'acquisto).
 3. Unisce le due fonti, deduce la versione originale dalle sale, scrive `data/showtimes.json` e `data/meta.json`.
+   Legge anche il calendario uscite di comingsoon (questa settimana e la prossima) e scrive `data/upcoming.json`.
 4. Se trova meno di 50 spettacoli o legge meno di metà dei cinema **non sovrascrive i dati** ed esce con errore: GitHub manda una mail e il sito continua a mostrare l'ultima versione buona.
 5. La pagina è HTML, CSS e JavaScript senza framework: legge il JSON e fa tutto nel browser.
 
-Lo script aspetta 1,5 secondi tra una richiesta e l'altra (circa 150 pagine per giro) e si presenta con uno user agent che rimanda a questo repository.
+Lo script aspetta 1,5 secondi tra una richiesta e l'altra (circa 150 pagine per giro, più 2 del calendario uscite) e si presenta con uno user agent che rimanda a questo repository.
 
 ## Mail del giovedì
 
@@ -37,12 +38,14 @@ Ogni giovedì mattina arriva una mail con i film della settimana (da giovedì a 
 
 - **Nuovi questa settimana**: tutto ciò che è uscito dopo il giovedì precedente, più le uscite dei giorni successivi
 - **Ancora in sala**: gli altri film, in una sezione separata
-- Per ogni film: cinema, giorni e orari, con la V.O. evidenziata
+- **In uscita dal giovedì successivo**: le uscite italiane della settimana dopo, con genere e regia, e i cinema di Bologna che le hanno già in programma
+- Per ogni film in sala: cinema, giorni e orari, con la V.O. evidenziata
 
 La mail la prepara `scraper/weekly_email.py` (solo libreria standard, testato in CI). Un task programmato di Claude la scarica da questo repo e la spedisce con Gmail. Per provarla in locale:
 
 ```bash
-python scraper/weekly_email.py --data data/showtimes.json --meta data/meta.json --out /tmp/mail --today 2026-10-15
+python scraper/weekly_email.py --data data/showtimes.json --meta data/meta.json \
+  --upcoming data/upcoming.json --out /tmp/mail --today 2026-10-15
 open /tmp/mail/email.html
 ```
 
@@ -53,6 +56,7 @@ open /tmp/mail/email.html
 | `index.html`, `assets/` | Il sito |
 | `data/showtimes.json` | Cinema, film e spettacoli (generato) |
 | `data/meta.json` | Ora e stato dell'ultimo aggiornamento (generato) |
+| `data/upcoming.json` | Uscite italiane di questa settimana e della prossima (generato) |
 | `scraper/scrape.py` | Lo scraper |
 | `scraper/cinemas.json` | I 21 cinema seguiti, con nome breve e indirizzo |
 | `scraper/weekly_email.py` | Genera la mail del giovedì (oggetto, HTML, testo) |

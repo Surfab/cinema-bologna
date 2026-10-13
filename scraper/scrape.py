@@ -8,6 +8,7 @@ Per ogni cinema legge:
 Scrive due file:
   data/showtimes.json  -> cinema, film e spettacoli (cambia solo se cambia la programmazione)
   data/meta.json       -> quando e com'e' andato l'ultimo aggiornamento
+  data/upcoming.json   -> uscite nazionali di questa settimana e della prossima
 
 Uso:
   python scraper/scrape.py --out data
@@ -250,6 +251,71 @@ def parse_ticket_page(html: str, today: dt.date) -> Optional[list[dict]]:
     return shows
 
 
+def parse_calendar(html: str) -> dict:
+    """Pagina 'Calendario uscite': una settimana di uscite nazionali.
+
+    Ritorna {"from": "2026-10-22", "films": [...]}, dove "from" e' il giovedi'
+    con cui comingsoon etichetta la settimana.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    block_from = None
+    head = soup.find(lambda t: t.name == "p" and "film in sala dal" in t.get_text())
+    if head:
+        m = re.search(r"dal\s+(\d{1,2})\s+([a-z]+)\s+(\d{4})", clean(head.get_text()), re.I)
+        month = MONTHS.get(m.group(2).upper()[:3]) if m else None
+        if m and month:
+            block_from = dt.date(int(m.group(3)), month, int(m.group(1))).isoformat()
+
+    films = []
+    for card in soup.select("a.cards-horiz-box"):
+        meta, distributor = {}, None
+        for p in card.select(".meta .p"):
+            if "c" in (p.get("class") or []):
+                distributor = clean(p.get_text())
+                continue
+            label, value = p.find("b"), p.find("span")
+            if label and value:
+                meta[clean(label.get_text()).rstrip(":").lower()] = clean(value.get_text())
+        release = parse_date_it(meta.get("uscita", ""))
+        if not release:  # le card del box office non hanno la data d'uscita
+            continue
+        m = re.search(r"/film/[^/]+/(\d+)/scheda", card.get("href", ""))
+        title = card.select_one(".titolo.h2")
+        original = card.select_one(".titolo.p")
+        img = card.select_one("img")
+        original_title = clean(original.get_text()).strip("() ").strip() if original else ""
+        films.append({
+            "cs_id": int(m.group(1)) if m else None,
+            "title": clean(title.get_text()) if title else clean(card.get("title")),
+            "original_title": original_title,
+            "genres": [g.strip() for g in meta.get("genere", "").split(",") if g.strip()],
+            "year": meta.get("anno") or None,
+            "director": meta.get("regia") or None,
+            "distributor": distributor,
+            "release_date": release,
+            "poster": (img.get("data-src") or img.get("src")) if img else None,
+            "scheda_url": BASE + card["href"] if card.get("href", "").startswith("/") else card.get("href"),
+        })
+    films.sort(key=lambda f: (f["release_date"], f["title"]))
+    return {"from": block_from, "films": films}
+
+
+def scrape_upcoming(fetch: Callable[[str], str], warnings: list[str]) -> list[dict]:
+    """Uscite di questa settimana e della prossima (r=0 e r=7 sul calendario)."""
+    blocks = []
+    for offset in (0, 7):
+        try:
+            block = parse_calendar(fetch(f"/cinema/calendariouscite/?r={offset}"))
+        except Exception as exc:  # noqa: BLE001 - il calendario e' un extra, non deve fermare il giro
+            warnings.append(f"Calendario uscite (r={offset}) non letto ({type(exc).__name__})")
+            continue
+        if block["films"]:
+            blocks.append(block)
+        else:
+            warnings.append(f"Calendario uscite (r={offset}) senza film: controllare il parser")
+    return blocks
+
+
 # --------------------------------------------------------------------------- merge
 
 def build_shows(film: dict, ticket_shows: Optional[list[dict]], today: dt.date) -> list[dict]:
@@ -449,7 +515,9 @@ def main(argv: Optional[list[str]] = None) -> int:
 
     now = dt.datetime.now(ROME)
     started = time.monotonic()
-    result = scrape(cinemas, make_fetcher(args.delay), now.date())
+    fetch = make_fetcher(args.delay)
+    result = scrape(cinemas, fetch, now.date())
+    upcoming = scrape_upcoming(fetch, result["warnings"])
     stats = result["stats"]
 
     out = Path(args.out)
@@ -467,6 +535,8 @@ def main(argv: Optional[list[str]] = None) -> int:
     if healthy:
         write_json(out / "showtimes.json", result["showtimes"])
         write_json(out / "meta.json", meta)
+        if upcoming:
+            write_json(out / "upcoming.json", {"version": 1, "source": f"{BASE}/cinema/calendariouscite/", "weeks": upcoming})
         log.info("OK: %d film, %d spettacoli, %d/%d cinema letti",
                  stats["films"], stats["shows"], stats["cinemas_ok"], len(cinemas))
         for w in result["warnings"]:
