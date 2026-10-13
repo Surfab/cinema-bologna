@@ -271,6 +271,11 @@ def build_shows(film: dict, ticket_shows: Optional[list[dict]], today: dt.date) 
             return hit["vo"], hit["tags"], hit["price"]
         if len(vo_values) == 1:
             return next(iter(vo_values)), common_tags, None
+        # Doppiato e V.O. alternati: i cinema ripetono gli stessi orari, quindi
+        # lo stesso orario di oggi indica la stessa versione.
+        if time_ in by_today_time:
+            hit = by_today_time[time_]
+            return hit["vo"], hit["tags"], None
         key = sala_key(sala_name)
         for s in salas:
             if key and sala_key(s["sala"]) == key:

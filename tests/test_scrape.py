@@ -132,6 +132,19 @@ class BuildShows(unittest.TestCase):
         self.assertEqual(extra["sala"], "Sala 1")
         self.assertEqual(len([s for s in shows if s["date"] == "2026-10-14"]), 6)
 
+    def test_mixed_vo_same_sala_uses_time_of_day(self):
+        film = {"salas": [
+            {"sala": "Sala 1", "seats": None, "tags": [], "vo": False, "times": [{"time": "16:30", "price": 7.0}]},
+            {"sala": "Sala 1", "seats": None, "tags": ["V.O."], "vo": True, "times": [{"time": "20:45", "price": 7.0}]},
+        ]}
+        ticket = [
+            {"date": "2026-10-14", "time": "16:30", "sala": "Roma", "url": "u1"},
+            {"date": "2026-10-14", "time": "20:45", "sala": "Roma", "url": "u2"},
+        ]
+        shows = scrape.build_shows(film, ticket, TODAY)
+        tomorrow = {s["time"]: s["vo"] for s in shows if s["date"] == "2026-10-14"}
+        self.assertEqual(tomorrow, {"16:30": False, "20:45": True})
+
     def test_fallback_without_ticket_page(self):
         films, _ = scrape.parse_cinema_page(fixture("lumiere_cinema.html"))
         shows = scrape.build_shows(films[1], None, TODAY)

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-13, mail del giovedì
+
+- `scraper/weekly_email.py`: genera oggetto, HTML e testo della mail settimanale, con i film nuovi separati da quelli già in sala
+- Task programmato di Claude: ogni giovedì scarica la mail da GitHub e la invia con Gmail a surfab@gmail.com
+- V.O. più precisa: se un cinema alterna doppiato e originale nella stessa sala, per i giorni futuri vale l'orario di oggi
+- 8 test in più (25 in tutto)
+
 ## 2026-10-13, prima versione
 
 - Scraper per i 21 cinema di Bologna città su comingsoon.it: film, sale, orari della settimana, prezzi di oggi, link d'acquisto, versione originale

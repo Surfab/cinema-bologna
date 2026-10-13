@@ -31,6 +31,21 @@ comingsoon.it ──► scraper/scrape.py ──► data/showtimes.json ──�
 
 Lo script aspetta 1,5 secondi tra una richiesta e l'altra (circa 150 pagine per giro) e si presenta con uno user agent che rimanda a questo repository.
 
+## Mail del giovedì
+
+Ogni giovedì mattina arriva una mail con i film della settimana (da giovedì a mercoledì):
+
+- **Nuovi questa settimana**: tutto ciò che è uscito dopo il giovedì precedente, più le uscite dei giorni successivi
+- **Ancora in sala**: gli altri film, in una sezione separata
+- Per ogni film: cinema, giorni e orari, con la V.O. evidenziata
+
+La mail la prepara `scraper/weekly_email.py` (solo libreria standard, testato in CI). Un task programmato di Claude la scarica da questo repo e la spedisce con Gmail. Per provarla in locale:
+
+```bash
+python scraper/weekly_email.py --data data/showtimes.json --meta data/meta.json --out /tmp/mail --today 2026-10-15
+open /tmp/mail/email.html
+```
+
 ## Struttura
 
 | Percorso | Contenuto |
@@ -40,6 +55,7 @@ Lo script aspetta 1,5 secondi tra una richiesta e l'altra (circa 150 pagine per 
 | `data/meta.json` | Ora e stato dell'ultimo aggiornamento (generato) |
 | `scraper/scrape.py` | Lo scraper |
 | `scraper/cinemas.json` | I 21 cinema seguiti, con nome breve e indirizzo |
+| `scraper/weekly_email.py` | Genera la mail del giovedì (oggetto, HTML, testo) |
 | `tests/` | Test del parser su pagine reali salvate |
 | `.github/workflows/update.yml` | Aggiornamento automatico |
 
@@ -70,7 +86,7 @@ Per aggiornare a mano da GitHub: scheda **Actions**, workflow **Aggiorna program
 }
 ```
 
-`price` c'è solo per gli spettacoli di oggi. `vo` è dedotto dalla sala: se un film passa sia doppiato sia in originale nello stesso cinema, per i giorni futuri la deduzione può sbagliare.
+`price` c'è solo per gli spettacoli di oggi. `vo` è dedotto dalla sala e, se un cinema alterna doppiato e originale, dall'orario di oggi: per i giorni futuri resta una stima.
 
 ## Limiti noti
 
