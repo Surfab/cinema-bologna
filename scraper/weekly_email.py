@@ -238,34 +238,40 @@ def upcoming_meta(f: dict) -> str:
 
 # --------------------------------------------------------------------------- html
 
-CSS = """
-body{margin:0;padding:0;background:#F2F3EF;color:#1C2238;font-family:Helvetica,Arial,sans-serif;font-size:15px;line-height:1.45}
-.w{max-width:640px;margin:0 auto;padding:22px 16px 30px}
-h1{font-size:24px;line-height:1.15;margin:0 0 6px}
-.up{color:#585E73;font-size:13px;margin:0}
-.al{background:#fff;border-left:3px solid #C42B3A;padding:8px 10px;margin:12px 0 0;font-size:14px}
-h2{font-size:19px;margin:30px 0 4px;padding-top:12px;border-top:2px solid #1C2238}
-h2 span{color:#585E73;font-weight:normal;font-size:14px}
-.f{padding:12px 0;border-bottom:1px solid #D8DAD2}
-.t{font-size:17px;font-weight:bold;margin:0}
-.t a{color:#1C2238;text-decoration:none}
-.o{color:#585E73;font-weight:normal;font-size:14px}
-.m{color:#585E73;font-size:13px;margin:2px 0 6px}
-.c{margin:6px 0 0;font-size:14px}
-.c b{display:block}
-.g{color:#585E73;display:inline-block;min-width:46px}
-.h{background:#F4D3D8;color:#7B1F2D;border-radius:3px;padding:1px 5px;white-space:nowrap;font-weight:bold}
-.v{background:#CDEADB;color:#1C5A3B}
-.old .t{font-size:16px}
-.e{color:#585E73}
-.up2 h3{font-size:15px;margin:14px 0 4px}
-.u{margin:0 0 8px;font-size:14px}
-.u a{color:#1C2238}
-.u .m{margin:0}
-.b{display:inline-block;margin-top:2px;font-size:13px;color:#1C5A3B}
-.ft{color:#585E73;font-size:13px;margin-top:26px}
-.ft a{color:#1C2238}
-"""
+# Il connettore Gmail toglie <style> e gli attributi class, e la forma abbreviata
+# "background:". Per questo ogni stile sta direttamente sul tag (style="..."),
+# i colori di sfondo usano background-color/bgcolor e l'impaginazione usa tabelle.
+INK, MUTED, LINE, PAPER = "#1C2238", "#585E73", "#D8DAD2", "#F2F3EF"
+FONT = "font-family:Helvetica,Arial,sans-serif"
+S = {
+    "wrap": f"max-width:640px;margin:0 auto;padding:22px 16px 30px;color:{INK};{FONT};font-size:15px;line-height:1.45",
+    "h1": f"font-size:24px;line-height:1.15;margin:0 0 6px;color:{INK}",
+    "up": f"color:{MUTED};font-size:13px;margin:0",
+    "al": "background-color:#FFFFFF;border-left:3px solid #C42B3A;padding:8px 10px;margin:12px 0 0;font-size:14px",
+    "h2": f"font-size:19px;margin:30px 0 4px;padding-top:12px;border-top:2px solid {INK};color:{INK}",
+    "h2n": f"color:{MUTED};font-weight:normal;font-size:14px",
+    "f": f"padding:12px 0;border-bottom:1px solid {LINE}",
+    "t": f"font-size:17px;font-weight:bold;margin:0;color:{INK}",
+    "t_old": f"font-size:16px;font-weight:bold;margin:0;color:{INK}",
+    "ta": f"color:{INK};text-decoration:none",
+    "o": f"color:{MUTED};font-weight:normal;font-size:14px",
+    "m": f"color:{MUTED};font-size:13px;margin:2px 0 6px",
+    "cin": f"font-size:14px;font-weight:bold;margin:8px 0 2px;color:{INK}",
+    "grid": "border-collapse:collapse;font-size:14px",
+    # Le righe degli orari si ripetono centinaia di volte: stili corti, o Gmail
+    # taglia la mail oltre i 102 KB.
+    "day": f"color:{MUTED};padding:1px 10px 1px 0;white-space:nowrap",
+    "times": "color:#7B1F2D;font-weight:bold;padding:1px 0",
+    "v": "background-color:#CDEADB;color:#1C5A3B;padding:0 3px;white-space:nowrap",
+    "e": f"color:{MUTED}",
+    "h3": f"font-size:15px;margin:14px 0 4px;color:{INK}",
+    "u": "margin:0 0 8px;font-size:14px",
+    "ua": f"color:{INK}",
+    "um": f"color:{MUTED};font-size:13px",
+    "b": "font-size:13px;color:#1C5A3B",
+    "ft": f"color:{MUTED};font-size:13px;margin-top:26px",
+    "fta": f"color:{INK}",
+}
 
 
 def esc(s) -> str:
@@ -273,66 +279,70 @@ def esc(s) -> str:
 
 
 def render_html(w: dict) -> str:
-    def times_html(times: list) -> str:
-        return " ".join(
-            f'<span class="h v">{t} V.O.</span>' if vo else f'<span class="h">{t}</span>'
-            for t, vo in times
-        )
+    def link(url: Optional[str], text: str, style: str) -> str:
+        return f'<a href="{esc(url)}" style="{style}">{text}</a>' if url else text
 
-    def film_html(r: dict) -> str:
+    def times_html(times: list) -> str:
+        return " &nbsp;".join(f'<span style="{S["v"]}">{t} V.O.</span>' if vo else t for t, vo in times)
+
+    def film_html(r: dict, old: bool) -> str:
         f = r["film"]
-        title = esc(f["title"])
-        if f.get("scheda_url"):
-            title = f'<a href="{esc(f["scheda_url"])}">{title}</a>'
-        orig = f' <span class="o">({esc(f["original_title"])})</span>' if f.get("original_title") else ""
+        title = link(f.get("scheda_url"), esc(f["title"]), S["ta"])
+        orig = f' <span style="{S["o"]}">({esc(f["original_title"])})</span>' if f.get("original_title") else ""
         meta = film_meta(f, w["today"])
         places = "".join(
-            f'<p class="c"><b>{esc(p["cinema"])}</b>'
-            + "<br>".join(f'<span class="g">{esc(day["label"])}</span> {times_html(day["times"])}' for day in p["days"])
-            + "</p>"
+            f'<p style="{S["cin"]}">{esc(p["cinema"])}</p>'
+            f'<table role="presentation" cellpadding="0" cellspacing="0" style="{S["grid"]}">'
+            + "".join(
+                f'<tr valign="top"><td style="{S["day"]}">{esc(day["label"])}</td><td style="{S["times"]}">{times_html(day["times"])}</td></tr>'
+                for day in p["days"]
+            )
+            + "</table>"
             for p in r["places"]
         )
-        return f'<div class="f"><p class="t">{title}{orig}</p>{f"<p class=m>{esc(meta)}</p>" if meta else ""}{places}</div>'
+        meta_html = f'<p style="{S["m"]}">{esc(meta)}</p>' if meta else ""
+        return f'<div style="{S["f"]}"><p style="{S["t_old"] if old else S["t"]}">{title}{orig}</p>{meta_html}{places}</div>'
 
-    def section(title: str, rows: list, empty: str, cls: str = "") -> str:
-        body = "".join(film_html(r) for r in rows) or f'<p class="e">{esc(empty)}</p>'
-        return f'<div class="{cls}"><h2>{esc(title)} <span>{len(rows)}</span></h2>{body}</div>'
+    def section(title: str, rows: list, empty: str, old: bool = False) -> str:
+        body = "".join(film_html(r, old) for r in rows) or f'<p style="{S["e"]}">{esc(empty)}</p>'
+        return f'<h2 style="{S["h2"]}">{esc(title)} <span style="{S["h2n"]}">{len(rows)}</span></h2>{body}'
 
     def upcoming_html(up: Optional[dict]) -> str:
         if not up:
             return ""
-        parts = [f'<div class="up2"><h2>In uscita {esc(dal(up["from"]))} <span>{len(up["films"])}</span></h2>',
-                 '<p class="m">Uscite in tutta Italia: non tutti i film arrivano nei cinema di Bologna.</p>']
+        parts = [f'<h2 style="{S["h2"]}">In uscita {esc(dal(up["from"]))} <span style="{S["h2n"]}">{len(up["films"])}</span></h2>',
+                 f'<p style="{S["m"]}">Uscite in tutta Italia: non tutti i film arrivano nei cinema di Bologna.</p>']
         for day, group in group_by_day(up["films"]):
-            parts.append(f"<h3>{esc(DAYS_LONG[day.weekday()].capitalize())} {esc(long_date(day))}</h3>")
+            parts.append(f'<h3 style="{S["h3"]}">{esc(DAYS_LONG[day.weekday()].capitalize())} {esc(long_date(day))}</h3>')
             for f in group:
-                title = esc(f["title"])
-                if f.get("scheda_url"):
-                    title = f'<a href="{esc(f["scheda_url"])}">{title}</a>'
-                orig = f' <span class="o">({esc(f["original_title"])})</span>' if f.get("original_title") else ""
+                title = link(f.get("scheda_url"), esc(f["title"]), S["ua"])
+                orig = f' <span style="{S["o"]}">({esc(f["original_title"])})</span>' if f.get("original_title") else ""
                 extra = upcoming_meta(f)
-                here = f'<br><span class="b">Già in programma a Bologna: {esc(", ".join(f["in_bologna"]))}</span>' if f["in_bologna"] else ""
-                parts.append(f'<p class="u"><b>{title}</b>{orig}{f"<br><span class=m>{esc(extra)}</span>" if extra else ""}{here}</p>')
-        parts.append("</div>")
+                extra_html = f'<br><span style="{S["um"]}">{esc(extra)}</span>' if extra else ""
+                here = f'<br><span style="{S["b"]}">Già in programma a Bologna: {esc(", ".join(f["in_bologna"]))}</span>' if f["in_bologna"] else ""
+                parts.append(f'<p style="{S["u"]}"><b>{title}</b>{orig}{extra_html}{here}</p>')
         return "".join(parts)
 
     head = f"Da {DAYS_LONG[w['today'].weekday()]} {long_date(w['today'])} a {DAYS_LONG[w['end'].weekday()]} {long_date(w['end'])}"
     alert = ""
     if w["stale"]:
-        alert = f'<p class="al">Gli orari non si aggiornano da {w["stale"]:%d/%m alle %H:%M}: l\'aggiornamento automatico potrebbe essersi fermato. Controlla la scheda Actions su GitHub.</p>'
+        alert = f'<p style="{S["al"]}">Gli orari non si aggiornano da {w["stale"]:%d/%m alle %H:%M}: l\'aggiornamento automatico potrebbe essersi fermato. Controlla la scheda Actions su GitHub.</p>'
 
+    site = SITE.replace("https://", "").rstrip("/")
     return (
         '<!doctype html><html lang="it"><head><meta charset="utf-8">'
-        '<meta name="viewport" content="width=device-width,initial-scale=1">'
-        f"<style>{CSS.strip()}</style></head><body><div class=\"w\">"
-        f"<h1>Cinema a Bologna</h1><p class=\"up\">{esc(head)}. {esc(updated_line(w))}</p>{alert}"
+        '<meta name="viewport" content="width=device-width,initial-scale=1"></head>'
+        f'<body style="margin:0;padding:0;background-color:{PAPER}">'
+        f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="{PAPER}" style="background-color:{PAPER}"><tr><td>'
+        f'<div style="{S["wrap"]}">'
+        f'<h1 style="{S["h1"]}">Cinema a Bologna</h1><p style="{S["up"]}">{esc(head)}. {esc(updated_line(w))}</p>{alert}'
         + section("Nuovi questa settimana", w["new"], "Nessun film nuovo in programmazione a Bologna questa settimana.")
-        + section("Ancora in sala", w["old"], "Nessun altro film in programmazione.", "old")
+        + section("Ancora in sala", w["old"], "Nessun altro film in programmazione.", old=True)
         + upcoming_html(w.get("upcoming"))
-        + '<p class="ft">Molti cinema pubblicano gli orari pochi giorni alla volta: per il weekend ricontrolla sul sito.<br>'
-        f'Tutti gli orari, con i link per i biglietti: <a href="{SITE}">{SITE.replace("https://", "").rstrip("/")}</a><br>'
+        + f'<p style="{S["ft"]}">Molti cinema pubblicano gli orari pochi giorni alla volta: per il weekend ricontrolla sul sito.<br>'
+        f'Tutti gli orari, con i link per i biglietti: <a href="{SITE}" style="{S["fta"]}">{site}</a><br>'
         "Dati da ComingSoon.it.</p>"
-        "</div></body></html>\n"
+        "</div></td></tr></table></body></html>\n"
     )
 
 

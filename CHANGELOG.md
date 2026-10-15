@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-15, mail leggibile in Gmail
+
+- Il connettore Gmail toglie `<style>`, gli attributi `class` e la forma abbreviata `background:`: la mail arrivava senza grafica
+- `weekly_email.py` ora scrive gli stili direttamente sui tag e impagina giorni e orari in tabelle
+- Orari in grassetto colorato, V.O. con sfondo verde; HTML da 135 a 75 KB per restare sotto il taglio di Gmail (102 KB)
+- 1 test in più (31 in tutto)
+
 ## 2026-10-15, mail generata da GitHub Actions
 
 - Il giovedì (e a ogni lancio manuale) il workflow genera la mail dopo lo scraping e la salva in `data/email/` con un `summary.json`

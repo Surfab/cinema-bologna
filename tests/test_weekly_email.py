@@ -56,6 +56,16 @@ class WeeklyEmail(unittest.TestCase):
         self.assertNotIn("None", html + text)
         self.assertEqual(weekly_email.subject(w), "🎬 Cinema a Bologna dal 13 ottobre: 2 film nuovi")
 
+    def test_html_survives_gmail_sanitizer(self):
+        # Il connettore Gmail toglie <style>, class e "background:": lo stile deve stare sui tag.
+        w = weekly_email.build(self.data, {"updated_at": "2026-10-13T07:17+02:00"}, TODAY, self.upcoming())
+        html = weekly_email.render_html(w)
+        self.assertNotIn("<style", html)
+        self.assertNotIn("class=", html)
+        self.assertNotRegex(html, r"[;\"]background:")
+        self.assertIn("background-color:#CDEADB", html)                     # V.O. evidenziata
+        self.assertIn('<td style="color:#585E73;padding:1px 10px 1px 0;white-space:nowrap">mar 13</td>', html)
+
     def test_no_new_films_subject(self):
         w = weekly_email.build(self.data, None, dt.date(2026, 10, 15))
         self.assertIn("nessuna uscita nuova", weekly_email.subject(w))
