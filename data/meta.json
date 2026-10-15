@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-10-15T09:16+02:00",
- "duration_s": 128,
+ "updated_at": "2026-10-15T11:53+02:00",
+ "duration_s": 124,
  "healthy": true,
  "cinemas_ok": 21,
  "cinemas_failed": 0,
- "cinemas_with_shows": 15,
- "films": 22,
- "shows": 518,
+ "cinemas_with_shows": 16,
+ "films": 24,
+ "shows": 540,
  "warnings": []
 }

@@ -1,7 +1,7 @@
 Cinema a Bologna, da giovedì 15 ottobre a mercoledì 21 ottobre
-Orari aggiornati giovedì 15 ottobre alle 09:16.
+Orari aggiornati giovedì 15 ottobre alle 11:53.
 
-== Nuovi questa settimana (7) ==
+== Nuovi questa settimana (8) ==
 
 Je so' Pazzo
 Biografico. Al cinema dal 15 ottobre
@@ -127,7 +127,18 @@ Documentario, biografico. 84 min. Al cinema dal 15 ottobre
     mar 20: 18:50
     mer 21: 18:50
 
-== Ancora in sala (15) ==
+Fatherland
+Drammatico. 82 min. Esce il 16 ottobre
+  Lumière
+    gio 15: 15:45 V.O., 17:45 V.O., 20:00 V.O.
+    ven 16: 15:45 V.O., 17:45 V.O., 20:00 V.O.
+    sab 17: 15:45 V.O., 17:45 V.O., 20:00 V.O.
+    dom 18: 11:00 V.O., 15:45 V.O., 17:45 V.O., 20:00 V.O.
+    lun 19: 15:45 V.O., 17:45 V.O., 20:00 V.O.
+    mar 20: 15:45 V.O., 17:45 V.O., 20:00 V.O.
+    mer 21: 17:45 V.O., 20:00 V.O.
+
+== Ancora in sala (16) ==
 
 L'Estranea
 Drammatico, thriller. 115 min. Al cinema dall'8 ottobre
@@ -351,6 +362,11 @@ Ritorno a Buenos Aires (Volver a Buenos Aires)
 Drammatico. 104 min. Al cinema dal 17 settembre
   Roma d'Essai
     gio 15: 16:15 V.O., 18:30 V.O., 20:45 V.O.
+
+Un angelo alla mia tavola (An Angel at My Table)
+Drammatico. 159 min
+  Perla
+    gio 15: 20:00 V.O.
 
 == In uscita dal 22 ottobre (11) ==
 Uscite in tutta Italia: non tutti i film arrivano nei cinema di Bologna.

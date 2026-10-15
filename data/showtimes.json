@@ -33,7 +33,7 @@
    "short": "Perla",
    "address": "Via S. Donato, 34/2",
    "url": "https://www.comingsoon.it/cinema/bologna/cinema-perla/177/",
-   "active": false
+   "active": true
   },
   {
    "id": 182,
@@ -173,6 +173,27 @@
   }
  ],
  "films": [
+  {
+   "idf": "22713",
+   "cs_id": 68676,
+   "title": "Fatherland",
+   "original_title": "",
+   "genres": [
+    "Drammatico"
+   ],
+   "duration": 82,
+   "release_date": "2026-10-16",
+   "cast": [
+    "Sandra Hüller",
+    "Hanns Zischler",
+    "August Diehl",
+    "Anna Madeley"
+   ],
+   "rating": 3.7,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68676.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/fatherland/68676/scheda/",
+   "trailer_url": "https://www.comingsoon.it/film/fatherland/68676/video/"
+  },
   {
    "idf": "22661",
    "cs_id": 69177,
@@ -631,6 +652,27 @@
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68703.jpg",
    "scheda_url": "https://www.comingsoon.it/film/coyote-vs-acme/68703/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/coyote-vs-acme/68703/video/"
+  },
+  {
+   "idf": "2268",
+   "cs_id": 4612,
+   "title": "Un angelo alla mia tavola",
+   "original_title": "An Angel at My Table",
+   "genres": [
+    "Drammatico"
+   ],
+   "duration": 159,
+   "release_date": null,
+   "cast": [
+    "Glynis Angell",
+    "Melina Bernecker",
+    "Andrew Binns",
+    "William Brandt"
+   ],
+   "rating": 3.3,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/4612.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/un-angelo-alla-mia-tavola/4612/scheda/",
+   "trailer_url": null
   }
  ],
  "shows": [
@@ -725,6 +767,19 @@
    "tags": [],
    "price": 8.0,
    "url": "http://odeon.ccb.18tickets.it/film/nessun-dolore_2026-37183fc1-f9c6-4cfe-be7d-792c6dc159c5/844496#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-15",
+   "time": "15:45",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": 7.5,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753148#sala"
   },
   {
    "film": "22616",
@@ -986,6 +1041,19 @@
    "tags": [],
    "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003608/59661?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-15",
+   "time": "17:45",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": 7.5,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753150#sala"
   },
   {
    "film": "22304",
@@ -1308,6 +1376,32 @@
    ],
    "price": 7.5,
    "url": "http://cervi.cinetecabologna.18tickets.it/film/balcanica_2026-98c45588-b89f-433e-9177-52bcdce89f18/753187#sala"
+  },
+  {
+   "film": "2268",
+   "cinema": 177,
+   "date": "2026-10-15",
+   "time": "20:00",
+   "sala": "Sala 1",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": 7.0,
+   "url": null
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-15",
+   "time": "20:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": 7.5,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753149#sala"
   },
   {
    "film": "21315",
@@ -1731,6 +1825,19 @@
    "url": "http://odeon.ccb.18tickets.it/film/nessun-dolore_2026-37183fc1-f9c6-4cfe-be7d-792c6dc159c5/844497#sala"
   },
   {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-16",
+   "time": "15:45",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753175#sala"
+  },
+  {
    "film": "22616",
    "cinema": 5480,
    "date": "2026-10-16",
@@ -1955,6 +2062,19 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/il-tempo-di-anne-lol-2-_2026/844503#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-16",
+   "time": "17:45",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753151#sala"
   },
   {
    "film": "22304",
@@ -2229,6 +2349,19 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003608/59595?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-16",
+   "time": "20:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753176#sala"
   },
   {
    "film": "22488",
@@ -2617,6 +2750,19 @@
    "url": "http://odeon.ccb.18tickets.it/film/nessun-dolore_2026-37183fc1-f9c6-4cfe-be7d-792c6dc159c5/844498#sala"
   },
   {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-17",
+   "time": "15:45",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753163#sala"
+  },
+  {
    "film": "22616",
    "cinema": 5480,
    "date": "2026-10-17",
@@ -2863,6 +3009,19 @@
    "tags": [],
    "price": null,
    "url": "http://arlecchino.popupcinema.18tickets.it/film/rider_2026-08b3f1bd-20c9-4451-bfcf-3e263a8a80f1/842542#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-17",
+   "time": "17:45",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753152#sala"
   },
   {
    "film": "22284",
@@ -3128,6 +3287,19 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003608/59612?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-17",
+   "time": "20:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753164#sala"
   },
   {
    "film": "22488",
@@ -3437,6 +3609,19 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003608/59651?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-18",
+   "time": "11:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753183#sala"
+  },
+  {
    "film": "22494",
    "cinema": 171,
    "date": "2026-10-18",
@@ -3571,6 +3756,19 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/nessun-dolore_2026-37183fc1-f9c6-4cfe-be7d-792c6dc159c5/844499#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-18",
+   "time": "15:45",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753165#sala"
   },
   {
    "film": "22661",
@@ -3843,6 +4041,19 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59607?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-18",
+   "time": "17:45",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753153#sala"
+  },
+  {
    "film": "22259",
    "cinema": 174,
    "date": "2026-10-18",
@@ -4069,6 +4280,19 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003547/59587?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-18",
+   "time": "20:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753166#sala"
   },
   {
    "film": "22488",
@@ -4435,6 +4659,19 @@
    "url": "http://odeon.ccb.18tickets.it/film/il-tempo-di-anne-lol-2-_2026/844512#sala"
   },
   {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-19",
+   "time": "15:45",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753168#sala"
+  },
+  {
    "film": "22654",
    "cinema": 171,
    "date": "2026-10-19",
@@ -4613,6 +4850,19 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/il-tempo-di-anne-lol-2-_2026/844513#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-19",
+   "time": "17:45",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753154#sala"
   },
   {
    "film": "22661",
@@ -4808,6 +5058,19 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/il-tempo-di-anne-lol-2-_2026/844514#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-19",
+   "time": "20:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753169#sala"
   },
   {
    "film": "22616",
@@ -5077,6 +5340,19 @@
    "url": "http://odeon.ccb.18tickets.it/film/il-tempo-di-anne-lol-2-_2026/844515#sala"
   },
   {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-20",
+   "time": "15:45",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753172#sala"
+  },
+  {
    "film": "22616",
    "cinema": 5480,
    "date": "2026-10-20",
@@ -5290,6 +5566,19 @@
    "tags": [],
    "price": null,
    "url": "http://arlecchino.popupcinema.18tickets.it/film/naza-original-version_2026/842550#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-20",
+   "time": "17:45",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753155#sala"
   },
   {
    "film": "21315",
@@ -5518,6 +5807,19 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59544?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-20",
+   "time": "20:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753173#sala"
   },
   {
    "film": "22579",
@@ -6020,6 +6322,19 @@
    "url": "http://odeon.ccb.18tickets.it/film/il-tempo-di-anne-lol-2-_2026/844519#sala"
   },
   {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-21",
+   "time": "17:45",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753181#sala"
+  },
+  {
    "film": "22488",
    "cinema": 171,
    "date": "2026-10-21",
@@ -6268,6 +6583,19 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003909/59623?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-21",
+   "time": "20:00",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753156#sala"
   },
   {
    "film": "22579",
