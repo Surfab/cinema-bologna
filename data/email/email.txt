@@ -1,5 +1,5 @@
 Cinema a Bologna, da giovedì 15 ottobre a mercoledì 21 ottobre
-Orari aggiornati giovedì 15 ottobre alle 11:53.
+Orari aggiornati giovedì 15 ottobre alle 20:20.
 
 == Nuovi questa settimana (8) ==
 
@@ -22,7 +22,7 @@ Biografico. Al cinema dal 15 ottobre
     mar 20: 16:30, 18:45, 21:00
     mer 21: 16:30, 18:45, 21:00
   Fossolo
-    gio 15: 19:30, 19:45, 21:30, 21:45
+    gio 15: 19:30, 21:30, 21:45
     ven 16: 16:15, 18:30, 20:45
     sab 17: 16:15, 18:30, 20:45
     dom 18: 16:15, 18:30, 20:45
@@ -194,7 +194,7 @@ Commedia, drammatico, avventura. 129 min. Al cinema dal 1° ottobre
     mar 20: 21:30
     mer 21: 17:00
   Rialto
-    gio 15: 16:00 V.O., 18:35 V.O., 21:10 V.O.
+    gio 15: 21:10 V.O.
     ven 16: 16:00 V.O., 18:35 V.O., 21:10 V.O.
     sab 17: 16:00 V.O., 18:35 V.O., 21:10 V.O.
     dom 18: 16:00 V.O., 18:35 V.O., 21:10 V.O.
@@ -361,17 +361,18 @@ Thriller. 114 min. Al cinema dal 1° ottobre
 Ritorno a Buenos Aires (Volver a Buenos Aires)
 Drammatico. 104 min. Al cinema dal 17 settembre
   Roma d'Essai
-    gio 15: 16:15 V.O., 18:30 V.O., 20:45 V.O.
+    gio 15: 20:45 V.O.
 
 Un angelo alla mia tavola (An Angel at My Table)
 Drammatico. 159 min
   Perla
     gio 15: 20:00 V.O.
 
-== In uscita dal 22 ottobre (11) ==
+== In uscita dal 22 ottobre (12) ==
 Uscite in tutta Italia: non tutti i film arrivano nei cinema di Bologna.
 
 Lunedì 19 ottobre
+  I Diavoli (The Devils). Drammatico. Regia di Ken Russell
   Trainspotting. Drammatico. Regia di Danny Boyle
 
 Mercoledì 21 ottobre

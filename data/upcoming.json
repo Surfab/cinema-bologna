@@ -236,6 +236,20 @@
    "from": "2026-10-22",
    "films": [
     {
+     "cs_id": 8209,
+     "title": "I Diavoli",
+     "original_title": "The Devils",
+     "genres": [
+      "Drammatico"
+     ],
+     "year": "1971",
+     "director": "Ken Russell",
+     "distributor": "Dear, Warner Home Video...",
+     "release_date": "2026-10-19",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/8209.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/i-diavoli/8209/scheda/"
+    },
+    {
      "cs_id": 34841,
      "title": "Trainspotting",
      "original_title": "",
