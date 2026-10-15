@@ -41,7 +41,7 @@ Ogni giovedì mattina arriva una mail con i film della settimana (da giovedì a 
 - **In uscita dal giovedì successivo**: le uscite italiane della settimana dopo, con genere e regia, e i cinema di Bologna che le hanno già in programma
 - Per ogni film in sala: cinema, giorni e orari, con la V.O. evidenziata
 
-La mail la prepara `scraper/weekly_email.py` (solo libreria standard, testato in CI). Un task programmato di Claude la scarica da questo repo e la spedisce con Gmail. Per provarla in locale:
+La mail la prepara `scraper/weekly_email.py` (solo libreria standard, testato in CI). Il giovedì il workflow la genera dopo lo scraping e la salva in `data/email/`; un task programmato di Claude scarica quei file di testo, controlla che `summary.json` riporti la settimana di oggi e li spedisce con Gmail, senza eseguire codice. Per provarla in locale:
 
 ```bash
 python scraper/weekly_email.py --data data/showtimes.json --meta data/meta.json \
@@ -57,6 +57,7 @@ open /tmp/mail/email.html
 | `data/showtimes.json` | Cinema, film e spettacoli (generato) |
 | `data/meta.json` | Ora e stato dell'ultimo aggiornamento (generato) |
 | `data/upcoming.json` | Uscite italiane di questa settimana e della prossima (generato) |
+| `data/email/` | Mail del giovedì pronta da spedire: `subject.txt`, `email.html`, `email.txt`, `summary.json` (generato il giovedì) |
 | `scraper/scrape.py` | Lo scraper |
 | `scraper/cinemas.json` | I 21 cinema seguiti, con nome breve e indirizzo |
 | `scraper/weekly_email.py` | Genera la mail del giovedì (oggetto, HTML, testo) |

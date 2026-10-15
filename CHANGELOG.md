@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-15, mail generata da GitHub Actions
+
+- Il giovedì (e a ogni lancio manuale) il workflow genera la mail dopo lo scraping e la salva in `data/email/` con un `summary.json`
+- Il task di Claude non esegue più lo script: scarica i file pronti e li spedisce. L'ambiente cloud bloccava l'esecuzione di codice scaricato
+- Se la generazione fallisce, gli orari vengono salvati lo stesso
+
 ## 2026-10-13, uscite della settimana dopo
 
 - Lo scraper legge il calendario uscite di comingsoon (settimana corrente e successiva) e scrive `data/upcoming.json`; se la pagina non risponde, il giro va avanti con un avviso

@@ -42,6 +42,24 @@ jobs:
       - name: Scarica orari da comingsoon.it
         run: python scraper/scrape.py --out data
 
+      # Il giovedi' (e a ogni lancio manuale) prepara anche la mail della settimana,
+      # cosi' chi la spedisce deve solo scaricare tre file di testo, senza eseguire codice.
+      # Se fallisce non blocca il salvataggio degli orari: chi spedisce se ne accorge
+      # perche' data/email/summary.json non riporta la settimana di oggi.
+      - name: Prepara la mail del giovedi'
+        continue-on-error: true
+        run: |
+          if [ "${{ github.event_name }}" != "workflow_dispatch" ] && [ "$(TZ=Europe/Rome date +%u)" != "4" ]; then
+            echo "Oggi non e' giovedi', niente mail."
+            exit 0
+          fi
+          python scraper/weekly_email.py --data data/showtimes.json --meta data/meta.json \
+            --upcoming data/upcoming.json --out "$RUNNER_TEMP/email" > "$RUNNER_TEMP/summary.json"
+          cp "$RUNNER_TEMP/summary.json" "$RUNNER_TEMP/email/"
+          mkdir -p data/email
+          cp "$RUNNER_TEMP"/email/* data/email/
+          cat data/email/summary.json
+
       - name: Salva i dati se sono cambiati
         run: |
           git config user.name "github-actions[bot]"
