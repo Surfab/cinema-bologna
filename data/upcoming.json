@@ -3,236 +3,6 @@
  "source": "https://www.comingsoon.it/cinema/calendariouscite/",
  "weeks": [
   {
-   "from": "2026-10-15",
-   "films": [
-    {
-     "cs_id": 69318,
-     "title": "Always Lalisa",
-     "original_title": "",
-     "genres": [
-      "Musicale",
-      "Documentario"
-     ],
-     "year": "2026",
-     "director": "Sue Kim",
-     "distributor": "Nexo Studios",
-     "release_date": "2026-10-12",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69318.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/always-lalisa/69318/scheda/"
-    },
-    {
-     "cs_id": 5345,
-     "title": "Essi vivono",
-     "original_title": "They Live",
-     "genres": [
-      "Fantasy"
-     ],
-     "year": "1988",
-     "director": "John Carpenter",
-     "distributor": "Filmclub Distribuzione...",
-     "release_date": "2026-10-12",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/5345.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/essi-vivono/5345/scheda/"
-    },
-    {
-     "cs_id": 9420,
-     "title": "Il dottor Stranamore",
-     "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-     "genres": [
-      "Commedia",
-      "Guerra"
-     ],
-     "year": "1964",
-     "director": "Stanley Kubrick",
-     "distributor": "CEIAD, Columbia Pictures...",
-     "release_date": "2026-10-12",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/9420.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/il-dottor-stranamore/9420/scheda/"
-    },
-    {
-     "cs_id": 69308,
-     "title": "Carlo Acutis. Il Giovane Santo",
-     "original_title": "",
-     "genres": [
-      "Documentario",
-      "Biografico"
-     ],
-     "year": "2026",
-     "director": "Luca Salmaso",
-     "distributor": "Nexo Studios",
-     "release_date": "2026-10-15",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69308.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/carlo-acutis-il-giovane-santo/69308/scheda/"
-    },
-    {
-     "cs_id": 67385,
-     "title": "Frankie e le Creature Dimenticate",
-     "original_title": "Stitch Head",
-     "genres": [
-      "Animazione",
-      "Avventura",
-      "Commedia",
-      "Fantasy"
-     ],
-     "year": "2025",
-     "director": "Steve Hudson",
-     "distributor": "Vertice360",
-     "release_date": "2026-10-15",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67385.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/frankie-e-le-creature-dimenticate/67385/scheda/"
-    },
-    {
-     "cs_id": 67994,
-     "title": "Il Tempo di Anne",
-     "original_title": "LOL 2.0",
-     "genres": [
-      "Commedia"
-     ],
-     "year": "2026",
-     "director": "Lisa Azuelos",
-     "distributor": "Europictures",
-     "release_date": "2026-10-15",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67994.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/il-tempo-di-anne/67994/scheda/"
-    },
-    {
-     "cs_id": 67032,
-     "title": "Je So' Pazzo",
-     "original_title": "Je so' Pazzo",
-     "genres": [
-      "Biografico"
-     ],
-     "year": "2026",
-     "director": "Nicola Prosatore",
-     "distributor": "01 Distribution",
-     "release_date": "2026-10-15",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67032.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/je-so-pazzo/67032/scheda/"
-    },
-    {
-     "cs_id": 69424,
-     "title": "Jumbo",
-     "original_title": "",
-     "genres": [
-      "Animazione",
-      "Avventura",
-      "Family"
-     ],
-     "year": "2025",
-     "director": "Ryan Adriandhy",
-     "distributor": "Amaranta Frame",
-     "release_date": "2026-10-15",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69424.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/jumbo/69424/scheda/"
-    },
-    {
-     "cs_id": 69307,
-     "title": "La Bambola",
-     "original_title": "La Poupée",
-     "genres": [
-      "Commedia",
-      "Sentimentale"
-     ],
-     "year": "2025",
-     "director": "Sophie Beaulieu",
-     "distributor": "No.Mad Entertainment",
-     "release_date": "2026-10-15",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69307.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/la-bambola/69307/scheda/"
-    },
-    {
-     "cs_id": 68904,
-     "title": "Primetime",
-     "original_title": "",
-     "genres": [
-      "Biografico",
-      "Thriller",
-      "Drammatico"
-     ],
-     "year": "2026",
-     "director": "Lance Oppenheim",
-     "distributor": "I Wonder Pictures",
-     "release_date": "2026-10-15",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68904.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/primetime/68904/scheda/"
-    },
-    {
-     "cs_id": 67744,
-     "title": "Street Fighter",
-     "original_title": "",
-     "genres": [
-      "Azione",
-      "Avventura",
-      "Fantasy"
-     ],
-     "year": "2026",
-     "director": "Kitao Sakurai",
-     "distributor": "Eagle Pictures",
-     "release_date": "2026-10-15",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67744.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/street-fighter/67744/scheda/"
-    },
-    {
-     "cs_id": 68965,
-     "title": "Whalefall: Nella Balena",
-     "original_title": "Whalefall",
-     "genres": [
-      "Thriller",
-      "Avventura",
-      "Drammatico"
-     ],
-     "year": "2026",
-     "director": "Brian Duffield",
-     "distributor": "The Walt Disney Company...",
-     "release_date": "2026-10-15",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68965.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/whalefall-nella-balena/68965/scheda/"
-    },
-    {
-     "cs_id": 69177,
-     "title": "Zustissia",
-     "original_title": "",
-     "genres": [
-      "Drammatico"
-     ],
-     "year": "2026",
-     "director": null,
-     "distributor": "PiperFilm",
-     "release_date": "2026-10-15",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69177.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/zustissia/69177/scheda/"
-    },
-    {
-     "cs_id": 68676,
-     "title": "Fatherland",
-     "original_title": "",
-     "genres": [
-      "Drammatico"
-     ],
-     "year": "2026",
-     "director": "Pawel Pawlikowski",
-     "distributor": "MUBI",
-     "release_date": "2026-10-16",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68676.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/fatherland/68676/scheda/"
-    },
-    {
-     "cs_id": 68566,
-     "title": "Se Ami Qualcuno Dillo",
-     "original_title": "",
-     "genres": [
-      "Commedia"
-     ],
-     "year": "2026",
-     "director": "Marco Bonini",
-     "distributor": "Vision Distribution",
-     "release_date": "2026-10-16",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68566.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/se-ami-qualcuno-dillo/68566/scheda/"
-    }
-   ]
-  },
-  {
    "from": "2026-10-22",
    "films": [
     {
@@ -264,32 +34,19 @@
      "scheda_url": "https://www.comingsoon.it/film/trainspotting/34841/scheda/"
     },
     {
-     "cs_id": 69011,
-     "title": "Taddeo - L'Esploratore e la Lampada Magica",
-     "original_title": "Tadeo Jones y la lámpara maravillosa",
-     "genres": [
-      "Animazione",
-      "Avventura"
-     ],
-     "year": "2026",
-     "director": "Enrique Gato",
-     "distributor": "Eagle Pictures",
-     "release_date": "2026-10-21",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/ico/def.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/taddeo-l-esploratore-e-la-lampada-magica/69011/scheda/"
-    },
-    {
      "cs_id": 67509,
      "title": "Caro Mondo Crudele",
      "original_title": "",
      "genres": [
-      "Drammatico"
+      "Avventura",
+      "Drammatico",
+      "Commedia"
      ],
      "year": "2026",
      "director": "Niccolò Falsetti",
      "distributor": "Fandango Distribuzione",
      "release_date": "2026-10-22",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/ico/def.jpg",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67509.jpg",
      "scheda_url": "https://www.comingsoon.it/film/caro-mondo-crudele/67509/scheda/"
     },
     {
@@ -364,6 +121,21 @@
      "scheda_url": "https://www.comingsoon.it/film/ragione-e-sentimento/67762/scheda/"
     },
     {
+     "cs_id": 69011,
+     "title": "Taddeo - L'Esploratore e la Lampada Magica",
+     "original_title": "Tadeo Jones y la lámpara maravillosa",
+     "genres": [
+      "Animazione",
+      "Avventura"
+     ],
+     "year": "2026",
+     "director": "Enrique Gato",
+     "distributor": "Eagle Pictures",
+     "release_date": "2026-10-22",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69011.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/taddeo-l-esploratore-e-la-lampada-magica/69011/scheda/"
+    },
+    {
      "cs_id": 67117,
      "title": "Urchin",
      "original_title": "",
@@ -407,6 +179,235 @@
      "release_date": "2026-10-25",
      "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69480.jpg",
      "scheda_url": "https://www.comingsoon.it/film/making-marie-antoinette/69480/scheda/"
+    }
+   ]
+  },
+  {
+   "from": "2026-10-29",
+   "films": [
+    {
+     "cs_id": 1111,
+     "title": "Matrix",
+     "original_title": "The Matrix",
+     "genres": [
+      "Fantascienza",
+      "Azione"
+     ],
+     "year": "1999",
+     "director": "Lana Wachowski, Lilly Wachowski",
+     "distributor": "Warner Bros.",
+     "release_date": "2026-10-26",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/1111.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/matrix/1111/scheda/"
+    },
+    {
+     "cs_id": 69144,
+     "title": "Carla Lonzi, dentro e fuori dal mondo",
+     "original_title": "",
+     "genres": [
+      "Documentario"
+     ],
+     "year": "2026",
+     "director": "Francesca Archibugi",
+     "distributor": "Fandango Distribuzione",
+     "release_date": "2026-10-28",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69144.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/carla-lonzi-dentro-e-fuori-dal-mondo/69144/scheda/"
+    },
+    {
+     "cs_id": 69425,
+     "title": "Elon Musk Unveiled. The tesla Experiment",
+     "original_title": "",
+     "genres": [
+      "Documentario"
+     ],
+     "year": "2025",
+     "director": "Andreas Pichler",
+     "distributor": "Kublai Film",
+     "release_date": "2026-10-28",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69425.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/elon-musk-unveiled-the-tesla-experiment/69425/scheda/"
+    },
+    {
+     "cs_id": 69154,
+     "title": "It Ends",
+     "original_title": "",
+     "genres": [
+      "Drammatico",
+      "Fantascienza",
+      "Horror"
+     ],
+     "year": "2025",
+     "director": "Alex Ullom",
+     "distributor": "I Wonder Pictures",
+     "release_date": "2026-10-28",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69154.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/it-ends/69154/scheda/"
+    },
+    {
+     "cs_id": 69493,
+     "title": "Ozzy & Black Sabbath: Back To The Beginning",
+     "original_title": "",
+     "genres": [
+      "Documentario",
+      "Musicale"
+     ],
+     "year": "2026",
+     "director": "Ben Wainwright-Pearce",
+     "distributor": "Nexo Studios",
+     "release_date": "2026-10-28",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69493.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/ozzy-e-black-sabbath-back-to-the-beginning/69493/scheda/"
+    },
+    {
+     "cs_id": 68572,
+     "title": "Shaun, Vita da Pecora: Operazione Z.U.C.C.A.",
+     "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+     "genres": [
+      "Animazione",
+      "Commedia",
+      "Azione",
+      "Family"
+     ],
+     "year": "2026",
+     "director": "Steve Cox, Matthew Walker",
+     "distributor": "Lucky Red",
+     "release_date": "2026-10-28",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68572.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/shaun-vita-da-pecora-operazione-z-u-c-c-a/68572/scheda/"
+    },
+    {
+     "cs_id": 69232,
+     "title": "Alberi Erranti",
+     "original_title": "",
+     "genres": [
+      "Drammatico",
+      "Fantasy"
+     ],
+     "year": "2026",
+     "director": "Salvatore Mereu",
+     "distributor": "Viacolvento",
+     "release_date": "2026-10-29",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69232.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/alberi-erranti/69232/scheda/"
+    },
+    {
+     "cs_id": 69130,
+     "title": "Dio Ride",
+     "original_title": "",
+     "genres": [
+      "Drammatico",
+      "Storico",
+      "Commedia"
+     ],
+     "year": "2026",
+     "director": "Giovanni Veronesi",
+     "distributor": "Piperfilm",
+     "release_date": "2026-10-29",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69130.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/dio-ride/69130/scheda/"
+    },
+    {
+     "cs_id": 1291,
+     "title": "Fast and Furious",
+     "original_title": "The Fast and the Furious",
+     "genres": [
+      "Azione",
+      "Thriller"
+     ],
+     "year": "2001",
+     "director": "Rob Cohen",
+     "distributor": "Universal Pictures...",
+     "release_date": "2026-10-29",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/1291.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/fast-and-furious/1291/scheda/"
+    },
+    {
+     "cs_id": 69251,
+     "title": "La Maison des Femmes - La Casa delle Donne",
+     "original_title": "La Maison des Femmes",
+     "genres": [
+      "Drammatico"
+     ],
+     "year": "2025",
+     "director": "Melisa Godet",
+     "distributor": "Satine Film",
+     "release_date": "2026-10-29",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69251.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/la-maison-des-femmes-la-casa-delle-donne/69251/scheda/"
+    },
+    {
+     "cs_id": 68680,
+     "title": "Minotaur",
+     "original_title": "",
+     "genres": [
+      "Drammatico",
+      "Thriller"
+     ],
+     "year": "2026",
+     "director": "Andrey Zvyagintsev",
+     "distributor": "BIM Distribuzione",
+     "release_date": "2026-10-29",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68680.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/minotaur/68680/scheda/"
+    },
+    {
+     "cs_id": 68448,
+     "title": "Nel Silenzio delle Stanze",
+     "original_title": "La Condition",
+     "genres": [
+      "Drammatico"
+     ],
+     "year": "2025",
+     "director": "Jerome Bonnell",
+     "distributor": "Officine UBU",
+     "release_date": "2026-10-29",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68448.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/nel-silenzio-delle-stanze/68448/scheda/"
+    },
+    {
+     "cs_id": 68729,
+     "title": "Un Tranquillo Funerale di Famiglia",
+     "original_title": "Un tranquillo funerale di famiglia",
+     "genres": [
+      "Commedia"
+     ],
+     "year": "2026",
+     "director": "Massimiliano Bruno",
+     "distributor": "01 Distribution",
+     "release_date": "2026-10-29",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68729.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/un-tranquillo-funerale-di-famiglia/68729/scheda/"
+    },
+    {
+     "cs_id": 36526,
+     "title": "Dracula di Bram Stoker",
+     "original_title": "Bram Stoker's Dracula",
+     "genres": [
+      "Horror",
+      "Drammatico",
+      "Thriller"
+     ],
+     "year": "1992",
+     "director": "Francis Ford Coppola",
+     "distributor": "Columbia Tristar Films,...",
+     "release_date": "2026-10-30",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/36526.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/dracula-di-bram-stoker/36526/scheda/"
+    },
+    {
+     "cs_id": 69215,
+     "title": "Everest: The Other Side",
+     "original_title": "",
+     "genres": [
+      "Documentario"
+     ],
+     "year": "2026",
+     "director": "Elizabeth Chai Vasarhelyi, Jimmy Chin",
+     "distributor": "The Walt Disney Company...",
+     "release_date": "2026-10-30",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69215.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/everest-the-other-side/69215/scheda/"
     }
    ]
   }
