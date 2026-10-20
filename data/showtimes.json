@@ -718,11 +718,11 @@
    "cinema": 170,
    "date": "2026-10-20",
    "time": "15:00",
-   "sala": "Medica",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/839093#sala"
+   "url": null
   },
   {
    "film": "22488",
@@ -733,7 +733,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003909/59625?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22259",
@@ -744,7 +744,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003830/59734?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22650",
@@ -755,7 +755,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003547/59671?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22145",
@@ -768,55 +768,55 @@
     "V.O."
    ],
    "price": 8.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/the-invite-il-piacere-e-tutto-nostro_2026/753313#sala"
+   "url": null
   },
   {
    "film": "22620",
    "cinema": 174,
    "date": "2026-10-20",
    "time": "15:45",
-   "sala": "Odeon D",
+   "sala": "Sala D",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://odeon.ccb.18tickets.it/film/il-tempo-di-anne-lol-2-_2026/844515#sala"
+   "url": null
   },
   {
    "film": "22713",
    "cinema": 5075,
    "date": "2026-10-20",
    "time": "15:45",
-   "sala": "Mastroianni",
+   "sala": "Sala Off. / Mastroianni",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753172#sala"
+   "url": null
   },
   {
    "film": "22616",
    "cinema": 5480,
    "date": "2026-10-20",
    "time": "15:45",
-   "sala": "Cervi",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://cervi.cinetecabologna.18tickets.it/film/balcanica_2026-98c45588-b89f-433e-9177-52bcdce89f18/753265#sala"
+   "url": null
   },
   {
    "film": "22304",
    "cinema": 152,
    "date": "2026-10-20",
    "time": "16:00",
-   "sala": "ARLECCHINO",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/rider_2026-08b3f1bd-20c9-4451-bfcf-3e263a8a80f1/842552#sala"
+   "url": null
   },
   {
    "film": "22357",
@@ -827,29 +827,29 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003881/59647?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22430",
    "cinema": 178,
    "date": "2026-10-20",
    "time": "16:00",
-   "sala": "Rialto 2",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/844412#sala"
+   "url": null
   },
   {
    "film": "22713",
    "cinema": 179,
    "date": "2026-10-20",
    "time": "16:00",
-   "sala": "Roma D'Essai",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/844560#sala"
+   "url": null
   },
   {
    "film": "22713",
@@ -860,29 +860,29 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003862/59549?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 161,
    "date": "2026-10-20",
    "time": "16:15",
-   "sala": "Sala1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/988916#sala"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 174,
    "date": "2026-10-20",
    "time": "16:15",
-   "sala": "Odeon B",
+   "sala": "Sala B",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/844468#sala"
+   "url": null
   },
   {
    "film": "22579",
@@ -893,40 +893,40 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59580?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22357",
    "cinema": 174,
    "date": "2026-10-20",
    "time": "16:20",
-   "sala": "Odeon C",
+   "sala": "Sala C",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://odeon.ccb.18tickets.it/film/se-ami-qualcuno-dillo_2026/844490#sala"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 178,
    "date": "2026-10-20",
    "time": "16:20",
-   "sala": "Rialto 1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/844389#sala"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 161,
    "date": "2026-10-20",
    "time": "16:30",
-   "sala": "Sala 3",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/988934#sala"
+   "url": null
   },
   {
    "film": "22654",
@@ -937,40 +937,40 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003756/59564?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 174,
    "date": "2026-10-20",
    "time": "16:30",
-   "sala": "Odeon A",
+   "sala": "Sala A",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/844449#sala"
+   "url": null
   },
   {
    "film": "22357",
    "cinema": 181,
    "date": "2026-10-20",
    "time": "16:30",
-   "sala": "SALA CHAPLIN",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 9.0,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1848/37661"
+   "url": null
   },
   {
    "film": "22490",
    "cinema": 4587,
    "date": "2026-10-20",
    "time": "16:30",
-   "sala": "Europa Cinema",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://europa.ccb.18tickets.it/film/la-citta-dei-vivi_2026/844088#sala"
+   "url": null
   },
   {
    "film": "22661",
@@ -981,7 +981,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003863/59602?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22524",
@@ -992,88 +992,88 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003883/59626?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22145",
    "cinema": 167,
    "date": "2026-10-20",
    "time": "17:15",
-   "sala": "Jolly",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://jolly.popupcinema.18tickets.it/film/original-version-the-invite-il-piacere-e-tutto-nostro_2026-b138fa6a-e53b-4fe9-be22-9187b7aea620/842588#sala"
+   "url": null
   },
   {
    "film": "22524",
    "cinema": 170,
    "date": "2026-10-20",
    "time": "17:15",
-   "sala": "Medica",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": null,
-   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/839079#sala"
+   "url": null
   },
   {
    "film": "22430",
    "cinema": 5075,
    "date": "2026-10-20",
    "time": "17:30",
-   "sala": "Mastroianni",
+   "sala": "Sala Off. / Mastroianni",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/753287#sala"
+   "url": null
   },
   {
    "film": "22661",
    "cinema": 5480,
    "date": "2026-10-20",
    "time": "17:30",
-   "sala": "Cervi",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 7.5,
-   "url": "http://cervi.cinetecabologna.18tickets.it/film/zustissia_2026-0ba9445f-04f5-4b64-ad3b-ef3993e8e8ef/753277#sala"
+   "url": null
   },
   {
    "film": "22620",
    "cinema": 174,
    "date": "2026-10-20",
    "time": "17:40",
-   "sala": "Odeon D",
+   "sala": "Sala D",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/il-tempo-di-anne-lol-2-_2026/844516#sala"
+   "url": null
   },
   {
    "film": "22488",
    "cinema": 152,
    "date": "2026-10-20",
    "time": "17:45",
-   "sala": "ARLECCHINO",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/naza-original-version_2026/842550#sala"
+   "url": null
   },
   {
    "film": "22713",
    "cinema": 179,
    "date": "2026-10-20",
    "time": "17:45",
-   "sala": "Roma D'Essai",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/844561#sala"
+   "url": null
   },
   {
    "film": "22713",
@@ -1086,7 +1086,7 @@
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753155#sala"
+   "url": null
   },
   {
    "film": "21315",
@@ -1097,18 +1097,18 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003608/59672?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 161,
    "date": "2026-10-20",
    "time": "18:30",
-   "sala": "Sala1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/988917#sala"
+   "url": null
   },
   {
    "film": "22661",
@@ -1119,51 +1119,51 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003863/59550?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22430",
    "cinema": 178,
    "date": "2026-10-20",
    "time": "18:35",
-   "sala": "Rialto 2",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/844413#sala"
+   "url": null
   },
   {
    "film": "22357",
    "cinema": 174,
    "date": "2026-10-20",
    "time": "18:40",
-   "sala": "Odeon C",
+   "sala": "Sala C",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/se-ami-qualcuno-dillo_2026/844491#sala"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 178,
    "date": "2026-10-20",
    "time": "18:40",
-   "sala": "Rialto 1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/844390#sala"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 161,
    "date": "2026-10-20",
    "time": "18:45",
-   "sala": "Sala 3",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/988935#sala"
+   "url": null
   },
   {
    "film": "22524",
@@ -1174,53 +1174,53 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003883/59735?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 174,
    "date": "2026-10-20",
    "time": "18:45",
-   "sala": "Odeon B",
+   "sala": "Sala B",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/844469#sala"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 174,
    "date": "2026-10-20",
    "time": "18:45",
-   "sala": "Odeon A",
+   "sala": "Sala A",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/844450#sala"
+   "url": null
   },
   {
    "film": "22357",
    "cinema": 181,
    "date": "2026-10-20",
    "time": "18:45",
-   "sala": "SALA CHAPLIN",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 9.0,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1848/37662"
+   "url": null
   },
   {
    "film": "22160",
    "cinema": 4587,
    "date": "2026-10-20",
    "time": "18:45",
-   "sala": "Europa Cinema",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 10.0,
-   "url": "http://europa.ccb.18tickets.it/film/coyote-vs-acme_2026-31742f61-29db-489f-88d0-8012d3cc81a8/844099#sala"
+   "url": null
   },
   {
    "film": "22223",
@@ -1231,7 +1231,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003843/59020?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22524",
@@ -1242,7 +1242,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003883/59033?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22661",
@@ -1253,29 +1253,29 @@
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://cinema.nosadella.18tickets.it/film/zustissia_2026/753138#sala"
+   "url": null
   },
   {
    "film": "22304",
    "cinema": 152,
    "date": "2026-10-20",
    "time": "19:30",
-   "sala": "ARLECCHINO",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/rider_2026-08b3f1bd-20c9-4451-bfcf-3e263a8a80f1/842553#sala"
+   "url": null
   },
   {
    "film": "22524",
    "cinema": 170,
    "date": "2026-10-20",
    "time": "19:30",
-   "sala": "Medica",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/839094#sala"
+   "url": null
   },
   {
    "film": "2174",
@@ -1286,7 +1286,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003896/59030?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22579",
@@ -1297,18 +1297,18 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59009?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22713",
    "cinema": 179,
    "date": "2026-10-20",
    "time": "19:30",
-   "sala": "Roma D'Essai",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/844562#sala"
+   "url": null
   },
   {
    "film": "22430",
@@ -1321,42 +1321,42 @@
     "V.O."
    ],
    "price": 7.0,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/753300#sala"
+   "url": null
   },
   {
    "film": "22662",
    "cinema": 5817,
    "date": "2026-10-20",
    "time": "19:30",
-   "sala": "Modernissimo",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 7.5,
-   "url": "http://modernissimo.cinetecabologna.18tickets.it/film/caro-mondo-crudele_2026/743110#sala"
+   "url": null
   },
   {
    "film": "22620",
    "cinema": 174,
    "date": "2026-10-20",
    "time": "19:35",
-   "sala": "Odeon D",
+   "sala": "Sala D",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/il-tempo-di-anne-lol-2-_2026/844517#sala"
+   "url": null
   },
   {
    "film": "22616",
    "cinema": 5480,
    "date": "2026-10-20",
    "time": "19:45",
-   "sala": "Cervi",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://cervi.cinetecabologna.18tickets.it/film/balcanica_2026-98c45588-b89f-433e-9177-52bcdce89f18/753266#sala"
+   "url": null
   },
   {
    "film": "22579",
@@ -1367,20 +1367,20 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59544?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22713",
    "cinema": 5075,
    "date": "2026-10-20",
    "time": "20:00",
-   "sala": "Mastroianni",
+   "sala": "Sala Off. / Mastroianni",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/753173#sala"
+   "url": null
   },
   {
    "film": "22579",
@@ -1830,6 +1830,19 @@
    "tags": [],
    "price": null,
    "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/844563#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-10-21",
+   "time": "16:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756755#sala"
   },
   {
    "film": "22304",
@@ -2458,6 +2471,19 @@
    "url": "http://roma.ccb.18tickets.it/film/fatherland_2026-108135e0-0687-4591-87d0-9e4549673d64/844548#sala"
   },
   {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-21",
+   "time": "21:15",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756756#sala"
+  },
+  {
    "film": "22661",
    "cinema": 5085,
    "date": "2026-10-21",
@@ -2595,6 +2621,298 @@
   },
   {
    "film": "22713",
+   "cinema": 171,
+   "date": "2026-10-22",
+   "time": "15:00",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003862/59809?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22223",
+   "cinema": 171,
+   "date": "2026-10-22",
+   "time": "15:30",
+   "sala": "Sala 5",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003843/59855?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-22",
+   "time": "16:00",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59829?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-22",
+   "time": "16:00",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/847677#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-22",
+   "time": "16:00",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847570#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-22",
+   "time": "16:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847624#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-22",
+   "time": "16:15",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756734#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-22",
+   "time": "16:20",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847645#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-22",
+   "time": "16:30",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993864#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-22",
+   "time": "16:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847698#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-22",
+   "time": "17:15",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59810?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-10-22",
+   "time": "17:30",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756658#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-22",
+   "time": "17:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993882#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-22",
+   "time": "17:45",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847571#sala"
+  },
+  {
+   "film": "22661",
+   "cinema": 171,
+   "date": "2026-10-22",
+   "time": "18:20",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003863/59872?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-22",
+   "time": "18:35",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/847678#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-22",
+   "time": "18:40",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59830?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-22",
+   "time": "18:40",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847646#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-22",
+   "time": "18:45",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993865#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-22",
+   "time": "18:45",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847625#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-22",
+   "time": "18:45",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847699#sala"
+  },
+  {
+   "film": "21315",
+   "cinema": 171,
+   "date": "2026-10-22",
+   "time": "19:10",
+   "sala": "Sala 8",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003608/59891?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22661",
+   "cinema": 5085,
+   "date": "2026-10-22",
+   "time": "19:15",
+   "sala": "Sala Scalo",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cinema.nosadella.18tickets.it/film/zustissia_2026/756930#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-22",
+   "time": "19:30",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847572#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-22",
+   "time": "19:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993883#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-22",
+   "time": "20:00",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756736#sala"
+  },
+  {
+   "film": "22713",
    "cinema": 153,
    "date": "2026-10-22",
    "time": "21:00",
@@ -2603,6 +2921,370 @@
    "tags": [],
    "price": null,
    "url": "https://ticket.cinebot.it/bellinzona/evento/2188"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-22",
+   "time": "21:00",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993866#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 171,
+   "date": "2026-10-22",
+   "time": "21:00",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003830/59873?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-22",
+   "time": "21:00",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847700#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-22",
+   "time": "21:00",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847647#sala"
+  },
+  {
+   "film": "22661",
+   "cinema": 5480,
+   "date": "2026-10-22",
+   "time": "21:00",
+   "sala": "Cervi",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/zustissia_2026-0ba9445f-04f5-4b64-ad3b-ef3993e8e8ef/756873#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-22",
+   "time": "21:10",
+   "sala": "Rialto 2",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026-1a207fe0-ac58-463b-9a60-55f06cbf6c18/847690#sala"
+  },
+  {
+   "film": "21315",
+   "cinema": 171,
+   "date": "2026-10-22",
+   "time": "21:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003608/59831?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-22",
+   "time": "21:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847626#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-22",
+   "time": "21:15",
+   "sala": "Roma D'Essai",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026-108135e0-0687-4591-87d0-9e4549673d64/847601#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-22",
+   "time": "21:15",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756735#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-22",
+   "time": "21:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993884#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-22",
+   "time": "21:45",
+   "sala": "Sala 4",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59847?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-10-22",
+   "time": "21:45",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756659#sala"
+  },
+  {
+   "film": "22650",
+   "cinema": 171,
+   "date": "2026-10-23",
+   "time": "15:00",
+   "sala": "Sala 8",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003547/59886?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-23",
+   "time": "15:15",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59905?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-10-23",
+   "time": "15:30",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756692#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-23",
+   "time": "15:30",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756743#sala"
+  },
+  {
+   "film": "22223",
+   "cinema": 171,
+   "date": "2026-10-23",
+   "time": "15:35",
+   "sala": "Sala 5",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003843/59854?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22661",
+   "cinema": 171,
+   "date": "2026-10-23",
+   "time": "15:45",
+   "sala": "Sala 6",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003863/59909?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-23",
+   "time": "16:00",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/847679#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-23",
+   "time": "16:00",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847573#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-23",
+   "time": "16:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847627#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-23",
+   "time": "16:20",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847648#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-23",
+   "time": "16:30",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993867#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-23",
+   "time": "16:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847701#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-23",
+   "time": "17:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993885#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-23",
+   "time": "17:45",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847574#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-23",
+   "time": "18:35",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/847680#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-23",
+   "time": "18:40",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847649#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-23",
+   "time": "18:45",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993868#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-23",
+   "time": "18:45",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847628#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-23",
+   "time": "18:45",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847702#sala"
   },
   {
    "film": "22713",
@@ -2614,6 +3296,52 @@
    "tags": [],
    "price": null,
    "url": "https://ticket.cinebot.it/bellinzona/evento/2181"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-23",
+   "time": "19:25",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59828?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-23",
+   "time": "19:30",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847575#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-23",
+   "time": "19:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993886#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-23",
+   "time": "20:00",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756737#sala"
   },
   {
    "film": "22055",
@@ -2640,6 +3368,291 @@
    "url": "https://ticket.cinebot.it/bellinzona/evento/2182"
   },
   {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-23",
+   "time": "21:00",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993869#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-23",
+   "time": "21:00",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847703#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-23",
+   "time": "21:00",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847650#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-23",
+   "time": "21:10",
+   "sala": "Rialto 2",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/847694#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-23",
+   "time": "21:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847629#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-23",
+   "time": "21:15",
+   "sala": "Roma D'Essai",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847576#sala"
+  },
+  {
+   "film": "22661",
+   "cinema": 5085,
+   "date": "2026-10-23",
+   "time": "21:15",
+   "sala": "Sala Scalo",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cinema.nosadella.18tickets.it/film/zustissia_2026/756931#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-23",
+   "time": "21:30",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59906?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-23",
+   "time": "21:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993887#sala"
+  },
+  {
+   "film": "21315",
+   "cinema": 171,
+   "date": "2026-10-23",
+   "time": "21:45",
+   "sala": "Sala 4",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003608/59845?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-10-23",
+   "time": "21:45",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756693#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 171,
+   "date": "2026-10-23",
+   "time": "22:15",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003830/59870?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-23",
+   "time": "22:15",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756744#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 171,
+   "date": "2026-10-23",
+   "time": "22:45",
+   "sala": "Sala 8",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003862/59889?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-24",
+   "time": "00:40",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59904?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "21315",
+   "cinema": 171,
+   "date": "2026-10-24",
+   "time": "00:55",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003608/59843?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22713",
+   "cinema": 171,
+   "date": "2026-10-24",
+   "time": "14:00",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003862/59901?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22661",
+   "cinema": 171,
+   "date": "2026-10-24",
+   "time": "14:25",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003863/59839?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-24",
+   "time": "14:30",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59803?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-10-24",
+   "time": "15:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756700#sala"
+  },
+  {
+   "film": "22223",
+   "cinema": 171,
+   "date": "2026-10-24",
+   "time": "15:30",
+   "sala": "Sala 5",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003843/59852?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-24",
+   "time": "16:00",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/847681#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-24",
+   "time": "16:00",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847577#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-24",
+   "time": "16:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847630#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-24",
+   "time": "16:20",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847651#sala"
+  },
+  {
    "film": "22713",
    "cinema": 153,
    "date": "2026-10-24",
@@ -2649,6 +3662,98 @@
    "tags": [],
    "price": null,
    "url": "https://ticket.cinebot.it/bellinzona/evento/2183"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-24",
+   "time": "16:30",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993870#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-24",
+   "time": "16:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847704#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-10-24",
+   "time": "17:30",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756694#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-24",
+   "time": "17:30",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756745#sala"
+  },
+  {
+   "film": "22661",
+   "cinema": 5085,
+   "date": "2026-10-24",
+   "time": "17:30",
+   "sala": "Sala Berti",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cinema.nosadella.18tickets.it/film/zustissia_2026/756932#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-24",
+   "time": "17:35",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59824?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-24",
+   "time": "17:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993888#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-24",
+   "time": "17:45",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847578#sala"
   },
   {
    "film": "22713",
@@ -2662,6 +3767,118 @@
    "url": "https://ticket.cinebot.it/bellinzona/evento/2184"
   },
   {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-24",
+   "time": "18:35",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/847682#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-24",
+   "time": "18:40",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847652#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-24",
+   "time": "18:45",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993871#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-24",
+   "time": "18:45",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847631#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-24",
+   "time": "18:45",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847705#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-24",
+   "time": "19:30",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847579#sala"
+  },
+  {
+   "film": "22661",
+   "cinema": 5085,
+   "date": "2026-10-24",
+   "time": "19:30",
+   "sala": "Sala Berti",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cinema.nosadella.18tickets.it/film/zustissia_2026/756938#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-24",
+   "time": "19:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993889#sala"
+  },
+  {
+   "film": "21315",
+   "cinema": 171,
+   "date": "2026-10-24",
+   "time": "20:00",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003608/59841?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-24",
+   "time": "20:00",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756738#sala"
+  },
+  {
    "film": "22713",
    "cinema": 153,
    "date": "2026-10-24",
@@ -2671,6 +3888,293 @@
    "tags": [],
    "price": null,
    "url": "https://ticket.cinebot.it/bellinzona/evento/2185"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-24",
+   "time": "21:00",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993872#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-24",
+   "time": "21:00",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847706#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-24",
+   "time": "21:00",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847653#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-24",
+   "time": "21:10",
+   "sala": "Sala 8",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59884?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-24",
+   "time": "21:10",
+   "sala": "Rialto 2",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/847695#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-24",
+   "time": "21:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847632#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-24",
+   "time": "21:15",
+   "sala": "Roma D'Essai",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847580#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 171,
+   "date": "2026-10-24",
+   "time": "21:40",
+   "sala": "Sala 4",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003830/59866?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-24",
+   "time": "21:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993890#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-10-24",
+   "time": "21:45",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756695#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-24",
+   "time": "22:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756746#sala"
+  },
+  {
+   "film": "21315",
+   "cinema": 171,
+   "date": "2026-10-24",
+   "time": "22:30",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003608/59842?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22661",
+   "cinema": 171,
+   "date": "2026-10-24",
+   "time": "23:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003863/59826?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22524",
+   "cinema": 171,
+   "date": "2026-10-24",
+   "time": "23:55",
+   "sala": "Sala 5",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003883/59853?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-25",
+   "time": "11:00",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756794#sala"
+  },
+  {
+   "film": "22650",
+   "cinema": 171,
+   "date": "2026-10-25",
+   "time": "11:30",
+   "sala": "Sala 5",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003547/59850?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22661",
+   "cinema": 171,
+   "date": "2026-10-25",
+   "time": "13:30",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003863/59898?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22223",
+   "cinema": 171,
+   "date": "2026-10-25",
+   "time": "13:50",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003843/59820?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "21315",
+   "cinema": 171,
+   "date": "2026-10-25",
+   "time": "15:00",
+   "sala": "Sala 8",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003608/59879?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-10-25",
+   "time": "15:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756701#sala"
+  },
+  {
+   "film": "22661",
+   "cinema": 5085,
+   "date": "2026-10-25",
+   "time": "15:30",
+   "sala": "Sala Berti",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cinema.nosadella.18tickets.it/film/zustissia_2026/756933#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-25",
+   "time": "16:00",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/847683#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-25",
+   "time": "16:00",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847581#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-25",
+   "time": "16:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847633#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-25",
+   "time": "16:20",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847654#sala"
   },
   {
    "film": "22713",
@@ -2684,6 +4188,98 @@
    "url": "https://ticket.cinebot.it/bellinzona/evento/2186"
   },
   {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-25",
+   "time": "16:30",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993873#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-25",
+   "time": "16:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847707#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-25",
+   "time": "17:25",
+   "sala": "Sala 8",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59880?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22661",
+   "cinema": 5085,
+   "date": "2026-10-25",
+   "time": "17:25",
+   "sala": "Sala Berti",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cinema.nosadella.18tickets.it/film/zustissia_2026/756934#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-10-25",
+   "time": "17:30",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756697#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-25",
+   "time": "17:30",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756747#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-25",
+   "time": "17:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993891#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-25",
+   "time": "17:45",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847582#sala"
+  },
+  {
    "film": "22713",
    "cinema": 153,
    "date": "2026-10-25",
@@ -2693,6 +4289,118 @@
    "tags": [],
    "price": null,
    "url": "https://ticket.cinebot.it/bellinzona/evento/2187"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-25",
+   "time": "18:35",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/847684#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-25",
+   "time": "18:40",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847655#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-25",
+   "time": "18:45",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993874#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-25",
+   "time": "18:45",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847634#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-25",
+   "time": "18:45",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847708#sala"
+  },
+  {
+   "film": "22661",
+   "cinema": 5085,
+   "date": "2026-10-25",
+   "time": "19:20",
+   "sala": "Sala Berti",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cinema.nosadella.18tickets.it/film/zustissia_2026/756935#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-25",
+   "time": "19:25",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59900?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-25",
+   "time": "19:30",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847583#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-25",
+   "time": "19:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993892#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-25",
+   "time": "20:00",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756739#sala"
   },
   {
    "film": "22713",
@@ -2706,6 +4414,39 @@
    "url": "https://ticket.cinebot.it/bellinzona/evento/2189"
   },
   {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-25",
+   "time": "21:00",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993875#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-25",
+   "time": "21:00",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847709#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-25",
+   "time": "21:00",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847656#sala"
+  },
+  {
    "film": "22055",
    "cinema": 5817,
    "date": "2026-10-25",
@@ -2717,6 +4458,1196 @@
    ],
    "price": null,
    "url": "http://modernissimo.cinetecabologna.18tickets.it/film/i-diavoli-the-devils-_1971/743126#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 171,
+   "date": "2026-10-25",
+   "time": "21:10",
+   "sala": "Sala 4",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003830/59838?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-25",
+   "time": "21:10",
+   "sala": "Rialto 2",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026-1a207fe0-ac58-463b-9a60-55f06cbf6c18/847691#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-25",
+   "time": "21:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847635#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-25",
+   "time": "21:15",
+   "sala": "Roma D'Essai",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026-108135e0-0687-4591-87d0-9e4549673d64/847602#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-25",
+   "time": "21:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993893#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-10-25",
+   "time": "21:45",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756699#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-25",
+   "time": "22:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756748#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-25",
+   "time": "22:10",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59863?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22524",
+   "cinema": 171,
+   "date": "2026-10-25",
+   "time": "22:20",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003883/59802?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "21315",
+   "cinema": 171,
+   "date": "2026-10-25",
+   "time": "22:40",
+   "sala": "Sala 8",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003608/59882?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22223",
+   "cinema": 171,
+   "date": "2026-10-26",
+   "time": "15:00",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003843/59798?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-26",
+   "time": "16:00",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/847685#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-26",
+   "time": "16:00",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847584#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-26",
+   "time": "16:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847636#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-26",
+   "time": "16:15",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756750#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-26",
+   "time": "16:20",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847657#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-26",
+   "time": "16:30",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993876#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-26",
+   "time": "16:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847710#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-10-26",
+   "time": "16:30",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756705#sala"
+  },
+  {
+   "film": "22661",
+   "cinema": 5480,
+   "date": "2026-10-26",
+   "time": "17:00",
+   "sala": "Cervi",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/zustissia_2026-0ba9445f-04f5-4b64-ad3b-ef3993e8e8ef/756879#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-26",
+   "time": "17:15",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59799?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-26",
+   "time": "17:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993894#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-26",
+   "time": "17:45",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847585#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-26",
+   "time": "18:35",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/847686#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-26",
+   "time": "18:40",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847658#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-26",
+   "time": "18:45",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993877#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-26",
+   "time": "18:45",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847637#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-26",
+   "time": "18:45",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847711#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-26",
+   "time": "19:00",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756740#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-26",
+   "time": "19:30",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847586#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-26",
+   "time": "19:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993895#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 171,
+   "date": "2026-10-26",
+   "time": "19:50",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003830/59800?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-26",
+   "time": "21:00",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993878#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-26",
+   "time": "21:00",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847712#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-26",
+   "time": "21:00",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847659#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-10-26",
+   "time": "21:00",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756707#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-26",
+   "time": "21:10",
+   "sala": "Rialto 2",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026-1a207fe0-ac58-463b-9a60-55f06cbf6c18/847692#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-26",
+   "time": "21:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847638#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-26",
+   "time": "21:15",
+   "sala": "Roma D'Essai",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026-108135e0-0687-4591-87d0-9e4549673d64/847621#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-26",
+   "time": "21:15",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756751#sala"
+  },
+  {
+   "film": "22661",
+   "cinema": 5480,
+   "date": "2026-10-26",
+   "time": "21:30",
+   "sala": "Cervi",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/zustissia_2026-0ba9445f-04f5-4b64-ad3b-ef3993e8e8ef/756880#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-26",
+   "time": "21:40",
+   "sala": "Sala 4",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59835?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-26",
+   "time": "21:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993896#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 171,
+   "date": "2026-10-26",
+   "time": "22:00",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003883/59859?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "21315",
+   "cinema": 171,
+   "date": "2026-10-26",
+   "time": "22:30",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003608/59801?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22713",
+   "cinema": 171,
+   "date": "2026-10-27",
+   "time": "15:05",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003862/59794?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22223",
+   "cinema": 171,
+   "date": "2026-10-27",
+   "time": "15:20",
+   "sala": "Sala 5",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003843/59848?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-27",
+   "time": "16:00",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847587#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-27",
+   "time": "16:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847639#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-27",
+   "time": "16:15",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756752#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-27",
+   "time": "16:20",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847660#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-27",
+   "time": "16:30",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993879#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-27",
+   "time": "16:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847713#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-27",
+   "time": "16:30",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/847689#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-10-27",
+   "time": "16:30",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756708#sala"
+  },
+  {
+   "film": "22661",
+   "cinema": 5480,
+   "date": "2026-10-27",
+   "time": "17:00",
+   "sala": "Cervi",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/zustissia_2026-0ba9445f-04f5-4b64-ad3b-ef3993e8e8ef/756884#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-27",
+   "time": "17:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993897#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-27",
+   "time": "17:45",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847588#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 171,
+   "date": "2026-10-27",
+   "time": "18:35",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003830/59814?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-27",
+   "time": "18:40",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847661#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-27",
+   "time": "18:45",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993880#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-27",
+   "time": "18:45",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847640#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-27",
+   "time": "18:45",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847714#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-27",
+   "time": "19:00",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756741#sala"
+  },
+  {
+   "film": "22661",
+   "cinema": 5085,
+   "date": "2026-10-27",
+   "time": "19:15",
+   "sala": "Sala Berti",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cinema.nosadella.18tickets.it/film/zustissia_2026/756936#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-27",
+   "time": "19:25",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59894?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-27",
+   "time": "19:30",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847589#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-27",
+   "time": "19:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993898#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-27",
+   "time": "21:00",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993881#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-27",
+   "time": "21:00",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847715#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-27",
+   "time": "21:00",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847662#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-10-27",
+   "time": "21:00",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756709#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-27",
+   "time": "21:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847641#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-27",
+   "time": "21:15",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026-1a207fe0-ac58-463b-9a60-55f06cbf6c18/847693#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-27",
+   "time": "21:15",
+   "sala": "Roma D'Essai",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026-108135e0-0687-4591-87d0-9e4549673d64/847622#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-27",
+   "time": "21:15",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756753#sala"
+  },
+  {
+   "film": "22661",
+   "cinema": 5480,
+   "date": "2026-10-27",
+   "time": "21:30",
+   "sala": "Cervi",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/zustissia_2026-0ba9445f-04f5-4b64-ad3b-ef3993e8e8ef/756885#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 171,
+   "date": "2026-10-27",
+   "time": "21:40",
+   "sala": "Sala 4",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003883/59833?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-27",
+   "time": "21:45",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993899#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-27",
+   "time": "22:25",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59797?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "21315",
+   "cinema": 171,
+   "date": "2026-10-27",
+   "time": "22:30",
+   "sala": "Sala 8",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003608/59876?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-28",
+   "time": "10:00",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756917#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-28",
+   "time": "16:00",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/847687#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-28",
+   "time": "16:00",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847590#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-28",
+   "time": "16:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847642#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-28",
+   "time": "16:15",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756754#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-28",
+   "time": "16:20",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847663#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-28",
+   "time": "16:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847716#sala"
+  },
+  {
+   "film": "22661",
+   "cinema": 5480,
+   "date": "2026-10-28",
+   "time": "17:00",
+   "sala": "Cervi",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/zustissia_2026-0ba9445f-04f5-4b64-ad3b-ef3993e8e8ef/756886#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-10-28",
+   "time": "17:30",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756710#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-28",
+   "time": "17:45",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847591#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 178,
+   "date": "2026-10-28",
+   "time": "18:35",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/847688#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-28",
+   "time": "18:40",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847664#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-28",
+   "time": "18:45",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847643#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-28",
+   "time": "18:45",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847717#sala"
+  },
+  {
+   "film": "22661",
+   "cinema": 5085,
+   "date": "2026-10-28",
+   "time": "19:15",
+   "sala": "Sala Scalo",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cinema.nosadella.18tickets.it/film/zustissia_2026/756937#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-28",
+   "time": "19:30",
+   "sala": "Roma D'Essai",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847592#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 5075,
+   "date": "2026-10-28",
+   "time": "20:00",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756742#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-10-28",
+   "time": "21:00",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847718#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 178,
+   "date": "2026-10-28",
+   "time": "21:00",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847665#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-10-28",
+   "time": "21:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847644#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 179,
+   "date": "2026-10-28",
+   "time": "21:15",
+   "sala": "Roma D'Essai",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026-108135e0-0687-4591-87d0-9e4549673d64/847623#sala"
+  },
+  {
+   "film": "22661",
+   "cinema": 5480,
+   "date": "2026-10-28",
+   "time": "21:30",
+   "sala": "Cervi",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/zustissia_2026-0ba9445f-04f5-4b64-ad3b-ef3993e8e8ef/756887#sala"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-10-28",
+   "time": "21:45",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756711#sala"
   },
   {
    "film": "22055",

@@ -78,6 +78,20 @@
      "scheda_url": "https://www.comingsoon.it/film/il-canto-di-alina/69397/scheda/"
     },
     {
+     "cs_id": 69528,
+     "title": "Il Tempo e l'Acqua",
+     "original_title": "Time and Water",
+     "genres": [
+      "Documentario"
+     ],
+     "year": "2026",
+     "director": "Sara Dosa",
+     "distributor": "NFilm",
+     "release_date": "2026-10-22",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69528.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/il-tempo-e-l-acqua/69528/scheda/"
+    },
+    {
      "cs_id": 69027,
      "title": "Klara e il Sole",
      "original_title": "Klara and the Sun",
@@ -321,6 +335,20 @@
      "release_date": "2026-10-29",
      "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/1291.jpg",
      "scheda_url": "https://www.comingsoon.it/film/fast-and-furious/1291/scheda/"
+    },
+    {
+     "cs_id": 68252,
+     "title": "Ice Cream Man",
+     "original_title": "",
+     "genres": [
+      "Horror"
+     ],
+     "year": "2026",
+     "director": "Eli Roth",
+     "distributor": "Plaion Pictures",
+     "release_date": "2026-10-29",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68252.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/ice-cream-man/68252/scheda/"
     },
     {
      "cs_id": 69251,
