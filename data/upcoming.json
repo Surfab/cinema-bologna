@@ -54,7 +54,8 @@
      "title": "Clayface",
      "original_title": "",
      "genres": [
-      "Horror"
+      "Horror",
+      "Fantasy"
      ],
      "year": "2026",
      "director": "James Watkins",
@@ -392,6 +393,20 @@
      "release_date": "2026-10-29",
      "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68448.jpg",
      "scheda_url": "https://www.comingsoon.it/film/nel-silenzio-delle-stanze/68448/scheda/"
+    },
+    {
+     "cs_id": 68347,
+     "title": "Nina Roza",
+     "original_title": "",
+     "genres": [
+      "Drammatico"
+     ],
+     "year": "2026",
+     "director": "Geneviève Dulude-de Celles",
+     "distributor": "LSPG Popcorn",
+     "release_date": "2026-10-29",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/ico/def.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/nina-roza/68347/scheda/"
     },
     {
      "cs_id": 68729,
