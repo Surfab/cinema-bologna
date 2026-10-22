@@ -1,7 +1,7 @@
 Cinema a Bologna, da giovedì 22 ottobre a mercoledì 28 ottobre
-Orari aggiornati giovedì 22 ottobre alle 12:10.
+Orari aggiornati giovedì 22 ottobre alle 20:34.
 
-== Nuovi questa settimana (10) ==
+== Nuovi questa settimana (11) ==
 
 Fatherland
 Drammatico. 82 min. Al cinema dal 16 ottobre
@@ -183,7 +183,12 @@ Drammatico. 100 min. Al cinema dal 22 ottobre
     mar 27: 19:30
     mer 28: 21:15
 
-== Ancora in sala (14) ==
+Carla Lonzi, dentro e fuori dal mondo
+Documentario. 84 min. Esce il 28 ottobre
+  Modernissimo
+    gio 22: 21:30
+
+== Ancora in sala (15) ==
 
 Je So' Pazzo
 Biografico. 105 min. Al cinema dal 15 ottobre
@@ -234,7 +239,7 @@ Drammatico, thriller. 115 min. Al cinema dall'8 ottobre
     dom 25: 16:20, 18:40, 21:00
     lun 26: 17:10, 19:20, 21:30
     mar 27: 17:10, 19:20, 21:30
-    mer 28: 16:20, 18:40, 21:00
+    mer 28: 16:30, 18:40, 21:00
   Fossolo
     gio 22: 16:30, 18:45, 21:00
     ven 23: 16:30, 18:45, 21:00
@@ -268,7 +273,7 @@ Commedia, drammatico, avventura. 129 min. Al cinema dal 1° ottobre
     dom 25: 16:00, 18:35
     lun 26: 16:30, 21:10 V.O.
     mar 27: 16:30, 21:15
-    mer 28: 18:35
+    mer 28: 16:10
   Jolly
     gio 22: 21:30
     ven 23: 19:00
@@ -277,6 +282,17 @@ Commedia, drammatico, avventura. 129 min. Al cinema dal 1° ottobre
     lun 26: 18:45
     mar 27: 21:00
     mer 28: 18:45
+
+Primetime
+Biografico, thriller, drammatico. 107 min. Al cinema dal 15 ottobre
+  Medica
+    gio 22: 15:00 V.O., 17:15, 19:30, 21:45 V.O.
+    ven 23: 15:00 V.O., 17:15, 19:30, 21:45 V.O.
+    sab 24: 15:00 V.O., 17:15, 19:30, 21:45 V.O.
+    dom 25: 15:00 V.O., 17:15, 19:30, 21:45 V.O.
+    lun 26: 15:00 V.O., 17:15, 19:30, 21:45 V.O.
+    mar 27: 15:00 V.O., 17:15, 19:30, 21:45 V.O.
+    mer 28: 15:00 V.O., 17:15, 19:30, 21:45 V.O.
 
 Zustissia
 Drammatico. 111 min. Al cinema dal 15 ottobre
@@ -299,17 +315,6 @@ Drammatico. 111 min. Al cinema dal 15 ottobre
     lun 26: 17:00, 21:30
     mar 27: 17:00, 21:30
     mer 28: 17:00, 21:30
-
-Primetime
-Biografico, thriller, drammatico. 107 min. Al cinema dal 15 ottobre
-  Medica
-    gio 22: 15:00 V.O., 17:15, 19:30, 21:45 V.O.
-    ven 23: 17:15, 21:45 V.O.
-    sab 24: 15:00 V.O., 19:30
-    dom 25: 17:15, 21:45 V.O.
-    lun 26: 17:15, 21:45 V.O.
-    mar 27: 15:00 V.O., 19:30
-    mer 28: 17:15, 21:45 V.O.
 
 Mammina (Other Mommy)
 Horror. 93 min. Al cinema dall'8 ottobre
@@ -392,6 +397,11 @@ Commedia, avventura. 114 min
   Modernissimo
     gio 22: 17:30
 
+Monty Python Live (più o meno) (Monty Python Live (più o meno)
+Comico. Al cinema dal 20 luglio
+  Perla
+    gio 22: 20:30 V.O.
+
 == In uscita dal 29 ottobre (17) ==
 Uscite in tutta Italia: non tutti i film arrivano nei cinema di Bologna.
 
@@ -400,6 +410,7 @@ Lunedì 26 ottobre
 
 Mercoledì 28 ottobre
   Carla Lonzi, dentro e fuori dal mondo. Documentario. Regia di Francesca Archibugi
+    Già in programma a Bologna: Modernissimo
   Elon Musk Unveiled. The tesla Experiment. Documentario. Regia di Andreas Pichler
   It Ends. Drammatico, fantascienza, horror. Regia di Alex Ullom
   Ozzy & Black Sabbath: Back To The Beginning. Documentario, musicale. Regia di Ben Wainwright-Pearce
