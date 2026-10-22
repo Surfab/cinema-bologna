@@ -5,6 +5,10 @@ on:
     # Orari in UTC: 07:17 e 16:17 ora di Bologna d'estate (06:17 e 15:17 d'inverno)
     - cron: "17 5 * * *"
     - cron: "17 14 * * *"
+    # Solo per la mail del giovedi': mercoledi' 23:17 UTC = giovedi' 01:17 d'estate, 00:17 d'inverno.
+    # GitHub fa partire i cron con ore di ritardo (anche 5): cosi' la mail e' pronta
+    # prima del task che la spedisce il giovedi' alle 10:45.
+    - cron: "17 23 * * 3"
   workflow_dispatch:
   push:
     branches: [main]
