@@ -214,7 +214,7 @@
     "Carey Mulligan",
     "Mahershala Ali"
    ],
-   "rating": 4.6,
+   "rating": 4.5,
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68839.jpg",
    "scheda_url": "https://www.comingsoon.it/film/wildwood-i-segreti-del-bosco-proibito/68839/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/wildwood-i-segreti-del-bosco-proibito/68839/video/"
@@ -235,7 +235,7 @@
     "Joseph Balderrama",
     "Michelle Jenner"
    ],
-   "rating": 3.0,
+   "rating": 2.5,
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69011.jpg",
    "scheda_url": "https://www.comingsoon.it/film/taddeo-l-esploratore-e-la-lampada-magica/69011/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/taddeo-l-esploratore-e-la-lampada-magica/69011/video/"
@@ -272,7 +272,7 @@
    "duration": 105,
    "release_date": "2026-10-22",
    "cast": [],
-   "rating": 3.7,
+   "rating": 3.6,
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69167.jpg",
    "scheda_url": "https://www.comingsoon.it/film/l-assurda-storia-della-gialappa-s-band/69167/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/l-assurda-storia-della-gialappa-s-band/69167/video/"
@@ -787,13 +787,13 @@
    "cinema": 170,
    "date": "2026-10-26",
    "time": "15:00",
-   "sala": "Medica",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": null,
-   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/848038#sala"
+   "url": null
   },
   {
    "film": "22223",
@@ -804,7 +804,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003843/59798?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22653",
@@ -815,18 +815,18 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003586/59849?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22653",
    "cinema": 167,
    "date": "2026-10-26",
    "time": "15:15",
-   "sala": "Jolly",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://jolly.popupcinema.18tickets.it/film/taddeo-l-esploratore-e-la-lampada-magica_2026-cc71669b-bb6c-412e-be8b-7203f4915a85/848091#sala"
+   "url": null
   },
   {
    "film": "22579",
@@ -837,29 +837,29 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59943?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22304",
    "cinema": 152,
    "date": "2026-10-26",
    "time": "15:30",
-   "sala": "ARLECCHINO",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/rider_2026-08b3f1bd-20c9-4451-bfcf-3e263a8a80f1/848014#sala"
+   "url": null
   },
   {
    "film": "22357",
    "cinema": 161,
    "date": "2026-10-26",
    "time": "15:30",
-   "sala": "Sala1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/se-ami-qualcuno-dillo_2026-0f96e448-17ae-4517-a532-994d5fe1bb31/993862#sala"
+   "url": null
   },
   {
    "film": "21856",
@@ -870,18 +870,18 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003609/59877?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "21856",
    "cinema": 174,
    "date": "2026-10-26",
    "time": "15:30",
-   "sala": "Odeon C",
+   "sala": "Sala C",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://odeon.ccb.18tickets.it/film/ragione-e-sentimento-sense-and-sensibility-_2026/847730#sala"
+   "url": null
   },
   {
    "film": "22582",
@@ -892,7 +892,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003740/59858?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22724",
@@ -903,18 +903,18 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003741/59816?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22713",
    "cinema": 179,
    "date": "2026-10-26",
    "time": "16:00",
-   "sala": "Roma D'Essai",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847584#sala"
+   "url": null
   },
   {
    "film": "9954",
@@ -934,35 +934,35 @@
    "cinema": 174,
    "date": "2026-10-26",
    "time": "16:15",
-   "sala": "Odeon A",
+   "sala": "Sala A",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847636#sala"
+   "url": null
   },
   {
    "film": "22756",
    "cinema": 174,
    "date": "2026-10-26",
    "time": "16:15",
-   "sala": "Odeon D",
+   "sala": "Sala D",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-assurda-storia-della-gialappa-s-band_2026/847612#sala"
+   "url": null
   },
   {
    "film": "22713",
    "cinema": 5075,
    "date": "2026-10-26",
    "time": "16:15",
-   "sala": "Mastroianni",
+   "sala": "Sala Off. / Mastroianni",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756750#sala"
+   "url": null
   },
   {
    "film": "22433",
@@ -973,62 +973,62 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003381/59834?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 161,
    "date": "2026-10-26",
    "time": "16:30",
-   "sala": "Sala 3",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993876#sala"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 174,
    "date": "2026-10-26",
    "time": "16:30",
-   "sala": "Odeon B",
+   "sala": "Sala B",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847710#sala"
+   "url": null
   },
   {
    "film": "20080",
    "cinema": 176,
    "date": "2026-10-26",
    "time": "16:30",
-   "sala": "CINEMA ORIONE",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 5.0,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5669&kid=51&tpl=blue#/shoppingmode/it/25/5669/1512/24978"
+   "url": null
   },
   {
    "film": "22430",
    "cinema": 178,
    "date": "2026-10-26",
    "time": "16:30",
-   "sala": "Rialto 2",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/847685#sala"
+   "url": null
   },
   {
    "film": "22662",
    "cinema": 4587,
    "date": "2026-10-26",
    "time": "16:30",
-   "sala": "Europa Cinema",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://europa.ccb.18tickets.it/film/caro-mondo-crudele_2026/848274#sala"
+   "url": null
   },
   {
    "film": "22430",
@@ -1041,7 +1041,7 @@
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756705#sala"
+   "url": null
   },
   {
    "film": "22756",
@@ -1052,62 +1052,62 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003792/59895?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22653",
    "cinema": 167,
    "date": "2026-10-26",
    "time": "17:00",
-   "sala": "Jolly",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://jolly.popupcinema.18tickets.it/film/taddeo-l-esploratore-e-la-lampada-magica_2026-cc71669b-bb6c-412e-be8b-7203f4915a85/848092#sala"
+   "url": null
   },
   {
    "film": "22661",
    "cinema": 5480,
    "date": "2026-10-26",
    "time": "17:00",
-   "sala": "Cervi",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 7.5,
-   "url": "http://cervi.cinetecabologna.18tickets.it/film/zustissia_2026-0ba9445f-04f5-4b64-ad3b-ef3993e8e8ef/756879#sala"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 178,
    "date": "2026-10-26",
    "time": "17:10",
-   "sala": "Rialto 1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847657#sala"
+   "url": null
   },
   {
    "film": "22488",
    "cinema": 152,
    "date": "2026-10-26",
    "time": "17:15",
-   "sala": "ARLECCHINO",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/naza-original-version_2026/848024#sala"
+   "url": null
   },
   {
    "film": "22524",
    "cinema": 170,
    "date": "2026-10-26",
    "time": "17:15",
-   "sala": "Medica",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/848053#sala"
+   "url": null
   },
   {
    "film": "22579",
@@ -1118,7 +1118,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59799?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "21856",
@@ -1129,18 +1129,18 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003609/59944?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 161,
    "date": "2026-10-26",
    "time": "17:45",
-   "sala": "Sala1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993894#sala"
+   "url": null
   },
   {
    "film": "22582",
@@ -1151,53 +1151,53 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003740/59406?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22713",
    "cinema": 179,
    "date": "2026-10-26",
    "time": "17:45",
-   "sala": "Roma D'Essai",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847585#sala"
+   "url": null
   },
   {
    "film": "22324",
    "cinema": 5075,
    "date": "2026-10-26",
    "time": "18:00",
-   "sala": "Mastroianni",
+   "sala": "Sala Off. / Mastroianni",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/possible-love-ga-neung-han-sa-rang-_2026/756798#sala"
+   "url": null
   },
   {
    "film": "21856",
    "cinema": 174,
    "date": "2026-10-26",
    "time": "18:15",
-   "sala": "Odeon C",
+   "sala": "Sala C",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/ragione-e-sentimento-sense-and-sensibility-_2026/847731#sala"
+   "url": null
   },
   {
    "film": "22756",
    "cinema": 174,
    "date": "2026-10-26",
    "time": "18:30",
-   "sala": "Odeon D",
+   "sala": "Sala D",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-assurda-storia-della-gialappa-s-band_2026/847613#sala"
+   "url": null
   },
   {
    "film": "22662",
@@ -1208,64 +1208,64 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003964/59817?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 161,
    "date": "2026-10-26",
    "time": "18:45",
-   "sala": "Sala 3",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993877#sala"
+   "url": null
   },
   {
    "film": "22430",
    "cinema": 167,
    "date": "2026-10-26",
    "time": "18:45",
-   "sala": "Jolly",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": null,
-   "url": "http://jolly.popupcinema.18tickets.it/film/digger_2026-3ae0e5f9-d12e-429b-9159-a7acad75d9df/848070#sala"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 174,
    "date": "2026-10-26",
    "time": "18:45",
-   "sala": "Odeon A",
+   "sala": "Sala A",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847637#sala"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 174,
    "date": "2026-10-26",
    "time": "18:45",
-   "sala": "Odeon B",
+   "sala": "Sala B",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847711#sala"
+   "url": null
   },
   {
    "film": "22662",
    "cinema": 4587,
    "date": "2026-10-26",
    "time": "18:45",
-   "sala": "Europa Cinema",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://europa.ccb.18tickets.it/film/caro-mondo-crudele_2026/848275#sala"
+   "url": null
   },
   {
    "film": "3286",
@@ -1276,20 +1276,20 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003869/59094?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22582",
    "cinema": 152,
    "date": "2026-10-26",
    "time": "19:00",
-   "sala": "ARLECCHINO",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": null,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/wildwood-i-segreti-del-bosco-proibito_2026-02c312ac-24a9-451f-8d79-f7b48cfd3c96/848080#sala"
+   "url": null
   },
   {
    "film": "22661",
@@ -1311,18 +1311,18 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003381/59449?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22251",
    "cinema": 176,
    "date": "2026-10-26",
    "time": "19:00",
-   "sala": "CINEMA ORIONE",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 5.0,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5669&kid=51&tpl=blue#/shoppingmode/it/25/5669/1524/24979"
+   "url": null
   },
   {
    "film": "22713",
@@ -1335,42 +1335,42 @@
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756740#sala"
+   "url": null
   },
   {
    "film": "22620",
    "cinema": 5480,
    "date": "2026-10-26",
    "time": "19:15",
-   "sala": "Cervi",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 7.5,
-   "url": "http://cervi.cinetecabologna.18tickets.it/film/il-tempo-di-anne-lol-2-_2026/756868#sala"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 178,
    "date": "2026-10-26",
    "time": "19:20",
-   "sala": "Rialto 1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847658#sala"
+   "url": null
   },
   {
    "film": "22524",
    "cinema": 170,
    "date": "2026-10-26",
    "time": "19:30",
-   "sala": "Medica",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": null,
-   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/848039#sala"
+   "url": null
   },
   {
    "film": "22433",
@@ -1381,29 +1381,29 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003381/59936?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22713",
    "cinema": 179,
    "date": "2026-10-26",
    "time": "19:30",
-   "sala": "Roma D'Essai",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847586#sala"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 161,
    "date": "2026-10-26",
    "time": "19:45",
-   "sala": "Sala1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/993895#sala"
+   "url": null
   },
   {
    "film": "22259",
@@ -1414,7 +1414,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003830/59800?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "6609",
@@ -1436,18 +1436,18 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003830/59945?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22756",
    "cinema": 174,
    "date": "2026-10-26",
    "time": "20:45",
-   "sala": "Odeon D",
+   "sala": "Sala D",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-assurda-storia-della-gialappa-s-band_2026/847614#sala"
+   "url": null
   },
   {
    "film": "22488",
@@ -1469,55 +1469,55 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003609/59087?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 161,
    "date": "2026-10-26",
    "time": "21:00",
-   "sala": "Sala 3",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/993878#sala"
+   "url": null
   },
   {
    "film": "21856",
    "cinema": 174,
    "date": "2026-10-26",
    "time": "21:00",
-   "sala": "Odeon C",
+   "sala": "Sala C",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/ragione-e-sentimento-sense-and-sensibility-_2026-2cc17719-c68d-4598-8cd1-7383eb6589d6/847739#sala"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 174,
    "date": "2026-10-26",
    "time": "21:00",
-   "sala": "Odeon B",
+   "sala": "Sala B",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847712#sala"
+   "url": null
   },
   {
    "film": "22154",
    "cinema": 176,
    "date": "2026-10-26",
    "time": "21:00",
-   "sala": "CINEMA ORIONE",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.0,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5669&kid=51&tpl=blue#/shoppingmode/it/25/5669/1523/24980"
+   "url": null
   },
   {
    "film": "22430",
@@ -1530,7 +1530,7 @@
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756707#sala"
+   "url": null
   },
   {
    "film": "22582",
@@ -1541,20 +1541,20 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003740/59878?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22430",
    "cinema": 178,
    "date": "2026-10-26",
    "time": "21:10",
-   "sala": "Rialto 2",
+   "sala": "Sala 2",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 10.0,
-   "url": "http://rialto.ccb.18tickets.it/film/digger_2026-1a207fe0-ac58-463b-9a60-55f06cbf6c18/847692#sala"
+   "url": null
   },
   {
    "film": "22145",
@@ -2745,6 +2745,17 @@
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756754#sala"
   },
   {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-28",
+   "time": "16:30",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/997289#sala"
+  },
+  {
    "film": "21856",
    "cinema": 171,
    "date": "2026-10-28",
@@ -2779,17 +2790,6 @@
   },
   {
    "film": "22662",
-   "cinema": 4587,
-   "date": "2026-10-28",
-   "time": "16:30",
-   "sala": "Europa Cinema",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://europa.ccb.18tickets.it/film/caro-mondo-crudele_2026/848280#sala"
-  },
-  {
-   "film": "22662",
    "cinema": 171,
    "date": "2026-10-28",
    "time": "16:45",
@@ -2820,6 +2820,17 @@
    "tags": [],
    "price": null,
    "url": "http://cervi.cinetecabologna.18tickets.it/film/zustissia_2026-0ba9445f-04f5-4b64-ad3b-ef3993e8e8ef/756886#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-28",
+   "time": "17:10",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/997292#sala"
   },
   {
    "film": "22524",
@@ -2892,6 +2903,17 @@
    "url": "http://odeon.ccb.18tickets.it/film/ragione-e-sentimento-sense-and-sensibility-_2026/847735#sala"
   },
   {
+   "film": "22579",
+   "cinema": 161,
+   "date": "2026-10-28",
+   "time": "18:30",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/997290#sala"
+  },
+  {
    "film": "22756",
    "cinema": 174,
    "date": "2026-10-28",
@@ -2949,17 +2971,6 @@
    "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847717#sala"
   },
   {
-   "film": "22662",
-   "cinema": 4587,
-   "date": "2026-10-28",
-   "time": "18:45",
-   "sala": "Europa Cinema",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://europa.ccb.18tickets.it/film/caro-mondo-crudele_2026/848281#sala"
-  },
-  {
    "film": "3286",
    "cinema": 171,
    "date": "2026-10-28",
@@ -3002,6 +3013,17 @@
    "tags": [],
    "price": null,
    "url": "http://cervi.cinetecabologna.18tickets.it/film/il-tempo-di-anne-lol-2-_2026/756870#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-28",
+   "time": "19:20",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/997293#sala"
   },
   {
    "film": "22433",
@@ -3131,17 +3153,6 @@
    "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847665#sala"
   },
   {
-   "film": "22662",
-   "cinema": 4587,
-   "date": "2026-10-28",
-   "time": "21:00",
-   "sala": "Europa Cinema",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://europa.ccb.18tickets.it/film/caro-mondo-crudele_2026/848279#sala"
-  },
-  {
    "film": "22145",
    "cinema": 167,
    "date": "2026-10-28",
@@ -3175,6 +3186,17 @@
    ],
    "price": null,
    "url": "http://roma.ccb.18tickets.it/film/fatherland_2026-108135e0-0687-4591-87d0-9e4549673d64/847623#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 161,
+   "date": "2026-10-28",
+   "time": "21:30",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/997294#sala"
   },
   {
    "film": "22661",
@@ -3254,6 +3276,510 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003608/59918?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-10-29",
+   "time": "15:00",
+   "sala": "Medica",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/849748#sala"
+  },
+  {
+   "film": "22304",
+   "cinema": 152,
+   "date": "2026-10-29",
+   "time": "15:30",
+   "sala": "ARLECCHINO",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/rider_2026-08b3f1bd-20c9-4451-bfcf-3e263a8a80f1/849779#sala"
+  },
+  {
+   "film": "22582",
+   "cinema": 152,
+   "date": "2026-10-29",
+   "time": "17:15",
+   "sala": "ARLECCHINO",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/wildwood-i-segreti-del-bosco-proibito_2026-2dc76a8f-e9b4-42e7-8c6f-44d723bf3a46/849780#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-10-29",
+   "time": "17:15",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/849733#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-10-29",
+   "time": "19:30",
+   "sala": "Medica",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/849734#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-10-29",
+   "time": "21:45",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/849749#sala"
+  },
+  {
+   "film": "22304",
+   "cinema": 152,
+   "date": "2026-10-30",
+   "time": "14:30",
+   "sala": "ARLECCHINO",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/rider_2026-08b3f1bd-20c9-4451-bfcf-3e263a8a80f1/849781#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-10-30",
+   "time": "15:00",
+   "sala": "Medica",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/849750#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-10-30",
+   "time": "17:15",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/849735#sala"
+  },
+  {
+   "film": "22582",
+   "cinema": 152,
+   "date": "2026-10-30",
+   "time": "18:00",
+   "sala": "ARLECCHINO",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/wildwood-i-segreti-del-bosco-proibito_2026-2dc76a8f-e9b4-42e7-8c6f-44d723bf3a46/849783#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-10-30",
+   "time": "19:30",
+   "sala": "Medica",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/849751#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-10-30",
+   "time": "21:45",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/849736#sala"
+  },
+  {
+   "film": "22304",
+   "cinema": 152,
+   "date": "2026-10-31",
+   "time": "14:30",
+   "sala": "ARLECCHINO",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/rider_2026-08b3f1bd-20c9-4451-bfcf-3e263a8a80f1/849786#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-10-31",
+   "time": "15:00",
+   "sala": "Medica",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/849737#sala"
+  },
+  {
+   "film": "22582",
+   "cinema": 152,
+   "date": "2026-10-31",
+   "time": "16:15",
+   "sala": "ARLECCHINO",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/wildwood-i-segreti-del-bosco-proibito_2026-2dc76a8f-e9b4-42e7-8c6f-44d723bf3a46/849791#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-10-31",
+   "time": "17:15",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/849752#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-10-31",
+   "time": "19:30",
+   "sala": "Medica",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/849738#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-10-31",
+   "time": "21:45",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/849753#sala"
+  },
+  {
+   "film": "22304",
+   "cinema": 152,
+   "date": "2026-11-01",
+   "time": "15:00",
+   "sala": "ARLECCHINO",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/rider_2026-08b3f1bd-20c9-4451-bfcf-3e263a8a80f1/849787#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-11-01",
+   "time": "15:00",
+   "sala": "Medica",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/849754#sala"
+  },
+  {
+   "film": "22582",
+   "cinema": 152,
+   "date": "2026-11-01",
+   "time": "17:00",
+   "sala": "ARLECCHINO",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/wildwood-i-segreti-del-bosco-proibito_2026-2dc76a8f-e9b4-42e7-8c6f-44d723bf3a46/849792#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-11-01",
+   "time": "17:15",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/849739#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-11-01",
+   "time": "19:30",
+   "sala": "Medica",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/849740#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-11-01",
+   "time": "21:45",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/849755#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-11-02",
+   "time": "15:00",
+   "sala": "Medica",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/849756#sala"
+  },
+  {
+   "film": "22582",
+   "cinema": 152,
+   "date": "2026-11-02",
+   "time": "15:15",
+   "sala": "ARLECCHINO",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/wildwood-i-segreti-del-bosco-proibito_2026-2dc76a8f-e9b4-42e7-8c6f-44d723bf3a46/849793#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-11-02",
+   "time": "17:15",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/849741#sala"
+  },
+  {
+   "film": "22304",
+   "cinema": 152,
+   "date": "2026-11-02",
+   "time": "17:45",
+   "sala": "ARLECCHINO",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/rider_2026-08b3f1bd-20c9-4451-bfcf-3e263a8a80f1/849788#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-11-02",
+   "time": "19:30",
+   "sala": "Medica",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/849757#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-11-02",
+   "time": "21:45",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/849742#sala"
+  },
+  {
+   "film": "22304",
+   "cinema": 152,
+   "date": "2026-11-03",
+   "time": "14:00",
+   "sala": "ARLECCHINO",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/rider_2026-08b3f1bd-20c9-4451-bfcf-3e263a8a80f1/849789#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-11-03",
+   "time": "15:00",
+   "sala": "Medica",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/849743#sala"
+  },
+  {
+   "film": "22582",
+   "cinema": 152,
+   "date": "2026-11-03",
+   "time": "15:40",
+   "sala": "ARLECCHINO",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/wildwood-i-segreti-del-bosco-proibito_2026-2dc76a8f-e9b4-42e7-8c6f-44d723bf3a46/849794#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-11-03",
+   "time": "17:15",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/849758#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-11-03",
+   "time": "19:30",
+   "sala": "Medica",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/849744#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-11-03",
+   "time": "21:45",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/849759#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-11-04",
+   "time": "15:00",
+   "sala": "Medica",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/849760#sala"
+  },
+  {
+   "film": "22304",
+   "cinema": 152,
+   "date": "2026-11-04",
+   "time": "15:15",
+   "sala": "ARLECCHINO",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/rider_2026-08b3f1bd-20c9-4451-bfcf-3e263a8a80f1/849790#sala"
+  },
+  {
+   "film": "22582",
+   "cinema": 152,
+   "date": "2026-11-04",
+   "time": "17:00",
+   "sala": "ARLECCHINO",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/wildwood-i-segreti-del-bosco-proibito_2026-2dc76a8f-e9b4-42e7-8c6f-44d723bf3a46/849795#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-11-04",
+   "time": "17:15",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/849745#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-11-04",
+   "time": "19:30",
+   "sala": "Medica",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/849761#sala"
+  },
+  {
+   "film": "22524",
+   "cinema": 170,
+   "date": "2026-11-04",
+   "time": "21:45",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/849746#sala"
   }
  ]
 }
