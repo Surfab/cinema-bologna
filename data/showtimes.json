@@ -249,7 +249,7 @@
     "Noah Toth",
     "Phinehas Yoon"
    ],
-   "rating": 3.7,
+   "rating": 3.8,
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69154.jpg",
    "scheda_url": "https://www.comingsoon.it/film/it-ends/69154/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/it-ends/69154/video/"
@@ -565,7 +565,7 @@
     "Giovanni Ludeno",
     "Giuseppe Brunetti"
    ],
-   "rating": 3.8,
+   "rating": 3.9,
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67032.jpg",
    "scheda_url": "https://www.comingsoon.it/film/je-so-pazzo/67032/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/je-so-pazzo/67032/video/"
@@ -740,13 +740,13 @@
    "cinema": 170,
    "date": "2026-10-28",
    "time": "15:00",
-   "sala": "Medica",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": null,
-   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/848042#sala"
+   "url": null
   },
   {
    "film": "22653",
@@ -757,18 +757,18 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003586/59915?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22653",
    "cinema": 167,
    "date": "2026-10-28",
    "time": "15:15",
-   "sala": "Jolly",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://jolly.popupcinema.18tickets.it/film/taddeo-l-esploratore-e-la-lampada-magica_2026-cc71669b-bb6c-412e-be8b-7203f4915a85/848095#sala"
+   "url": null
   },
   {
    "film": "22579",
@@ -779,53 +779,53 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59923?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22810",
    "cinema": 161,
    "date": "2026-10-28",
    "time": "15:30",
-   "sala": "Sala 3",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/shaun_2026/997291#sala"
+   "url": null
   },
   {
    "film": "21856",
    "cinema": 174,
    "date": "2026-10-28",
    "time": "15:30",
-   "sala": "Odeon C",
+   "sala": "Sala C",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://odeon.ccb.18tickets.it/film/ragione-e-sentimento-sense-and-sensibility-_2026/847734#sala"
+   "url": null
   },
   {
    "film": "22810",
    "cinema": 4587,
    "date": "2026-10-28",
    "time": "15:30",
-   "sala": "Europa Cinema",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://europa.ccb.18tickets.it/film/shaun-vita-da-pecora-operazione-z-u-c-c-a_2026-1886e1d7-1802-4503-978c-fc140286ba0a/851168#sala"
+   "url": null
   },
   {
    "film": "22608",
    "cinema": 152,
    "date": "2026-10-28",
    "time": "15:45",
-   "sala": "ARLECCHINO",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": null,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/it-ends-original-version_2026/848029#sala"
+   "url": null
   },
   {
    "film": "22582",
@@ -836,7 +836,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003740/59927?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22724",
@@ -847,40 +847,40 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003741/59921?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22713",
    "cinema": 179,
    "date": "2026-10-28",
    "time": "16:00",
-   "sala": "Roma D'Essai",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847590#sala"
+   "url": null
   },
   {
    "film": "21856",
    "cinema": 181,
    "date": "2026-10-28",
    "time": "16:00",
-   "sala": "SALA CHAPLIN",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 9.0,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1843/37727"
+   "url": null
   },
   {
    "film": "22430",
    "cinema": 178,
    "date": "2026-10-28",
    "time": "16:10",
-   "sala": "Rialto 2",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://rialto.ccb.18tickets.it/film/digger_2026/848835#sala"
+   "url": null
   },
   {
    "film": "22810",
@@ -891,53 +891,53 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003724/59924?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 174,
    "date": "2026-10-28",
    "time": "16:15",
-   "sala": "Odeon A",
+   "sala": "Sala A",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847642#sala"
+   "url": null
   },
   {
    "film": "22756",
    "cinema": 174,
    "date": "2026-10-28",
    "time": "16:15",
-   "sala": "Odeon D",
+   "sala": "Sala D",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-assurda-storia-della-gialappa-s-band_2026/847618#sala"
+   "url": null
   },
   {
    "film": "22713",
    "cinema": 5075,
    "date": "2026-10-28",
    "time": "16:15",
-   "sala": "Mastroianni",
+   "sala": "Sala Off. / Mastroianni",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756754#sala"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 161,
    "date": "2026-10-28",
    "time": "16:30",
-   "sala": "Sala1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/997289#sala"
+   "url": null
   },
   {
    "film": "22661",
@@ -959,29 +959,29 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003609/59930?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 174,
    "date": "2026-10-28",
    "time": "16:30",
-   "sala": "Odeon B",
+   "sala": "Sala B",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847716#sala"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 178,
    "date": "2026-10-28",
    "time": "16:30",
-   "sala": "Rialto 1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847663#sala"
+   "url": null
   },
   {
    "film": "22662",
@@ -992,18 +992,18 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003964/59919?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22653",
    "cinema": 167,
    "date": "2026-10-28",
    "time": "17:00",
-   "sala": "Jolly",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://jolly.popupcinema.18tickets.it/film/taddeo-l-esploratore-e-la-lampada-magica_2026-cc71669b-bb6c-412e-be8b-7203f4915a85/848096#sala"
+   "url": null
   },
   {
    "film": "22810",
@@ -1014,75 +1014,75 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003724/59538?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22661",
    "cinema": 5480,
    "date": "2026-10-28",
    "time": "17:00",
-   "sala": "Cervi",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 7.5,
-   "url": "http://cervi.cinetecabologna.18tickets.it/film/zustissia_2026-0ba9445f-04f5-4b64-ad3b-ef3993e8e8ef/756886#sala"
+   "url": null
   },
   {
    "film": "3255",
    "cinema": 5817,
    "date": "2026-10-28",
    "time": "17:00",
-   "sala": "Modernissimo",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://modernissimo.cinetecabologna.18tickets.it/film/l-infernale-quinlan-touch-of-evil-ed-spec-_1958/742709#sala"
+   "url": null
   },
   {
    "film": "22810",
    "cinema": 4587,
    "date": "2026-10-28",
    "time": "17:05",
-   "sala": "Europa Cinema",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://europa.ccb.18tickets.it/film/shaun-vita-da-pecora-operazione-z-u-c-c-a_2026-1886e1d7-1802-4503-978c-fc140286ba0a/851169#sala"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 161,
    "date": "2026-10-28",
    "time": "17:10",
-   "sala": "Sala 3",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/997292#sala"
+   "url": null
   },
   {
    "film": "22524",
    "cinema": 170,
    "date": "2026-10-28",
    "time": "17:15",
-   "sala": "Medica",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/848057#sala"
+   "url": null
   },
   {
    "film": "22608",
    "cinema": 152,
    "date": "2026-10-28",
    "time": "17:30",
-   "sala": "ARLECCHINO",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/it-ends-original-version_2026-dce51724-fd0c-44e8-a851-219d9237c029/848081#sala"
+   "url": null
   },
   {
    "film": "22608",
@@ -1093,7 +1093,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003853/59916?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22430",
@@ -1106,7 +1106,7 @@
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/756710#sala"
+   "url": null
   },
   {
    "film": "22582",
@@ -1117,130 +1117,130 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003740/59404?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22713",
    "cinema": 179,
    "date": "2026-10-28",
    "time": "17:45",
-   "sala": "Roma D'Essai",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847591#sala"
+   "url": null
   },
   {
    "film": "22324",
    "cinema": 5075,
    "date": "2026-10-28",
    "time": "18:00",
-   "sala": "Mastroianni",
+   "sala": "Sala Off. / Mastroianni",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/possible-love-ga-neung-han-sa-rang-_2026/756800#sala"
+   "url": null
   },
   {
    "film": "21856",
    "cinema": 174,
    "date": "2026-10-28",
    "time": "18:15",
-   "sala": "Odeon C",
+   "sala": "Sala C",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/ragione-e-sentimento-sense-and-sensibility-_2026/847735#sala"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 161,
    "date": "2026-10-28",
    "time": "18:30",
-   "sala": "Sala1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/je-so-pazzo_2026-0751ca98-0fe2-4d09-96eb-49c99f729883/997290#sala"
+   "url": null
   },
   {
    "film": "22756",
    "cinema": 174,
    "date": "2026-10-28",
    "time": "18:30",
-   "sala": "Odeon D",
+   "sala": "Sala D",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-assurda-storia-della-gialappa-s-band_2026/847619#sala"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 178,
    "date": "2026-10-28",
    "time": "18:40",
-   "sala": "Rialto 2",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847664#sala"
+   "url": null
   },
   {
    "film": "22430",
    "cinema": 167,
    "date": "2026-10-28",
    "time": "18:45",
-   "sala": "Jolly",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://jolly.popupcinema.18tickets.it/film/digger_2026-52d8cc8f-8645-4b7e-9422-73d4913ab6c1/848071#sala"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 174,
    "date": "2026-10-28",
    "time": "18:45",
-   "sala": "Odeon A",
+   "sala": "Sala A",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/847643#sala"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 174,
    "date": "2026-10-28",
    "time": "18:45",
-   "sala": "Odeon B",
+   "sala": "Sala B",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/847717#sala"
+   "url": null
   },
   {
    "film": "21856",
    "cinema": 181,
    "date": "2026-10-28",
    "time": "18:45",
-   "sala": "SALA CHAPLIN",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 9.0,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1843/37728"
+   "url": null
   },
   {
    "film": "22662",
    "cinema": 4587,
    "date": "2026-10-28",
    "time": "18:45",
-   "sala": "Europa Cinema",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://europa.ccb.18tickets.it/film/caro-mondo-crudele_2026/848281#sala"
+   "url": null
   },
   {
    "film": "3286",
@@ -1251,7 +1251,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003869/59092?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22555",
@@ -1275,18 +1275,18 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003381/59447?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 5074,
    "date": "2026-10-28",
    "time": "19:00",
-   "sala": "Bristol",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://bristol.popupcinema.18tickets.it/film/je-so-pazzo_2026-13a49103-d7ab-4222-8892-ab8d7203cab2/848107#sala"
+   "url": null
   },
   {
    "film": "22756",
@@ -1297,7 +1297,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003792/59929?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22661",
@@ -1308,7 +1308,7 @@
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://cinema.nosadella.18tickets.it/film/zustissia_2026/756937#sala"
+   "url": null
   },
   {
    "film": "22724",
@@ -1319,29 +1319,29 @@
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://cinema.nosadella.18tickets.it/film/klara-e-il-sole_2026/756929#sala"
+   "url": null
   },
   {
    "film": "22620",
    "cinema": 5480,
    "date": "2026-10-28",
    "time": "19:15",
-   "sala": "Cervi",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 7.5,
-   "url": "http://cervi.cinetecabologna.18tickets.it/film/il-tempo-di-anne-lol-2-_2026/756870#sala"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 161,
    "date": "2026-10-28",
    "time": "19:20",
-   "sala": "Sala 3",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/997293#sala"
+   "url": null
   },
   {
    "film": "22433",
@@ -1352,44 +1352,44 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003381/59931?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22608",
    "cinema": 152,
    "date": "2026-10-28",
    "time": "19:30",
-   "sala": "ARLECCHINO",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": null,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/it-ends-original-version_2026/848027#sala"
+   "url": null
   },
   {
    "film": "22524",
    "cinema": 170,
    "date": "2026-10-28",
    "time": "19:30",
-   "sala": "Medica",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": null,
-   "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/848043#sala"
+   "url": null
   },
   {
    "film": "22713",
    "cinema": 179,
    "date": "2026-10-28",
    "time": "19:30",
-   "sala": "Roma D'Essai",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/847592#sala"
+   "url": null
   },
   {
    "film": "22579",
@@ -1400,7 +1400,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/59920?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22259",
@@ -1411,7 +1411,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003830/59917?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22713",
@@ -1424,7 +1424,7 @@
     "V.O."
    ],
    "price": null,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/756742#sala"
+   "url": null
   },
   {
    "film": "22608",
@@ -1435,18 +1435,18 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003853/59925?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22756",
    "cinema": 174,
    "date": "2026-10-28",
    "time": "20:45",
-   "sala": "Odeon D",
+   "sala": "Sala D",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-assurda-storia-della-gialappa-s-band_2026/847620#sala"
+   "url": null
   },
   {
    "film": "21856",
@@ -1794,6 +1794,28 @@
   },
   {
    "film": "22810",
+   "cinema": 171,
+   "date": "2026-10-29",
+   "time": "15:00",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003724/60044?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22608",
+   "cinema": 171,
+   "date": "2026-10-29",
+   "time": "15:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003853/60109?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22810",
    "cinema": 161,
    "date": "2026-10-29",
    "time": "15:30",
@@ -1884,6 +1906,17 @@
   },
   {
    "film": "22259",
+   "cinema": 171,
+   "date": "2026-10-29",
+   "time": "16:20",
+   "sala": "Sala 5",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003830/59996?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22259",
    "cinema": 178,
    "date": "2026-10-29",
    "time": "16:20",
@@ -1903,6 +1936,28 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/851285#sala"
+  },
+  {
+   "film": "22582",
+   "cinema": 171,
+   "date": "2026-10-29",
+   "time": "16:40",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003740/60089?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22579",
+   "cinema": 171,
+   "date": "2026-10-29",
+   "time": "16:50",
+   "sala": "Sala 8",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003766/60064?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22810",
@@ -1995,6 +2050,17 @@
    "tags": [],
    "price": null,
    "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/998328#sala"
+  },
+  {
+   "film": "22810",
+   "cinema": 171,
+   "date": "2026-10-29",
+   "time": "18:40",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003724/59973?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22259",
@@ -2098,6 +2164,17 @@
    ],
    "price": null,
    "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026/849734#sala"
+  },
+  {
+   "film": "22608",
+   "cinema": 171,
+   "date": "2026-10-29",
+   "time": "19:30",
+   "sala": "Sala 8",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003853/60065?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22713",
@@ -2286,6 +2363,39 @@
    ],
    "price": null,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/761031#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 171,
+   "date": "2026-10-29",
+   "time": "22:20",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003830/60111?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22433",
+   "cinema": 171,
+   "date": "2026-10-29",
+   "time": "22:20",
+   "sala": "Sala 4",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003381/60011?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22608",
+   "cinema": 171,
+   "date": "2026-10-29",
+   "time": "22:50",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003853/60046?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22524",
@@ -5190,6 +5300,19 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003853/59981?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22430",
+   "cinema": 5075,
+   "date": "2026-11-04",
+   "time": "10:00",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/761541#sala"
   },
   {
    "film": "22524",

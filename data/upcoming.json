@@ -249,6 +249,21 @@
    "from": "2026-11-05",
    "films": [
     {
+     "cs_id": 69566,
+     "title": "Dal Nulla",
+     "original_title": "",
+     "genres": [
+      "Drammatico",
+      "Thriller"
+     ],
+     "year": "2026",
+     "director": "Joe Juanne Piras",
+     "distributor": "La Sarraz Distribuzione",
+     "release_date": "2026-11-04",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69566.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/dal-nulla/69566/scheda/"
+    },
+    {
      "cs_id": 68123,
      "title": "Ferine",
      "original_title": "",
@@ -294,6 +309,20 @@
      "release_date": "2026-11-05",
      "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67427.jpg",
      "scheda_url": "https://www.comingsoon.it/film/il-gatto-col-cappello/67427/scheda/"
+    },
+    {
+     "cs_id": 68527,
+     "title": "La Guerra dei Prezzi",
+     "original_title": "La Guerre des Prix",
+     "genres": [
+      "Drammatico"
+     ],
+     "year": "2026",
+     "director": "Anthony Dechaux",
+     "distributor": "Kitchen Film",
+     "release_date": "2026-11-05",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/ico/def.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/la-guerra-dei-prezzi/68527/scheda/"
     },
     {
      "cs_id": 68907,
