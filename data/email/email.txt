@@ -1,7 +1,7 @@
 Cinema a Bologna, da giovedì 29 ottobre a mercoledì 4 novembre
-Orari aggiornati giovedì 29 ottobre alle 11:34.
+Orari aggiornati giovedì 29 ottobre alle 12:30.
 
-== Nuovi questa settimana (8) ==
+== Nuovi questa settimana (9) ==
 
 Dio Ride
 Drammatico, storico, commedia. 114 min. Al cinema dal 29 ottobre
@@ -55,6 +55,25 @@ Commedia. Al cinema dal 29 ottobre
     lun 2: 16:15, 18:30, 20:45
     mar 3: 16:15, 18:30, 20:45
     mer 4: 16:15, 18:30, 20:45
+
+Minotaur
+Drammatico, thriller. 140 min. Al cinema dal 29 ottobre
+  Lumière
+    gio 29: 15:30 V.O., 19:15 V.O., 21:45 V.O.
+    ven 30: 16:15 V.O., 18:45 V.O., 21:15 V.O.
+    sab 31: 16:15 V.O., 18:45 V.O., 21:15 V.O.
+    dom 1: 10:30 V.O., 16:15 V.O., 18:45 V.O., 21:15 V.O.
+    lun 2: 16:15 V.O., 18:45 V.O., 21:15 V.O.
+    mar 3: 16:15 V.O., 18:45 V.O., 21:15 V.O.
+    mer 4: 16:15 V.O., 18:45 V.O., 21:15 V.O.
+  Rialto
+    gio 29: 16:00, 18:45, 21:00 V.O.
+    ven 30: 16:00, 18:45, 21:00 V.O.
+    sab 31: 16:00, 18:45, 21:00 V.O.
+    dom 1: 16:00, 18:45, 21:00 V.O.
+    lun 2: 16:00, 18:45, 21:00 V.O.
+    mar 3: 16:00, 18:45, 21:00 V.O.
+    mer 4: 16:00, 18:45, 21:00 V.O.
 
 It Ends
 Drammatico, fantascienza, horror. 89 min. Al cinema dal 28 ottobre
@@ -134,7 +153,7 @@ Documentario, musicale. 147 min. Al cinema dal 28 ottobre
   The Space
     gio 29: 21:50 V.O.
 
-== Ancora in sala (16) ==
+== Ancora in sala (17) ==
 
 L'Estranea
 Drammatico, thriller. 115 min. Al cinema dall'8 ottobre
@@ -353,6 +372,11 @@ Commedia, horror, musicale. 100 min. Al cinema dal 27 ottobre
     gio 29: 22:30 V.O.
     ven 30: 22:15 V.O.
     sab 31: 20:00 V.O.
+
+Il bacio della pantera (Cat People)
+Horror, fantasy. 118 min
+  Perla
+    gio 29: 20:00 V.O., 22:30 V.O.
 
 Ritorno a Buenos Aires (Volver a Buenos Aires)
 Drammatico. 104 min. Al cinema dal 17 settembre

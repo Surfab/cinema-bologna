@@ -33,7 +33,7 @@
    "short": "Perla",
    "address": "Via S. Donato, 34/2",
    "url": "https://www.comingsoon.it/cinema/bologna/cinema-perla/177/",
-   "active": false
+   "active": true
   },
   {
    "id": 182,
@@ -216,6 +216,28 @@
    "trailer_url": "https://www.comingsoon.it/film/nel-silenzio-delle-stanze/68448/video/"
   },
   {
+   "idf": "22777",
+   "cs_id": 68680,
+   "title": "Minotaur",
+   "original_title": "",
+   "genres": [
+    "Drammatico",
+    "Thriller"
+   ],
+   "duration": 140,
+   "release_date": "2026-10-29",
+   "cast": [
+    "Anatoliy Beliy",
+    "Juris Zagars",
+    "Varvara Shmykova",
+    "Vladimir Friedman"
+   ],
+   "rating": 4.1,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68680.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/minotaur/68680/scheda/",
+   "trailer_url": "https://www.comingsoon.it/film/minotaur/68680/video/"
+  },
+  {
    "idf": "22655",
    "cs_id": 68252,
    "title": "Ice Cream Man",
@@ -237,7 +259,7 @@
    "trailer_url": "https://www.comingsoon.it/film/ice-cream-man/68252/video/"
   },
   {
-   "idf": "22358",
+   "idf": "4332",
    "cs_id": 1291,
    "title": "Fast and Furious",
    "original_title": "The Fast and the Furious",
@@ -647,6 +669,28 @@
    "trailer_url": "https://www.comingsoon.it/film/possible-love/69243/video/"
   },
   {
+   "idf": "17369",
+   "cs_id": 14575,
+   "title": "Il bacio della pantera",
+   "original_title": "Cat People",
+   "genres": [
+    "Horror",
+    "Fantasy"
+   ],
+   "duration": 118,
+   "release_date": null,
+   "cast": [
+    "Nastassja Kinski",
+    "Malcolm McDowell",
+    "John Heard",
+    "Annette O'Toole"
+   ],
+   "rating": 4.2,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/14575.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/il-bacio-della-pantera/14575/scheda/",
+   "trailer_url": null
+  },
+  {
    "idf": "22797",
    "cs_id": 68930,
    "title": "Il Labirinto",
@@ -792,6 +836,19 @@
    "url": "http://europa.ccb.18tickets.it/film/shaun-vita-da-pecora-operazione-z-u-c-c-a_2026-1886e1d7-1802-4503-978c-fc140286ba0a/851170#sala"
   },
   {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-10-29",
+   "time": "15:30",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": 7.5,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761047#sala"
+  },
+  {
    "film": "22713",
    "cinema": 5075,
    "date": "2026-10-29",
@@ -827,7 +884,7 @@
    "url": null
   },
   {
-   "film": "22358",
+   "film": "4332",
    "cinema": 171,
    "date": "2026-10-29",
    "time": "16:00",
@@ -836,6 +893,17 @@
    "tags": [],
    "price": 10.9,
    "url": null
+  },
+  {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-10-29",
+   "time": "16:00",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": 8.0,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/850982#sala"
   },
   {
    "film": "22713",
@@ -1187,6 +1255,17 @@
    "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/851286#sala"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-10-29",
+   "time": "18:45",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": 10.0,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/850983#sala"
+  },
+  {
    "film": "21856",
    "cinema": 181,
    "date": "2026-10-29",
@@ -1264,6 +1343,19 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003650/59997?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-10-29",
+   "time": "19:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": 7.5,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761051#sala"
+  },
+  {
    "film": "22661",
    "cinema": 5085,
    "date": "2026-10-29",
@@ -1286,7 +1378,7 @@
    "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/998332#sala"
   },
   {
-   "film": "22358",
+   "film": "4332",
    "cinema": 171,
    "date": "2026-10-29",
    "time": "19:20",
@@ -1363,6 +1455,19 @@
    ],
    "price": 7.5,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/761027#sala"
+  },
+  {
+   "film": "17369",
+   "cinema": 177,
+   "date": "2026-10-29",
+   "time": "20:00",
+   "sala": "Sala 1",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": 10.0,
+   "url": null
   },
   {
    "film": "22239",
@@ -1446,6 +1551,19 @@
    "tags": [],
    "price": 10.0,
    "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/851287#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-10-29",
+   "time": "21:00",
+   "sala": "Rialto 2",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": 10.0,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-_2026-0c9f4ec0-edbc-40fa-8631-4c3121d665df/851045#sala"
   },
   {
    "film": "22430",
@@ -1588,7 +1706,7 @@
    "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/998333#sala"
   },
   {
-   "film": "22358",
+   "film": "4332",
    "cinema": 171,
    "date": "2026-10-29",
    "time": "21:30",
@@ -1634,6 +1752,19 @@
    ],
    "price": null,
    "url": "http://medica.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/849749#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-10-29",
+   "time": "21:45",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": 7.5,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761052#sala"
   },
   {
    "film": "22549",
@@ -1695,6 +1826,19 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003381/60011?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "17369",
+   "cinema": 177,
+   "date": "2026-10-29",
+   "time": "22:30",
+   "sala": "Sala 1",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": 10.0,
+   "url": null
+  },
+  {
    "film": "9085",
    "cinema": 5817,
    "date": "2026-10-29",
@@ -1708,7 +1852,7 @@
    "url": "http://modernissimo.cinetecabologna.18tickets.it/film/the-rocky-horror-picture-show_1976-ed24099e-cbff-4ced-9104-4c40f6de5175/743195#sala"
   },
   {
-   "film": "22358",
+   "film": "4332",
    "cinema": 171,
    "date": "2026-10-29",
    "time": "22:40",
@@ -1833,6 +1977,17 @@
    "url": "http://cervi.cinetecabologna.18tickets.it/film/possible-love-ga-neung-han-sa-rang-_2026/761111#sala"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-10-30",
+   "time": "16:00",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/850984#sala"
+  },
+  {
    "film": "22713",
    "cinema": 179,
    "date": "2026-10-30",
@@ -1921,6 +2076,19 @@
    ],
    "price": null,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/761013#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-10-30",
+   "time": "16:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761053#sala"
   },
   {
    "film": "22259",
@@ -2158,6 +2326,17 @@
    "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/851289#sala"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-10-30",
+   "time": "18:45",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/850985#sala"
+  },
+  {
    "film": "21856",
    "cinema": 181,
    "date": "2026-10-30",
@@ -2178,6 +2357,19 @@
    "tags": [],
    "price": null,
    "url": "http://bristol.popupcinema.18tickets.it/film/je-so-pazzo_2026-13a49103-d7ab-4222-8892-ab8d7203cab2/849695#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-10-30",
+   "time": "18:45",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761054#sala"
   },
   {
    "film": "22661",
@@ -2395,6 +2587,19 @@
    "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/851290#sala"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-10-30",
+   "time": "21:00",
+   "sala": "Rialto 2",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/851007#sala"
+  },
+  {
    "film": "22430",
    "cinema": 4587,
    "date": "2026-10-30",
@@ -2487,6 +2692,19 @@
    "tags": [],
    "price": null,
    "url": "http://bristol.popupcinema.18tickets.it/film/je-so-pazzo_2026-13a49103-d7ab-4222-8892-ab8d7203cab2/849696#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-10-30",
+   "time": "21:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761055#sala"
   },
   {
    "film": "22655",
@@ -2739,6 +2957,17 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003797/60024?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-10-31",
+   "time": "16:00",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/850986#sala"
+  },
+  {
    "film": "22713",
    "cinema": 179,
    "date": "2026-10-31",
@@ -2829,6 +3058,19 @@
    ],
    "price": null,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/761034#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-10-31",
+   "time": "16:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761056#sala"
   },
   {
    "film": "22259",
@@ -3090,6 +3332,17 @@
    "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/851292#sala"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-10-31",
+   "time": "18:45",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/850987#sala"
+  },
+  {
    "film": "21856",
    "cinema": 181,
    "date": "2026-10-31",
@@ -3110,6 +3363,19 @@
    "tags": [],
    "price": null,
    "url": "http://bristol.popupcinema.18tickets.it/film/je-so-pazzo_2026-13a49103-d7ab-4222-8892-ab8d7203cab2/849698#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-10-31",
+   "time": "18:45",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761057#sala"
   },
   {
    "film": "22281",
@@ -3342,6 +3608,19 @@
    "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/851293#sala"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-10-31",
+   "time": "21:00",
+   "sala": "Rialto 2",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/851008#sala"
+  },
+  {
    "film": "22579",
    "cinema": 5074,
    "date": "2026-10-31",
@@ -3408,6 +3687,19 @@
    "tags": [],
    "price": null,
    "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1843/37740"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-10-31",
+   "time": "21:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761058#sala"
   },
   {
    "film": "22736",
@@ -3546,6 +3838,19 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003381/60009?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-11-01",
+   "time": "10:30",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761050#sala"
   },
   {
    "film": "22582",
@@ -3695,6 +4000,17 @@
    "url": "http://cervi.cinetecabologna.18tickets.it/film/possible-love-ga-neung-han-sa-rang-_2026/761120#sala"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-01",
+   "time": "16:00",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/850988#sala"
+  },
+  {
    "film": "22713",
    "cinema": 179,
    "date": "2026-11-01",
@@ -3807,6 +4123,19 @@
    ],
    "price": null,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/761036#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-11-01",
+   "time": "16:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761059#sala"
   },
   {
    "film": "22259",
@@ -4066,6 +4395,17 @@
    "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/851295#sala"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-01",
+   "time": "18:45",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/850989#sala"
+  },
+  {
    "film": "21856",
    "cinema": 181,
    "date": "2026-11-01",
@@ -4075,6 +4415,19 @@
    "tags": [],
    "price": null,
    "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1843/37742"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-11-01",
+   "time": "18:45",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761060#sala"
   },
   {
    "film": "22661",
@@ -4305,6 +4658,19 @@
    "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/851296#sala"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-01",
+   "time": "21:00",
+   "sala": "Rialto 2",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-_2026-0c9f4ec0-edbc-40fa-8631-4c3121d665df/851022#sala"
+  },
+  {
    "film": "22430",
    "cinema": 4587,
    "date": "2026-11-01",
@@ -4386,6 +4752,19 @@
    "tags": [],
    "price": null,
    "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1843/37743"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-11-01",
+   "time": "21:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761061#sala"
   },
   {
    "film": "22608",
@@ -4594,6 +4973,17 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003797/59982?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-02",
+   "time": "16:00",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/850990#sala"
+  },
+  {
    "film": "22713",
    "cinema": 179,
    "date": "2026-11-02",
@@ -4649,6 +5039,19 @@
    ],
    "price": null,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/761024#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-11-02",
+   "time": "16:15",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761048#sala"
   },
   {
    "film": "22661",
@@ -4875,6 +5278,17 @@
    "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/851298#sala"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-02",
+   "time": "18:45",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/850991#sala"
+  },
+  {
    "film": "22713",
    "cinema": 5075,
    "date": "2026-11-02",
@@ -4886,6 +5300,19 @@
    ],
    "price": null,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/761038#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-11-02",
+   "time": "18:45",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761049#sala"
   },
   {
    "film": "22662",
@@ -5068,6 +5495,19 @@
    "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/851299#sala"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-02",
+   "time": "21:00",
+   "sala": "Rialto 2",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-_2026-0c9f4ec0-edbc-40fa-8631-4c3121d665df/851023#sala"
+  },
+  {
    "film": "22281",
    "cinema": 167,
    "date": "2026-11-02",
@@ -5112,6 +5552,19 @@
    ],
    "price": null,
    "url": "http://roma.ccb.18tickets.it/film/fatherland_2026-108135e0-0687-4591-87d0-9e4549673d64/851160#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-11-02",
+   "time": "21:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761068#sala"
   },
   {
    "film": "22608",
@@ -5346,6 +5799,17 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003650/60069?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-03",
+   "time": "16:00",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/850992#sala"
+  },
+  {
    "film": "22713",
    "cinema": 179,
    "date": "2026-11-03",
@@ -5410,6 +5874,19 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/851241#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-11-03",
+   "time": "16:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761062#sala"
   },
   {
    "film": "22259",
@@ -5662,6 +6139,17 @@
    "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/851301#sala"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-03",
+   "time": "18:45",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/850993#sala"
+  },
+  {
    "film": "21856",
    "cinema": 181,
    "date": "2026-11-03",
@@ -5671,6 +6159,19 @@
    "tags": [],
    "price": null,
    "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1843/37748"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-11-03",
+   "time": "18:45",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761063#sala"
   },
   {
    "film": "22661",
@@ -5877,6 +6378,19 @@
    "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/851302#sala"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-03",
+   "time": "21:00",
+   "sala": "Rialto 2",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-_2026-0c9f4ec0-edbc-40fa-8631-4c3121d665df/851024#sala"
+  },
+  {
    "film": "22430",
    "cinema": 4587,
    "date": "2026-11-03",
@@ -5958,6 +6472,19 @@
    "tags": [],
    "price": null,
    "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1849/37749"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-11-03",
+   "time": "21:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761064#sala"
   },
   {
    "film": "22281",
@@ -6181,6 +6708,17 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003740/60030?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-04",
+   "time": "16:00",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/850994#sala"
+  },
+  {
    "film": "22713",
    "cinema": 179,
    "date": "2026-11-04",
@@ -6234,6 +6772,19 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/851244#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-11-04",
+   "time": "16:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761065#sala"
   },
   {
    "film": "22259",
@@ -6473,6 +7024,17 @@
    "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/851266#sala"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-04",
+   "time": "18:45",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/850995#sala"
+  },
+  {
    "film": "21856",
    "cinema": 181,
    "date": "2026-11-04",
@@ -6482,6 +7044,19 @@
    "tags": [],
    "price": null,
    "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1843/37751"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-11-04",
+   "time": "18:45",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761066#sala"
   },
   {
    "film": "22661",
@@ -6723,6 +7298,19 @@
    "url": "http://odeon.ccb.18tickets.it/film/ragione-e-sentimento-sense-and-sensibility-_2026-2cc17719-c68d-4598-8cd1-7383eb6589d6/851284#sala"
   },
   {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-04",
+   "time": "21:00",
+   "sala": "Rialto 2",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-_2026-0c9f4ec0-edbc-40fa-8631-4c3121d665df/851025#sala"
+  },
+  {
    "film": "22430",
    "cinema": 4587,
    "date": "2026-11-04",
@@ -6826,6 +7414,19 @@
    "tags": [],
    "price": null,
    "url": "http://bristol.popupcinema.18tickets.it/film/je-so-pazzo_2026-13a49103-d7ab-4222-8892-ab8d7203cab2/849704#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 5075,
+   "date": "2026-11-04",
+   "time": "21:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/761067#sala"
   },
   {
    "film": "22655",
