@@ -8,7 +8,7 @@ Sito: https://surfab.github.io/cinema-bologna/ · Progetto personale di Fabri, n
 
 ```bash
 pip install -r scraper/requirements.txt
-python -m unittest discover -s tests -v                  # 31 test, ~1 secondo, niente rete
+python -m unittest discover -s tests -v                  # 33 test, ~1 secondo, niente rete
 python scraper/scrape.py --out /tmp/prova --only odeon   # un cinema solo, per provare
 python scraper/scrape.py --out data                      # giro completo, ~150 richieste, 2-4 minuti
 python scraper/weekly_email.py --data data/showtimes.json --meta data/meta.json \
@@ -35,7 +35,7 @@ python -m http.server 8000                               # sito su http://localh
 - Rispetta comingsoon: lascia il ritardo di 1,5 secondi tra le richieste e lo user agent che rimanda al repo.
 - Se comingsoon cambia l'HTML: salva la nuova pagina in `tests/fixtures/`, scrivi prima il test che fallisce, poi correggi il parser.
 - `weekly_email.py` usa solo la libreria standard.
-- La mail passa dal connettore Gmail, che toglie `<style>`, gli attributi `class` e la forma breve `background:`. Quindi solo stili inline sui tag, `background-color` esplicito, layout a tabelle, HTML sotto i 102 KB (la settimana del 29 ottobre 2026 era già a 88 KB: margine stretto).
+- La mail passa dal connettore Gmail, che toglie `<style>`, gli attributi `class` e la forma breve `background:`. Quindi solo stili inline sui tag, `background-color` esplicito, layout a tabelle, HTML sotto i 102 KB (la settimana del 29 ottobre 2026 pesava 88 KB, ora 56 KB; un test fallisce sopra i 95 KB).
 - Un task programmato di Claude, il giovedì alle 10:45, scarica `data/email/` e spedisce la mail controllando `summary.json`. Non rinominare quei file né cambiare le chiavi di `summary.json` senza dirlo a Fabri: il task si romperebbe.
 - I cron del workflow sono in UTC. Gli orari di Bologna cambiano con l'ora legale.
 - Sito: niente framework, niente dipendenze npm. Colori come token in `:root` con la variante scura, `localStorage` solo tramite `load()`/`save()` che hanno già il try/catch.

@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-10-29, mail del giovedì più leggera
+
+- I giorni consecutivi con gli stessi orari stanno su una riga sola ("gio 29–mer 4"), sia nell'HTML sia nel testo. Un giorno senza spettacoli spezza il gruppo
+- Colore e grassetto degli orari stanno sulla tabella, non più su ogni cella; stile della V.O. più corto
+- Settimana del 29 ottobre 2026: HTML da 88 a 56 KB (Gmail taglia oltre i 102 KB)
+- Nuova fixture `tests/fixtures/settimana_2026-10-29/` con i dati veri di quella settimana: il test fallisce se l'HTML supera i 95 KB
+- 2 test in più (33 in tutto)
+
 ## 2026-10-15, mail leggibile in Gmail
 
 - Il connettore Gmail toglie `<style>`, gli attributi `class` e la forma abbreviata `background:`: la mail arrivava senza grafica

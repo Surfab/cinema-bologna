@@ -83,7 +83,7 @@ def build(data: dict, meta: Optional[dict], today: dt.date, upcoming: Optional[d
             places.append({
                 "cinema": cinemas[cid]["short"],
                 "days": [
-                    {"label": short_day(d(day)), "times": sorted(set(times))}
+                    {"date": day, "label": short_day(d(day)), "times": sorted(set(times))}
                     for day, times in sorted(days.items())
                 ],
             })
@@ -152,6 +152,22 @@ def film_meta(f: dict, today: dt.date) -> str:
     return ". ".join(bits)
 
 
+def day_runs(days: list) -> list:
+    """Unisce i giorni di calendario consecutivi con gli stessi orari: 'gio 29–mer 4'.
+
+    Un giorno senza spettacoli interrompe il gruppo, cosi' non sembra che il film ci sia.
+    """
+    runs: list = []
+    for day in days:
+        last = runs[-1] if runs else None
+        if last and last["times"] == day["times"] and d(day["date"]) - d(last["to"]) == dt.timedelta(days=1):
+            last["to"], last["to_label"] = day["date"], day["label"]
+        else:
+            runs.append({"from_label": day["label"], "to": day["date"], "to_label": day["label"], "times": day["times"]})
+    return [{"label": r["from_label"] if r["from_label"] == r["to_label"] else f"{r['from_label']}–{r['to_label']}",
+             "times": r["times"]} for r in runs]
+
+
 def times_text(times: list) -> str:
     return ", ".join(f"{t} V.O." if vo else t for t, vo in times)
 
@@ -191,7 +207,7 @@ def render_text(w: dict) -> str:
                 out.append(meta)
             for p in r["places"]:
                 out.append(f"  {p['cinema']}")
-                for day in p["days"]:
+                for day in day_runs(p["days"]):
                     out.append(f"    {day['label']}: {times_text(day['times'])}")
 
     section("Nuovi questa settimana", w["new"], "Nessun film nuovo in programmazione a Bologna questa settimana.")
@@ -257,12 +273,12 @@ S = {
     "o": f"color:{MUTED};font-weight:normal;font-size:14px",
     "m": f"color:{MUTED};font-size:13px;margin:2px 0 6px",
     "cin": f"font-size:14px;font-weight:bold;margin:8px 0 2px;color:{INK}",
-    "grid": "border-collapse:collapse;font-size:14px",
     # Le righe degli orari si ripetono centinaia di volte: stili corti, o Gmail
-    # taglia la mail oltre i 102 KB.
-    "day": f"color:{MUTED};padding:1px 10px 1px 0;white-space:nowrap",
-    "times": "color:#7B1F2D;font-weight:bold;padding:1px 0",
-    "v": "background-color:#CDEADB;color:#1C5A3B;padding:0 3px;white-space:nowrap",
+    # taglia la mail oltre i 102 KB. Colore e grassetto degli orari stanno sulla
+    # tabella e le celle li ereditano; la cella del giorno li riporta al normale.
+    "grid": "border-collapse:collapse;font-size:14px;color:#7B1F2D;font-weight:bold",
+    "day": f"color:{MUTED};font-weight:normal;padding-right:10px;white-space:nowrap",
+    "v": "background-color:#CDEADB;color:#1C5A3B",
     "e": f"color:{MUTED}",
     "h3": f"font-size:15px;margin:14px 0 4px;color:{INK}",
     "u": "margin:0 0 8px;font-size:14px",
@@ -283,7 +299,7 @@ def render_html(w: dict) -> str:
         return f'<a href="{esc(url)}" style="{style}">{text}</a>' if url else text
 
     def times_html(times: list) -> str:
-        return " &nbsp;".join(f'<span style="{S["v"]}">{t} V.O.</span>' if vo else t for t, vo in times)
+        return " &nbsp;".join(f'<span style="{S["v"]}">{t}&nbsp;V.O.</span>' if vo else t for t, vo in times)
 
     def film_html(r: dict, old: bool) -> str:
         f = r["film"]
@@ -294,8 +310,8 @@ def render_html(w: dict) -> str:
             f'<p style="{S["cin"]}">{esc(p["cinema"])}</p>'
             f'<table role="presentation" cellpadding="0" cellspacing="0" style="{S["grid"]}">'
             + "".join(
-                f'<tr valign="top"><td style="{S["day"]}">{esc(day["label"])}</td><td style="{S["times"]}">{times_html(day["times"])}</td></tr>'
-                for day in p["days"]
+                f'<tr valign="top"><td style="{S["day"]}">{esc(day["label"])}</td><td>{times_html(day["times"])}</td></tr>'
+                for day in day_runs(p["days"])
             )
             + "</table>"
             for p in r["places"]

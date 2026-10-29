@@ -39,7 +39,7 @@ Ogni giovedì mattina arriva una mail con i film della settimana (da giovedì a 
 - **Nuovi questa settimana**: tutto ciò che è uscito dopo il giovedì precedente, più le uscite dei giorni successivi
 - **Ancora in sala**: gli altri film, in una sezione separata
 - **In uscita dal giovedì successivo**: le uscite italiane della settimana dopo, con genere e regia, e i cinema di Bologna che le hanno già in programma
-- Per ogni film in sala: cinema, giorni e orari, con la V.O. evidenziata
+- Per ogni film in sala: cinema, giorni e orari, con la V.O. evidenziata; i giorni di fila con gli stessi orari stanno su una riga ("gio 29–mer 4")
 
 La mail la prepara `scraper/weekly_email.py` (solo libreria standard, testato in CI). Il giovedì il workflow la genera dopo lo scraping e la salva in `data/email/`; un task programmato di Claude scarica quei file di testo, controlla che `summary.json` riporti la settimana di oggi e li spedisce con Gmail, senza eseguire codice. Per provarla in locale:
 
