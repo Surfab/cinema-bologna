@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-29, action del workflow aggiornate
+
+- `actions/checkout` da v4 a v7 e `actions/setup-python` da v5 a v7: girano su Node 24, sparisce l'avviso su Node 20 deprecato
+- Nessun cambio nel comportamento dello scraping o della mail
+
 ## 2026-10-29, mail del giovedì più leggera
 
 - I giorni consecutivi con gli stessi orari stanno su una riga sola ("gio 29–mer 4"), sia nell'HTML sia nel testo. Un giorno senza spettacoli spezza il gruppo
