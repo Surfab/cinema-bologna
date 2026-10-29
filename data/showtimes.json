@@ -1182,11 +1182,11 @@
    "cinema": 161,
    "date": "2026-10-29",
    "time": "18:30",
-   "sala": "Sala1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/998328#sala"
+   "url": null
   },
   {
    "film": "22661",
@@ -1204,11 +1204,11 @@
    "cinema": 174,
    "date": "2026-10-29",
    "time": "18:30",
-   "sala": "Odeon A",
+   "sala": "Sala A",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/851227#sala"
+   "url": null
   },
   {
    "film": "22810",
@@ -1219,73 +1219,73 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003724/59973?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 178,
    "date": "2026-10-29",
    "time": "18:40",
-   "sala": "Rialto 2",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://rialto.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/851065#sala"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 174,
    "date": "2026-10-29",
    "time": "18:45",
-   "sala": "Odeon B",
+   "sala": "Sala B",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/851248#sala"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 174,
    "date": "2026-10-29",
    "time": "18:45",
-   "sala": "Odeon D",
+   "sala": "Sala D",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/851286#sala"
+   "url": null
   },
   {
    "film": "22777",
    "cinema": 178,
    "date": "2026-10-29",
    "time": "18:45",
-   "sala": "Rialto 1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/850983#sala"
+   "url": null
   },
   {
    "film": "21856",
    "cinema": 181,
    "date": "2026-10-29",
    "time": "18:45",
-   "sala": "SALA CHAPLIN",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 9.0,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1843/37733"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 5074,
    "date": "2026-10-29",
    "time": "18:45",
-   "sala": "Bristol",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://bristol.popupcinema.18tickets.it/film/je-so-pazzo_2026-13a49103-d7ab-4222-8892-ab8d7203cab2/849693#sala"
+   "url": null
   },
   {
    "film": "22662",
