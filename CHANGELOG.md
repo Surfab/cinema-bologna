@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-29, niente orari di ieri nel giro notturno
+
+- La pagina del cinema su comingsoon non scrive la data e, di notte, mostra ancora la programmazione del giorno prima. Il giro del 29/10 alle 03:24 aveva registrato come giovedì 62 spettacoli di mercoledì (su 116), finiti anche nella mail
+- Prima delle 6 (ora di Roma) lo scraper usa solo le pagine con le date: niente orari presi solo dalla pagina del cinema, niente prezzi di "oggi". La pagina del cinema serve ancora a capire se uno spettacolo è in V.O.
+- Effetto collaterale voluto: nella mail del giovedì mancano gli spettacoli di oggi senza vendita online (per esempio Jolly, Galliera, Modernissimo, Bellinzona). Il giro delle 6:17 li rimette sul sito
+- 6 test in più (37 in tutto), con il caso reale del Rialto
+
 ## 2026-10-15, mail leggibile in Gmail
 
 - Il connettore Gmail toglie `<style>`, gli attributi `class` e la forma abbreviata `background:`: la mail arrivava senza grafica
