@@ -188,6 +188,59 @@ class BuildShows(unittest.TestCase):
         self.assertEqual([s["date"] for s in shows], ["2026-10-18"])
 
 
+class NightRun(unittest.TestCase):
+    """Il caso del 29/10/2026: giro alle 03:24, pagina cinema ancora con gli orari del 28."""
+
+    # Rialto, L'Estranea: pagina cinema = orari di ieri, pagina date = orari veri di oggi
+    ESTRANEA = {"salas": [
+        {"sala": "Sala 1", "seats": None, "tags": [], "vo": False,
+         "times": [{"time": "16:30", "price": 8.0}, {"time": "21:00", "price": 10.0}]},
+        {"sala": "Sala 2", "seats": None, "tags": [], "vo": False,
+         "times": [{"time": "18:40", "price": 10.0}]},
+    ]}
+    ESTRANEA_TICKET = [
+        {"date": "2026-10-29", "time": "16:20", "sala": "Rialto 2", "url": "u1"},
+        {"date": "2026-10-29", "time": "18:40", "sala": "Rialto 2", "url": "u2"},
+        {"date": "2026-10-29", "time": "21:30", "sala": "Rialto 1", "url": "u3"},
+    ]
+    # Rialto, Digger: solo sulla pagina cinema (ultimo spettacolo era il 28)
+    DIGGER = {"salas": [
+        {"sala": "Sala 2", "seats": None, "tags": [], "vo": False, "times": [{"time": "16:10", "price": 8.0}]},
+    ]}
+    DAY = dt.date(2026, 10, 29)
+
+    def test_page_is_today_by_hour(self):
+        self.assertFalse(scrape.page_is_today(dt.datetime(2026, 10, 29, 3, 24, tzinfo=scrape.ROME)))
+        self.assertFalse(scrape.page_is_today(dt.datetime(2026, 10, 29, 0, 17, tzinfo=scrape.ROME)))
+        self.assertTrue(scrape.page_is_today(dt.datetime(2026, 10, 29, 6, 0, tzinfo=scrape.ROME)))
+        self.assertTrue(scrape.page_is_today(dt.datetime(2026, 10, 29, 15, 17, tzinfo=scrape.ROME)))
+        # Orario UTC: le 23:30 UTC del 28 sono le 00:30 del 29 a Roma
+        utc = dt.datetime(2026, 10, 28, 23, 30, tzinfo=dt.timezone.utc)
+        self.assertFalse(scrape.page_is_today(utc))
+
+    def test_night_ignores_cinema_page_times(self):
+        shows = scrape.build_shows(self.ESTRANEA, self.ESTRANEA_TICKET, self.DAY, cinema_page_is_today=False)
+        self.assertEqual([s["time"] for s in shows], ["16:20", "18:40", "21:30"])
+        self.assertTrue(all(s["url"] for s in shows))
+        # Nessun prezzo preso dalla pagina di ieri
+        self.assertTrue(all(s["price"] is None for s in shows))
+
+    def test_night_drops_film_only_on_cinema_page(self):
+        self.assertEqual(scrape.build_shows(self.DIGGER, [], self.DAY, cinema_page_is_today=False), [])
+        self.assertEqual(scrape.build_shows(self.DIGGER, None, self.DAY, cinema_page_is_today=False), [])
+
+    def test_day_keeps_union(self):
+        shows = scrape.build_shows(self.ESTRANEA, self.ESTRANEA_TICKET, self.DAY)
+        self.assertEqual([s["time"] for s in shows], ["16:20", "16:30", "18:40", "21:00", "21:30"])
+
+    def test_night_keeps_vo_from_cinema_page(self):
+        films, _ = scrape.parse_cinema_page(fixture("lumiere_cinema.html"))
+        ticket = scrape.parse_ticket_page(fixture("lumiere_ticket_22430.html"), TODAY)
+        shows = scrape.build_shows(films[0], ticket, TODAY, cinema_page_is_today=False)
+        self.assertEqual(len(shows), 6)
+        self.assertTrue(all(s["vo"] for s in shows))
+
+
 class ScrapeEndToEnd(unittest.TestCase):
     CINEMAS = [
         {"id": 147, "slug": "antoniano", "name": "Antoniano", "short": "Antoniano", "address": "Via Guinizelli, 3"},
@@ -241,6 +294,17 @@ class ScrapeEndToEnd(unittest.TestCase):
         self.assertNotIn("ticket_path", data["films"][0])
         dates = [s["date"] for s in data["shows"]]
         self.assertEqual(dates, sorted(dates))
+
+    def test_full_run_at_night(self):
+        day = scrape.scrape(self.CINEMAS, self.fake_fetch, TODAY)["showtimes"]["shows"]
+        night = scrape.scrape(self.CINEMAS, self.fake_fetch, TODAY, cinema_page_is_today=False)["showtimes"]["shows"]
+        # Di notte restano solo gli spettacoli con il link della pagina date
+        self.assertTrue(night)
+        self.assertTrue(all(s["url"] for s in night))
+        self.assertEqual(len(night), len([s for s in day if s["url"]]))
+        # Coyote (senza pagina date) e il 18:15 in Sala 1 a The Space spariscono
+        self.assertFalse(any(s["film"] == "22160" for s in night))
+        self.assertFalse(any(s["time"] == "18:15" and s["date"] == "2026-10-13" for s in night))
 
 
 if __name__ == "__main__":

@@ -34,6 +34,8 @@ from urllib3.util.retry import Retry
 
 BASE = "https://www.comingsoon.it"
 ROME = ZoneInfo("Europe/Rome")
+# Prima di quest'ora (ora di Roma) la pagina del cinema puo' mostrare ancora ieri.
+NIGHT_END_HOUR = 6
 USER_AGENT = (
     "Mozilla/5.0 (compatible; cinema-bologna/1.0; "
     "+https://github.com/Surfab/cinema-bologna)"
@@ -318,8 +320,22 @@ def scrape_upcoming(fetch: Callable[[str], str], warnings: list[str]) -> list[di
 
 # --------------------------------------------------------------------------- merge
 
-def build_shows(film: dict, ticket_shows: Optional[list[dict]], today: dt.date) -> list[dict]:
-    """Unisce gli orari di oggi (pagina cinema) con quelli della settimana (pagina date)."""
+def page_is_today(now: dt.datetime) -> bool:
+    """La pagina del cinema non scrive la data: di notte mostra ancora i film di ieri.
+
+    Il 29/10/2026 il giro delle 03:24 ha registrato come giovedi' 62 spettacoli di
+    mercoledi'. Prima di NIGHT_END_HOUR la pagina del cinema non vale come "oggi".
+    """
+    return now.astimezone(ROME).hour >= NIGHT_END_HOUR
+
+
+def build_shows(film: dict, ticket_shows: Optional[list[dict]], today: dt.date,
+                cinema_page_is_today: bool = True) -> list[dict]:
+    """Unisce gli orari di oggi (pagina cinema) con quelli della settimana (pagina date).
+
+    Con cinema_page_is_today=False (giro notturno) la pagina del cinema serve solo a
+    capire la versione (V.O. o doppiato): non aggiunge orari e non da' prezzi.
+    """
     today_iso = today.isoformat()
     salas = film["salas"]
 
@@ -332,7 +348,7 @@ def build_shows(film: dict, ticket_shows: Optional[list[dict]], today: dt.date) 
     common_tags = sorted(set.intersection(*(set(s["tags"]) for s in salas))) if salas else []
 
     def describe(date: str, time_: str, sala_name: str) -> tuple[bool, list[str], Optional[float]]:
-        if date == today_iso and time_ in by_today_time:
+        if cinema_page_is_today and date == today_iso and time_ in by_today_time:
             hit = by_today_time[time_]
             return hit["vo"], hit["tags"], hit["price"]
         if len(vo_values) == 1:
@@ -359,6 +375,9 @@ def build_shows(film: dict, ticket_shows: Optional[list[dict]], today: dt.date) 
             "date": t["date"], "time": t["time"], "sala": t["sala"],
             "vo": vo, "tags": tags, "price": price, "url": t["url"],
         }
+
+    if not cinema_page_is_today:
+        return sorted(out.values(), key=lambda x: (x["date"], x["time"], x["sala"]))
 
     # Orari di oggi presenti solo sulla pagina del cinema (es. vendita online chiusa)
     have_today = {(d, tm) for (d, tm, _) in out if d == today_iso}
@@ -409,7 +428,8 @@ def make_fetcher(delay: float) -> Callable[[str], str]:
 
 # --------------------------------------------------------------------------- scrape
 
-def scrape(cinemas: list[dict], fetch: Callable[[str], str], today: dt.date) -> dict:
+def scrape(cinemas: list[dict], fetch: Callable[[str], str], today: dt.date,
+           cinema_page_is_today: bool = True) -> dict:
     films: dict[str, dict] = {}
     shows: list[dict] = []
     warnings: list[str] = []
@@ -446,7 +466,7 @@ def scrape(cinemas: list[dict], fetch: Callable[[str], str], today: dt.date) -> 
                 except Exception as exc:  # noqa: BLE001
                     warnings.append(f"{cinema['name']} / {film['title']}: date non lette ({type(exc).__name__})")
 
-            film_shows = build_shows(film, ticket_shows, today)
+            film_shows = build_shows(film, ticket_shows, today, cinema_page_is_today)
             if not film_shows:
                 continue
 
@@ -516,7 +536,11 @@ def main(argv: Optional[list[str]] = None) -> int:
     now = dt.datetime.now(ROME)
     started = time.monotonic()
     fetch = make_fetcher(args.delay)
-    result = scrape(cinemas, fetch, now.date())
+    cinema_page_ok = page_is_today(now)
+    if not cinema_page_ok:
+        log.info("Giro notturno (%s): uso solo le pagine con le date, non gli orari "
+                 "della pagina cinema, che potrebbero essere di ieri.", now.strftime("%H:%M"))
+    result = scrape(cinemas, fetch, now.date(), cinema_page_ok)
     upcoming = scrape_upcoming(fetch, result["warnings"])
     stats = result["stats"]
 
