@@ -64,7 +64,29 @@ class WeeklyEmail(unittest.TestCase):
         self.assertNotIn("class=", html)
         self.assertNotRegex(html, r"[;\"]background:")
         self.assertIn("background-color:#CDEADB", html)                     # V.O. evidenziata
-        self.assertIn('<td style="color:#585E73;padding:1px 10px 1px 0;white-space:nowrap">mar 13</td>', html)
+        self.assertIn('<td style="color:#585E73;font-weight:normal;padding-right:10px;white-space:nowrap">mar 13</td>', html)
+
+    def test_day_runs_merge_only_consecutive_days_with_same_times(self):
+        same = [("21:00", False)]
+        days = [{"date": iso, "label": label, "times": times} for iso, label, times in [
+            ("2026-10-29", "gio 29", same), ("2026-10-30", "ven 30", same), ("2026-10-31", "sab 31", same),
+            ("2026-11-01", "dom 1", [("18:00", False)]),
+            ("2026-11-03", "mar 3", same), ("2026-11-04", "mer 4", same),   # lunedi' 2 niente
+        ]]
+        runs = weekly_email.day_runs(days)
+        self.assertEqual([r["label"] for r in runs], ["gio 29–sab 31", "dom 1", "mar 3–mer 4"])
+        self.assertEqual(runs[0]["times"], same)
+
+    def test_html_weight_real_week(self):
+        # Settimana del 29 ottobre 2026, 26 film: prima pesava 88 KB.
+        # Gmail taglia oltre i 102 KB: sopra i 95 KB c'e' poco margine.
+        import json
+        week = Path(__file__).parent / "fixtures" / "settimana_2026-10-29"
+        load = lambda name: json.loads((week / name).read_text(encoding="utf-8"))
+        w = weekly_email.build(load("showtimes.json"), load("meta.json"), dt.date(2026, 10, 29), load("upcoming.json"))
+        size = len(weekly_email.render_html(w).encode("utf-8"))
+        self.assertLess(size, 95_000, f"email.html pesa {size} byte")
+        self.assertEqual(len(w["new"]) + len(w["old"]), 26)
 
     def test_no_new_films_subject(self):
         w = weekly_email.build(self.data, None, dt.date(2026, 10, 15))
