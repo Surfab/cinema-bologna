@@ -1,12 +1,65 @@
 Cinema a Bologna, da giovedì 29 ottobre a mercoledì 4 novembre
-Orari aggiornati giovedì 29 ottobre alle 03:24.
+Orari aggiornati giovedì 29 ottobre alle 11:34.
 
-== Nuovi questa settimana (6) ==
+== Nuovi questa settimana (8) ==
+
+Dio Ride
+Drammatico, storico, commedia. 114 min. Al cinema dal 29 ottobre
+  Jolly
+    gio 29: 14:30, 16:45, 19:00, 21:15
+    ven 30: 14:30, 16:45, 19:00, 21:15
+    sab 31: 14:30, 16:45, 19:00, 21:15
+    dom 1: 14:30, 16:45, 19:00, 21:15
+    lun 2: 14:30, 16:45, 19:00, 21:15
+    mar 3: 14:30, 16:45, 19:00, 21:15
+    mer 4: 14:30, 16:45, 19:00, 21:15
+  The Space
+    gio 29: 15:50, 19:45
+    ven 30: 16:05, 19:45
+    sab 31: 15:55, 19:50
+    dom 1: 15:30, 20:30
+    lun 2: 15:40, 19:30
+    mar 3: 15:30, 20:50
+    mer 4: 16:30, 20:45
+  Nosadella
+    gio 29: 19:00, 21:00
+    ven 30: 21:00
+    sab 31: 16:30, 18:45, 21:00
+    dom 1: 16:00, 18:15, 20:30
+    mar 3: 19:00, 21:00
+    mer 4: 19:00, 21:00
+  Fossolo
+    gio 29: 17:10, 19:20, 21:30
+    ven 30: 17:10, 19:20, 21:30
+    sab 31: 17:10, 19:20, 21:30
+    dom 1: 17:10, 19:20, 21:30
+    lun 2: 17:10, 19:20, 21:30
+    mar 3: 17:10, 19:20, 21:30
+    mer 4: 17:10, 19:20, 21:30
+
+Un Tranquillo Funerale di Famiglia
+Commedia. Al cinema dal 29 ottobre
+  The Space
+    gio 29: 17:20, 19:10, 21:10
+    ven 30: 16:30, 18:50, 21:00
+    sab 31: 16:30, 19:30, 21:20
+    dom 1: 16:15, 18:40, 21:15
+    lun 2: 15:00, 17:30, 19:10, 21:15
+    mar 3: 16:00, 17:35, 19:00, 21:00
+    mer 4: 15:00, 17:30, 20:00, 22:30
+  Odeon
+    gio 29: 16:15, 18:30, 20:45
+    ven 30: 16:15, 18:30, 20:45
+    sab 31: 16:15, 18:30, 20:45
+    dom 1: 16:15, 18:30, 20:45
+    lun 2: 16:15, 18:30, 20:45
+    mar 3: 16:15, 18:30, 20:45
+    mer 4: 16:15, 18:30, 20:45
 
 It Ends
 Drammatico, fantascienza, horror. 89 min. Al cinema dal 28 ottobre
   The Space
-    gio 29: 15:15, 17:30, 19:30, 20:20, 22:10, 22:50
+    gio 29: 15:15, 19:30, 22:50
     ven 30: 15:00, 20:00, 22:45
     sab 31: 00:45, 17:40, 20:00, 22:20
     dom 1: 16:30, 19:30, 22:45
@@ -14,18 +67,18 @@ Drammatico, fantascienza, horror. 89 min. Al cinema dal 28 ottobre
     mar 3: 16:30, 19:15, 22:25
     mer 4: 17:15, 19:00, 22:20
   Arlecchino
-    gio 29: 15:45 V.O., 17:30, 19:30 V.O., 21:30
+    gio 29: 19:30, 21:30 V.O.
     ven 30: 16:15, 20:30, 22:15
     sab 31: 18:45, 20:30, 22:15
-    dom 1: 19:30 V.O., 21:30
-    lun 2: 19:30 V.O., 21:30
+    dom 1: 19:30, 21:30 V.O.
+    lun 2: 19:30, 21:30 V.O.
     mar 3: 18:00, 19:45
-    mer 4: 19:30 V.O., 21:30
+    mer 4: 19:30, 21:30 V.O.
 
 Shaun, Vita da Pecora: Operazione Z.U.C.C.A. (Shaun the Sheep: The Beast of Mossy Bottom)
 Animazione, commedia, azione, family. 91 min. Al cinema dal 28 ottobre
   The Space
-    gio 29: 15:00, 16:15, 17:00, 18:40
+    gio 29: 15:00, 17:00, 18:40
     ven 30: 17:00, 18:40
     sab 31: 14:40, 17:00
     dom 1: 12:15, 14:45, 17:00, 18:15
@@ -33,7 +86,7 @@ Animazione, commedia, azione, family. 91 min. Al cinema dal 28 ottobre
     mar 3: 17:00, 18:30
     mer 4: 17:00, 18:30
   Europa
-    gio 29: 15:30, 17:05, 17:10
+    gio 29: 15:30, 17:10
     ven 30: 15:30, 17:10
     sab 31: 15:30, 17:10
     dom 1: 15:30, 17:10
@@ -49,38 +102,44 @@ Animazione, commedia, azione, family. 91 min. Al cinema dal 28 ottobre
     mar 3: 15:30
     mer 4: 15:30
 
-Elon Musk Unveiled. The tesla Experiment
-Documentario. 90 min. Al cinema dal 28 ottobre
-  Galliera
-    gio 29: 21:00 V.O.
-
-Matrix (The Matrix)
-Fantascienza, azione. 136 min. Al cinema dal 26 ottobre
+Ice Cream Man
+Horror. 87 min. Al cinema dal 29 ottobre
   The Space
-    gio 29: 18:50
+    gio 29: 17:30, 19:00, 21:50
+    ven 30: 17:20, 20:25, 21:50
+    sab 31: 00:15, 16:55, 19:00, 21:50
+    dom 1: 11:45, 14:00, 16:55, 21:50
+    lun 2: 19:00, 21:50
+    mar 3: 20:05, 21:50
+    mer 4: 19:30, 21:50
+  Nosadella
+    gio 29: 21:15
+    ven 30: 21:15
+    sab 31: 21:30
+    dom 1: 21:30
+    mer 4: 21:15
+
+Fast and Furious (The Fast and the Furious)
+Azione, thriller. 106 min. Al cinema dal 29 ottobre
+  The Space
+    gio 29: 16:00, 19:20, 21:30, 22:40
+
+Nel Silenzio delle Stanze (La Condition)
+Drammatico. 103 min. Al cinema dal 29 ottobre
+  Galliera
+    gio 29: 16:00
 
 Ozzy & Black Sabbath: Back To The Beginning
 Documentario, musicale. 147 min. Al cinema dal 28 ottobre
   The Space
     gio 29: 21:50 V.O.
 
-Wild Horse Nine
-Thriller, commedia. 118 min. Esce il 5 novembre
-  Bellinzona
-    gio 29: 21:00
-  Fossolo
-    gio 29: 21:00
-  Lumière
-    gio 29: 21:00
-  Rialto
-    gio 29: 21:00
-
-== Ancora in sala (20) ==
+== Ancora in sala (16) ==
 
 L'Estranea
 Drammatico, thriller. 115 min. Al cinema dall'8 ottobre
   Fossolo
-    gio 29: 16:15, 17:10, 18:30, 19:20, 21:00, 21:30
+    gio 29: 16:15, 18:30, 21:00
     ven 30: 16:15, 18:45, 21:00
     sab 31: 16:15, 18:45, 21:00
     dom 1: 16:15, 18:45, 21:00
@@ -96,7 +155,7 @@ Drammatico, thriller. 115 min. Al cinema dall'8 ottobre
     mar 3: 16:15, 18:45, 21:15
     mer 4: 16:15, 18:45, 21:15
   Rialto
-    gio 29: 16:20, 16:30, 18:40, 21:00, 21:30
+    gio 29: 16:20, 18:40, 21:30
     ven 30: 16:20, 18:40, 21:30
     sab 31: 16:20, 18:40, 21:30
     dom 1: 16:20, 18:40, 21:30
@@ -104,7 +163,7 @@ Drammatico, thriller. 115 min. Al cinema dall'8 ottobre
     mar 3: 16:20, 18:40, 21:30
     mer 4: 16:20, 18:40, 21:30
   The Space
-    gio 29: 16:20, 19:50, 22:20
+    gio 29: 16:20, 22:20
     ven 30: 19:00, 22:00
     sab 31: 22:30
     dom 1: 20:00
@@ -115,7 +174,7 @@ Drammatico, thriller. 115 min. Al cinema dall'8 ottobre
 Fatherland
 Drammatico. 82 min. Al cinema dal 16 ottobre
   Lumière
-    gio 29: 10:00 V.O., 15:45 V.O., 16:15 V.O., 18:00 V.O., 19:45 V.O., 20:00 V.O., 22:15 V.O.
+    gio 29: 15:45 V.O., 18:00 V.O., 19:45 V.O., 22:15 V.O.
     ven 30: 16:30 V.O., 18:15 V.O.
     sab 31: 16:15 V.O., 20:00 V.O.
     dom 1: 16:15 V.O., 20:00 V.O.
@@ -123,15 +182,19 @@ Drammatico. 82 min. Al cinema dal 16 ottobre
     mar 3: 16:30 V.O., 18:15 V.O., 19:45 V.O., 22:15 V.O.
     mer 4: 16:30 V.O., 18:15 V.O., 19:45 V.O., 22:15 V.O.
   Roma d'Essai
-    gio 29: 16:00, 17:45, 19:30, 21:15
-    ven 30: 16:00, 17:45, 19:30, 21:15
-    sab 31: 16:00, 17:45, 19:30, 21:15
-    dom 1: 16:00, 17:45, 19:30, 21:15
-    lun 2: 16:00, 17:45, 19:30, 21:15
-    mar 3: 16:00, 17:45, 19:30, 21:15
-    mer 4: 16:00, 17:45, 19:30, 21:15
-  The Space
-    gio 29: 22:40
+    gio 29: 16:00, 17:45, 19:30, 21:15 V.O.
+    ven 30: 16:00, 17:45, 19:30, 21:15 V.O.
+    sab 31: 16:00, 17:45, 19:30, 21:15 V.O.
+    dom 1: 16:00, 17:45, 19:30, 21:15 V.O.
+    lun 2: 16:00, 17:45, 19:30, 21:15 V.O.
+    mar 3: 16:00, 17:45, 19:30, 21:15 V.O.
+    mer 4: 16:00, 17:45, 19:30, 21:15 V.O.
+  Bellinzona
+    gio 29: 21:00 V.O.
+    ven 30: 21:00 V.O.
+    sab 31: 16:30 V.O., 18:30 V.O., 21:00 V.O.
+    dom 1: 16:30 V.O., 18:30 V.O., 21:00 V.O.
+    mer 4: 21:00 V.O.
 
 Ragione e Sentimento (Sense and Sensibility)
 Drammatico. 131 min. Al cinema dal 22 ottobre
@@ -143,38 +206,29 @@ Drammatico. 131 min. Al cinema dal 22 ottobre
     lun 2: 15:30, 18:15, 21:00 V.O.
     mar 3: 15:30, 18:15, 21:00 V.O.
     mer 4: 15:30, 18:15, 21:00 V.O.
-  The Space
-    gio 29: 16:30, 20:50
-    ven 30: 15:30
-    dom 1: 22:00
-    lun 2: 15:55
-    mar 3: 15:55
-    mer 4: 17:55
   Chaplin
-    gio 29: 16:00, 18:45, 21:15 V.O.
-    ven 30: 16:00, 18:45, 21:15 V.O.
-    sab 31: 16:00, 18:45, 21:15 V.O.
-    dom 1: 16:00, 18:45, 21:15 V.O.
-    mar 3: 16:00, 18:45, 21:15 V.O.
-    mer 4: 16:00, 18:45, 21:15 V.O.
+    gio 29: 16:00, 18:45, 21:15
+    ven 30: 16:00, 18:45, 21:15
+    sab 31: 16:00, 18:45, 21:15
+    dom 1: 16:00, 18:45, 21:15
+    mar 3: 16:00, 18:45, 21:15
+    mer 4: 16:00, 18:45, 21:15
 
 Je So' Pazzo
 Biografico. 105 min. Al cinema dal 15 ottobre
   The Space
-    gio 29: 15:15, 16:50, 19:35, 21:40
+    gio 29: 16:50
     ven 30: 21:20
     sab 31: 19:15
     dom 1: 19:15
     mar 3: 15:00
     mer 4: 19:45
   Bristol
-    gio 29: 18:45, 19:00, 21:15
+    gio 29: 18:45, 21:15
     ven 30: 18:45, 21:15
     sab 31: 16:30, 18:45, 21:00
     dom 1: 16:00, 18:15, 20:30
     mer 4: 19:00, 21:15
-  Fossolo
-    gio 29: 16:30, 18:30
   Odeon
     gio 29: 16:30, 18:45, 21:00
     ven 30: 16:30, 18:45, 21:00
@@ -187,41 +241,43 @@ Biografico. 105 min. Al cinema dal 15 ottobre
 Primetime
 Biografico, thriller, drammatico. 107 min. Al cinema dal 15 ottobre
   Medica
-    gio 29: 15:00 V.O., 17:15, 19:30 V.O., 21:45
-    ven 30: 15:00 V.O., 17:15, 19:30 V.O., 21:45
-    sab 31: 15:00 V.O., 17:15, 19:30 V.O., 21:45
-    dom 1: 15:00 V.O., 17:15, 19:30 V.O., 21:45
-    lun 2: 15:00 V.O., 17:15, 19:30 V.O., 21:45
-    mar 3: 15:00 V.O., 17:15, 19:30 V.O., 21:45
-    mer 4: 15:00 V.O., 17:15, 19:30 V.O., 21:45
+    gio 29: 15:00 V.O., 17:15, 19:30, 21:45 V.O.
+    ven 30: 15:00 V.O., 17:15, 19:30, 21:45 V.O.
+    sab 31: 15:00 V.O., 17:15, 19:30, 21:45 V.O.
+    dom 1: 15:00 V.O., 17:15, 19:30, 21:45 V.O.
+    lun 2: 15:00 V.O., 17:15, 19:30, 21:45 V.O.
+    mar 3: 15:00 V.O., 17:15, 19:30, 21:45 V.O.
+    mer 4: 15:00 V.O., 17:15, 19:30, 21:45 V.O.
 
 Digger
 Commedia, drammatico, avventura. 129 min. Al cinema dal 1° ottobre
   Lumière
-    gio 29: 17:30 V.O., 21:30 V.O., 21:45 V.O.
+    gio 29: 17:30 V.O., 21:30 V.O.
     ven 30: 16:15 V.O., 21:30 V.O.
     sab 31: 16:15 V.O., 21:30 V.O.
     dom 1: 16:15 V.O., 21:30 V.O.
     lun 2: 16:15 V.O., 21:30 V.O.
     mar 3: 17:15 V.O., 21:30 V.O.
     mer 4: 10:00 V.O., 17:15 V.O., 21:30 V.O.
-  Rialto
-    gio 29: 16:10
-  Jolly
-    gio 29: 18:45
+  Europa
+    gio 29: 21:00 V.O.
+    ven 30: 21:00 V.O.
+    dom 1: 21:00 V.O.
+    mar 3: 21:00 V.O.
+    mer 4: 21:00 V.O.
 
 Zustissia
 Drammatico. 111 min. Al cinema dal 15 ottobre
   Sala Cervi
-    gio 29: 17:00, 21:00, 21:30
-    ven 30: 18:45
-    sab 31: 20:15, 22:15
-    dom 1: 18:45
-    lun 2: 16:15, 21:30
-    mar 3: 16:30, 18:45
-    mer 4: 18:45
+    gio 29: 21:00 V.O.
+    ven 30: 18:45 V.O.
+    sab 31: 20:15 V.O., 22:15 V.O.
+    dom 1: 18:45 V.O.
+    lun 2: 16:15 V.O., 21:30 V.O.
+    mar 3: 16:30 V.O., 18:45 V.O.
+    mer 4: 18:45 V.O.
   Galliera
-    gio 29: 16:30
+    gio 29: 18:30
   Nosadella
     gio 29: 19:15
     ven 30: 19:15
@@ -229,22 +285,40 @@ Drammatico. 111 min. Al cinema dal 15 ottobre
     dom 1: 19:35
     mer 4: 19:15
 
-Caro Mondo Crudele
-Avventura, drammatico, commedia. 105 min. Al cinema dal 22 ottobre
+Wildwood: I Segreti del Bosco Proibito (Wildwood)
+Animazione, avventura, drammatico, family. 132 min. Al cinema dal 22 ottobre
   The Space
-    gio 29: 16:45
-  Europa
-    gio 29: 18:45, 18:55, 21:00
-    ven 30: 18:55
-    dom 1: 18:55
-    lun 2: 18:55
-    mar 3: 18:55
-    mer 4: 18:55
+    gio 29: 16:40
+    ven 30: 16:50
+    sab 31: 14:15
+    dom 1: 11:00
+    lun 2: 15:25
+    mar 3: 16:15
+    mer 4: 15:55
+  Arlecchino
+    gio 29: 17:15
+    ven 30: 18:00
+    sab 31: 16:15
+    dom 1: 17:00
+    lun 2: 15:15
+    mar 3: 15:40
+    mer 4: 17:00
+
+Possible Love (Ga-neung-han sa-rang)
+Drammatico. 164 min
+  Sala Cervi
+    gio 29: 18:00 V.O.
+    ven 30: 15:45 V.O., 21:00 V.O.
+    sab 31: 17:15 V.O.
+    dom 1: 15:45 V.O., 21:00 V.O.
+    lun 2: 18:30 V.O.
+    mar 3: 21:00 V.O.
+    mer 4: 15:45 V.O., 21:00 V.O.
 
 Clayface
 Horror, fantasy. 108 min. Al cinema dal 22 ottobre
   The Space
-    gio 29: 19:00, 19:25, 22:20
+    gio 29: 22:20
     ven 30: 15:15
     sab 31: 22:50
     dom 1: 22:30
@@ -252,76 +326,50 @@ Horror, fantasy. 108 min. Al cinema dal 22 ottobre
     mar 3: 22:00
     mer 4: 21:00
 
-Wildwood: I Segreti del Bosco Proibito (Wildwood)
-Animazione, avventura, drammatico, family. 132 min. Al cinema dal 22 ottobre
-  The Space
-    gio 29: 15:45, 16:40, 17:45
-    ven 30: 16:50
-    sab 31: 14:15
-    dom 1: 11:00
-    lun 2: 15:25
-    mar 3: 16:15
-    mer 4: 15:55
+Rider
+Drammatico. Al cinema dall'8 ottobre
+  Arlecchino
+    gio 29: 15:30
+    ven 30: 14:30
+    sab 31: 14:30
+    dom 1: 15:00
+    lun 2: 17:45
+    mar 3: 14:00
+    mer 4: 15:15
 
-L'Assurda Storia della Gialappa's Band
-Documentario. 105 min. Al cinema dal 22 ottobre
-  Odeon
-    gio 29: 16:15, 18:30, 20:45
-  The Space
-    gio 29: 19:15, 22:00
+Caro Mondo Crudele
+Avventura, drammatico, commedia. 105 min. Al cinema dal 22 ottobre
+  Europa
+    gio 29: 18:55
+    ven 30: 18:55
+    dom 1: 18:55
+    lun 2: 18:55
+    mar 3: 18:55
+    mer 4: 18:55
 
-Taddeo - L'Esploratore e la Lampada Magica (Tadeo Jones y la lámpara maravillosa)
-Animazione, avventura. 90 min. Al cinema dal 22 ottobre
-  The Space
-    gio 29: 15:00
-    sab 31: 14:00
-    dom 1: 13:50
-  Jolly
-    gio 29: 15:15, 17:00
-
-Klara e il Sole (Klara and the Sun)
-Drammatico, fantascienza. 116 min. Al cinema dal 22 ottobre
-  The Space
-    gio 29: 16:00
-  Nosadella
-    gio 29: 19:15, 21:15
-
-Mammina (Other Mommy)
-Horror. 93 min. Al cinema dall'8 ottobre
-  The Space
-    gio 29: 22:30
-    sab 31: 23:50
-    dom 1: 14:10
-
-Il Tempo di Anne (LOL 2.0)
-Commedia. 105 min. Al cinema dal 15 ottobre
-  Sala Cervi
-    gio 29: 19:15
-
-L'infernale Quinlan (Touch of Evil)
-Poliziesco. 93 min
+The Rocky Horror Picture Show
+Commedia, horror, musicale. 100 min. Al cinema dal 27 ottobre
   Modernissimo
-    gio 29: 17:00 V.O.
+    gio 29: 22:30 V.O.
+    ven 30: 22:15 V.O.
+    sab 31: 20:00 V.O.
 
-La Bambola (La Poupée)
-Commedia, sentimentale. 80 min. Al cinema dal 15 ottobre
-  Galliera
-    gio 29: 19:00 V.O.
-
-Possible Love (Ga-neung-han sa-rang)
-Drammatico. 164 min
+Ritorno a Buenos Aires (Volver a Buenos Aires)
+Drammatico. 104 min. Al cinema dal 17 settembre
   Lumière
-    gio 29: 18:00 V.O.
+    gio 29: 10:00 V.O.
+  Modernissimo
+    gio 29: 20:00 V.O.
 
-The Invite - Il Piacere è tutto nostro (The Invite)
-Commedia, drammatico. 107 min. Al cinema dal 16 settembre
-  Jolly
-    gio 29: 21:15 V.O.
+Garage Olimpo
+Drammatico. 98 min
+  Modernissimo
+    gio 29: 17:45 V.O.
 
-Urchin
-Drammatico. 100 min. Al cinema dal 22 ottobre
-  Nosadella
-    gio 29: 21:15
+Il Labirinto
+Documentario. 80 min
+  Galliera
+    gio 29: 21:00
 
 == In uscita dal 5 novembre (12) ==
 Uscite in tutta Italia: non tutti i film arrivano nei cinema di Bologna.
@@ -340,7 +388,6 @@ Giovedì 5 novembre
   The Uprising - Cuore Ribelle (The Uprising). Azione, drammatico, storico. Regia di Paul Greengrass
   Un'Altra Me. Commedia. Regia di Luca Brignone
   Wild Horse Nine. Thriller, commedia. Regia di Martin McDonagh
-    Già in programma a Bologna: Bellinzona, Fossolo, Lumière, Rialto
 
 Venerdì 6 novembre
   George Michael: The Faith Tour. Documentario, musicale. Regia di Andrew Morahan, David Austin
