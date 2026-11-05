@@ -1,22 +1,23 @@
 Cinema a Bologna, da giovedì 5 novembre a mercoledì 11 novembre
-Orari aggiornati giovedì 5 novembre alle 14:11.
+Orari aggiornati giovedì 5 novembre alle 22:06.
 
 == Nuovi questa settimana (5) ==
 
 Wild Horse Nine
 Thriller, commedia. 118 min. Al cinema dal 5 novembre
+  Lumière
+    gio 5–ven 6: 16:00 V.O., 20:00 V.O., 22:15 V.O.
+    sab 7: 15:30 V.O., 17:45 V.O., 20:00 V.O., 22:15 V.O.
+    dom 8: 11:00 V.O., 15:30 V.O., 17:45 V.O., 20:00 V.O., 22:15 V.O.
+    lun 9: 17:45 V.O., 20:00 V.O., 22:15 V.O.
+    mar 10: 16:00 V.O., 20:00 V.O., 22:15 V.O.
+    mer 11: 10:00 V.O., 16:00 V.O., 20:00 V.O., 22:15 V.O.
   Medica
     gio 5: 15:45 V.O., 18:15, 21:00 V.O.
     ven 6: 16:15, 19:00, 21:30
     sab 7: 14:30, 17:00, 19:30, 22:00
     dom 8: 10:30, 16:00, 19:00, 21:30
     lun 9–mer 11: 16:15, 19:00, 21:30
-  Lumière
-    gio 5–ven 6: 16:00 V.O., 20:00 V.O., 22:15 V.O.
-    sab 7: 15:30 V.O., 17:45 V.O., 20:00 V.O., 22:15 V.O.
-    dom 8: 11:00 V.O., 15:30 V.O., 17:45 V.O., 20:00 V.O., 22:15 V.O.
-    lun 9: 17:45 V.O., 20:00 V.O., 22:15 V.O.
-    mar 10–mer 11: 16:00 V.O., 20:00 V.O., 22:15 V.O.
   The Space
     gio 5: 16:15, 18:10, 19:00, 20:50
     ven 6: 16:15, 19:00, 19:20, 20:50
@@ -31,8 +32,7 @@ Thriller, commedia. 118 min. Al cinema dal 5 novembre
     sab 7–dom 8: 15:30 V.O., 18:15 V.O., 21:00 V.O.
     mer 11: 21:00 V.O.
   Rialto
-    gio 5: 16:15, 18:45, 18:46, 21:15 V.O., 21:16
-    ven 6: 16:15, 18:45, 21:15 V.O.
+    gio 5–ven 6: 16:15, 18:45, 21:15 V.O.
     sab 7: 16:16, 18:45, 21:15 V.O.
     dom 8–mer 11: 16:15, 18:45, 21:15 V.O.
   Nosadella
