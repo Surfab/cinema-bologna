@@ -1,5 +1,5 @@
 Cinema a Bologna, da giovedì 5 novembre a mercoledì 11 novembre
-Orari aggiornati giovedì 5 novembre alle 10:45.
+Orari aggiornati giovedì 5 novembre alle 14:11.
 
 == Nuovi questa settimana (5) ==
 
@@ -100,7 +100,7 @@ Horror. Al cinema dal 5 novembre
     dom 8–mar 10: 22:10
     mer 11: 22:15
 
-== Ancora in sala (18) ==
+== Ancora in sala (19) ==
 
 Dio Ride
 Drammatico, storico, commedia. 114 min. Al cinema dal 29 ottobre
@@ -270,6 +270,11 @@ Drammatico. 110 min
   Modernissimo
     gio 5: 22:15 V.O.
     ven 6: 10:30 V.O.
+
+Città amara (Fat City)
+Drammatico. 96 min
+  Modernissimo
+    gio 5: 18:00 V.O.
 
 Harold e Maude (Harold and Maude)
 Commedia. 93 min

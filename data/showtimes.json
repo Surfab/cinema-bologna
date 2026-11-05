@@ -662,6 +662,27 @@
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/7237.jpg",
    "scheda_url": "https://www.comingsoon.it/film/harold-e-maude/7237/scheda/",
    "trailer_url": null
+  },
+  {
+   "idf": "22960",
+   "cs_id": 10649,
+   "title": "Città amara",
+   "original_title": "Fat City",
+   "genres": [
+    "Drammatico"
+   ],
+   "duration": 96,
+   "release_date": null,
+   "cast": [
+    "Stacy Keach",
+    "Jeff Bridges",
+    "Susan Tyrrell",
+    "Candy Clark"
+   ],
+   "rating": 5.0,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/10649.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/citta-amara/10649/scheda/",
+   "trailer_url": null
   }
  ],
  "shows": [
@@ -1035,6 +1056,19 @@
    "tags": [],
    "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/59710?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22960",
+   "cinema": 5817,
+   "date": "2026-11-05",
+   "time": "18:00",
+   "sala": "Modernissimo",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": 6.0,
+   "url": "http://modernissimo.cinetecabologna.18tickets.it/film/citta-amara_2026/758142#sala"
   },
   {
    "film": "22287",
