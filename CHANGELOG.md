@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-08, cinema senza orari spiegati meglio
+
+- Nella vista per cinema, la riga in fondo dice "Orari non disponibili su comingsoon per questo giorno" invece di "Nessuno spettacolo in elenco", con un link alla pagina comingsoon di ogni cinema
+- Motivo: dal 7 novembre comingsoon non elenca film per il Medica, che però è aperto. Il cinema non è chiuso: mancano i dati
+- Nessun cambio nel formato dei dati
+
 ## 2026-10-29, action del workflow aggiornate
 
 - `actions/checkout` da v4 a v7 e `actions/setup-python` da v5 a v7: girano su Node 24, sparisce l'avviso su Node 20 deprecato
