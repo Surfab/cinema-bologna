@@ -223,9 +223,11 @@
     }
     html += "</section>";
 
-    const quiet = idx.data.cinemas.filter((c) => cinemaAllowed(c.id) && !byCinema.has(c.id)).map((c) => c.short);
+    // Cinema senza orari: comingsoon non li pubblica, non e' detto che siano chiusi
+    const quiet = idx.data.cinemas.filter((c) => cinemaAllowed(c.id) && !byCinema.has(c.id));
     if (quiet.length && !state.q && !state.vo && !state.slot) {
-      html += `<p class="off">Nessuno spettacolo in elenco: ${esc(quiet.join(", "))}.</p>`;
+      const links = quiet.map((c) => `<a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.short)}</a>`).join(", ");
+      html += `<p class="off">Orari non disponibili su comingsoon per questo giorno: ${links}.</p>`;
     }
     return html;
   }
