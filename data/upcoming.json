@@ -3,175 +3,6 @@
  "source": "https://www.comingsoon.it/cinema/calendariouscite/",
  "weeks": [
   {
-   "from": "2026-11-05",
-   "films": [
-    {
-     "cs_id": 69566,
-     "title": "Dal Nulla",
-     "original_title": "",
-     "genres": [
-      "Drammatico",
-      "Thriller"
-     ],
-     "year": "2026",
-     "director": "Joe Juanne Piras",
-     "distributor": "La Sarraz Distribuzione",
-     "release_date": "2026-11-04",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69566.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/dal-nulla/69566/scheda/"
-    },
-    {
-     "cs_id": 68123,
-     "title": "Ferine",
-     "original_title": "",
-     "genres": [
-      "Horror",
-      "Drammatico"
-     ],
-     "year": "2026",
-     "director": "Andrea Corsini",
-     "distributor": "Adler Entertainment",
-     "release_date": "2026-11-05",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68123.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/ferine/68123/scheda/"
-    },
-    {
-     "cs_id": 68706,
-     "title": "Hope",
-     "original_title": "",
-     "genres": [
-      "Azione",
-      "Thriller",
-      "Horror"
-     ],
-     "year": "2026",
-     "director": "Na Hong-jin",
-     "distributor": "MUBI",
-     "release_date": "2026-11-05",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68706.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/hope/68706/scheda/"
-    },
-    {
-     "cs_id": 67427,
-     "title": "Il Gatto col Cappello",
-     "original_title": "The Cat in the Hat",
-     "genres": [
-      "Animazione",
-      "Commedia",
-      "Family"
-     ],
-     "year": "2026",
-     "director": "Alessandro Carloni, Erica Rivinoja",
-     "distributor": "Warner Bros. Pictures",
-     "release_date": "2026-11-05",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67427.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/il-gatto-col-cappello/67427/scheda/"
-    },
-    {
-     "cs_id": 68527,
-     "title": "La Guerra dei Prezzi",
-     "original_title": "La Guerre des Prix",
-     "genres": [
-      "Drammatico"
-     ],
-     "year": "2026",
-     "director": "Anthony Dechaux",
-     "distributor": "Kitchen Film",
-     "release_date": "2026-11-05",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68527.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/la-guerra-dei-prezzi/68527/scheda/"
-    },
-    {
-     "cs_id": 68907,
-     "title": "La Mia Storia Con Te",
-     "original_title": "",
-     "genres": [
-      "Commedia",
-      "Sentimentale"
-     ],
-     "year": "2026",
-     "director": "Angelo Frezza",
-     "distributor": "Mediterranea...",
-     "release_date": "2026-11-05",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68907.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/la-mia-storia-con-te/68907/scheda/"
-    },
-    {
-     "cs_id": 68243,
-     "title": "Se Domani Non Torno",
-     "original_title": "",
-     "genres": [
-      "Drammatico",
-      "Biografico"
-     ],
-     "year": "2026",
-     "director": "Paola Randi",
-     "distributor": "Notorious Pictures",
-     "release_date": "2026-11-05",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68243.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/se-domani-non-torno/68243/scheda/"
-    },
-    {
-     "cs_id": 68139,
-     "title": "The Nameless Ballad",
-     "original_title": "",
-     "genres": [
-      "Horror"
-     ],
-     "year": "2026",
-     "director": "Federico Zampaglione",
-     "distributor": "Filmclub Distribuzione",
-     "release_date": "2026-11-05",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68139.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/the-nameless-ballad/68139/scheda/"
-    },
-    {
-     "cs_id": 69522,
-     "title": "Un'Altra Me",
-     "original_title": "",
-     "genres": [
-      "Commedia"
-     ],
-     "year": "2026",
-     "director": "Luca Brignone",
-     "distributor": "Altre Storie",
-     "release_date": "2026-11-05",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69522.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/un-altra-me/69522/scheda/"
-    },
-    {
-     "cs_id": 68581,
-     "title": "Wild Horse Nine",
-     "original_title": "",
-     "genres": [
-      "Thriller",
-      "Commedia"
-     ],
-     "year": "2026",
-     "director": "Martin McDonagh",
-     "distributor": "The Walt Disney Company...",
-     "release_date": "2026-11-05",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68581.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/wild-horse-nine/68581/scheda/"
-    },
-    {
-     "cs_id": 69304,
-     "title": "George Michael: The Faith Tour",
-     "original_title": "",
-     "genres": [
-      "Documentario",
-      "Musicale"
-     ],
-     "year": "2026",
-     "director": "Andrew Morahan, David Austin",
-     "distributor": "Universal Pictures",
-     "release_date": "2026-11-06",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69304.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/george-michael-the-faith-tour/69304/scheda/"
-    }
-   ]
-  },
-  {
    "from": "2026-11-12",
    "films": [
     {
@@ -318,6 +149,157 @@
      "release_date": "2026-11-12",
      "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69096.jpg",
      "scheda_url": "https://www.comingsoon.it/film/un-weekend-artificiale/69096/scheda/"
+    }
+   ]
+  },
+  {
+   "from": "2026-11-19",
+   "films": [
+    {
+     "cs_id": 565,
+     "title": "2001: Odissea nello spazio",
+     "original_title": "2001: A Space Odyssey",
+     "genres": [
+      "Fantascienza"
+     ],
+     "year": "1968",
+     "director": "Stanley Kubrick",
+     "distributor": "Warner Bros., Nexo...",
+     "release_date": "2026-11-16",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/565.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/2001-odissea-nello-spazio/565/scheda/"
+    },
+    {
+     "cs_id": 69463,
+     "title": "In un Battito",
+     "original_title": "",
+     "genres": [
+      "Documentario"
+     ],
+     "year": "2026",
+     "director": "Giovanni Troilo",
+     "distributor": "01 Distribution",
+     "release_date": "2026-11-16",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69463.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/in-un-battito/69463/scheda/"
+    },
+    {
+     "cs_id": 5853,
+     "title": "La Storia Infinita",
+     "original_title": "Die unendliche Geschichte",
+     "genres": [
+      "Fantasy"
+     ],
+     "year": "1984",
+     "director": "Wolfgang Petersen",
+     "distributor": "Adler Entertainment...",
+     "release_date": "2026-11-16",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/5853.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/la-storia-infinita/5853/scheda/"
+    },
+    {
+     "cs_id": 67491,
+     "title": "Fjord",
+     "original_title": "",
+     "genres": [
+      "Drammatico"
+     ],
+     "year": "2026",
+     "director": "Cristian Mungiu",
+     "distributor": "BIM Distribuzione",
+     "release_date": "2026-11-19",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67491.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/fjord/67491/scheda/"
+    },
+    {
+     "cs_id": 66957,
+     "title": "Hunger Games: L'Alba sulla Mietitura",
+     "original_title": "The Hunger Games: Sunrise on the Reaping",
+     "genres": [
+      "Azione",
+      "Avventura",
+      "Fantasy"
+     ],
+     "year": "2026",
+     "director": "Francis Lawrence",
+     "distributor": "Notorious Pictures",
+     "release_date": "2026-11-19",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/66957.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/hunger-games-l-alba-sulla-mietitura/66957/scheda/"
+    },
+    {
+     "cs_id": 69567,
+     "title": "Il Destino Dell'Ape",
+     "original_title": "",
+     "genres": [
+      "Drammatico",
+      "Sentimentale"
+     ],
+     "year": "2026",
+     "director": "Toni Trupia",
+     "distributor": "RS Production",
+     "release_date": "2026-11-19",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69567.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/il-destino-dell-ape/69567/scheda/"
+    },
+    {
+     "cs_id": 68650,
+     "title": "Il Fuoco che ti Porti Dentro",
+     "original_title": "",
+     "genres": [
+      "Drammatico"
+     ],
+     "year": "2026",
+     "director": "Edoardo De Angelis",
+     "distributor": "01 Distribution",
+     "release_date": "2026-11-19",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68650.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/il-fuoco-che-ti-porti-dentro/68650/scheda/"
+    },
+    {
+     "cs_id": 68424,
+     "title": "L'uomo che poteva cambiare il mondo",
+     "original_title": "",
+     "genres": [
+      "Drammatico"
+     ],
+     "year": "2026",
+     "director": "Anne Paulicevich",
+     "distributor": "PiperFilm",
+     "release_date": "2026-11-19",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68424.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/l-uomo-che-poteva-cambiare-il-mondo/68424/scheda/"
+    },
+    {
+     "cs_id": 68825,
+     "title": "La Ballata Del Re Delle Api",
+     "original_title": "The Rivals of Amziah King",
+     "genres": [
+      "Drammatico",
+      "Thriller"
+     ],
+     "year": "2025",
+     "director": "Andrew Patterson",
+     "distributor": "I Wonder Pictures",
+     "release_date": "2026-11-19",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68825.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/la-ballata-del-re-delle-api/68825/scheda/"
+    },
+    {
+     "cs_id": 69514,
+     "title": "Ramayana: La Nascita di una Leggenda",
+     "original_title": "Ramayana Part 1",
+     "genres": [
+      "Avventura",
+      "Azione",
+      "Fantasy"
+     ],
+     "year": "2026",
+     "director": "Nitesh Tiwari",
+     "distributor": "Eagle Pictures",
+     "release_date": "2026-11-19",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69514.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/ramayana-la-nascita-di-una-leggenda/69514/scheda/"
     }
    ]
   }

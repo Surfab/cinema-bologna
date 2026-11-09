@@ -1,6 +1,6 @@
 {
  "version": 1,
- "today": "2026-11-08",
+ "today": "2026-11-09",
  "source": "https://www.comingsoon.it/cinema/bologna/",
  "cinemas": [
   {
@@ -17,7 +17,7 @@
    "short": "Bellinzona",
    "address": "Via Bellinzona, 6",
    "url": "https://www.comingsoon.it/cinema/bologna/bellinzona-d-essai/153/",
-   "active": true
+   "active": false
   },
   {
    "id": 181,
@@ -25,7 +25,7 @@
    "short": "Chaplin",
    "address": "Piazza di Porta Saragozza, 5/a",
    "url": "https://www.comingsoon.it/cinema/bologna/chaplin/181/",
-   "active": true
+   "active": false
   },
   {
    "id": 177,
@@ -41,7 +41,7 @@
    "short": "Tivoli",
    "address": "Via Massarenti, 418",
    "url": "https://www.comingsoon.it/cinema/bologna/cinema-teatro-tivoli/182/",
-   "active": true
+   "active": false
   },
   {
    "id": 5480,
@@ -97,7 +97,7 @@
    "short": "Nosadella",
    "address": "Via L. Berti, 2/7",
    "url": "https://www.comingsoon.it/cinema/bologna/nuovo-nosadella/5085/",
-   "active": true
+   "active": false
   },
   {
    "id": 174,
@@ -129,7 +129,7 @@
    "short": "Bristol",
    "address": "Via Toscana, 146",
    "url": "https://www.comingsoon.it/cinema/bologna/pop-up-cinema-bristol/5074/",
-   "active": true
+   "active": false
   },
   {
    "id": 167,
@@ -187,7 +187,7 @@
    "cast": [
     "George Michael"
    ],
-   "rating": 3.7,
+   "rating": 3.6,
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69304.jpg",
    "scheda_url": "https://www.comingsoon.it/film/george-michael-the-faith-tour/69304/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/george-michael-the-faith-tour/69304/video/"
@@ -209,7 +209,7 @@
     "Steve Buscemi",
     "Parker Posey"
    ],
-   "rating": 4.3,
+   "rating": 4.2,
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68581.jpg",
    "scheda_url": "https://www.comingsoon.it/film/wild-horse-nine/68581/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/wild-horse-nine/68581/video/"
@@ -230,7 +230,7 @@
     "Giglia Marra",
     "Fabrizio Ferracane"
    ],
-   "rating": 4.0,
+   "rating": 3.9,
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68139.jpg",
    "scheda_url": "https://www.comingsoon.it/film/the-nameless-ballad/68139/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/the-nameless-ballad/68139/video/"
@@ -252,31 +252,10 @@
     "Tecla Bossi",
     "Tommaso Allione"
    ],
-   "rating": 3.6,
+   "rating": 3.5,
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68243.jpg",
    "scheda_url": "https://www.comingsoon.it/film/se-domani-non-torno/68243/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/se-domani-non-torno/68243/video/"
-  },
-  {
-   "idf": "22889",
-   "cs_id": 68527,
-   "title": "La Guerra dei Prezzi",
-   "original_title": "La Guerre des Prix",
-   "genres": [
-    "Drammatico"
-   ],
-   "duration": 96,
-   "release_date": "2026-11-05",
-   "cast": [
-    "Ana Girardot",
-    "Jonas Bloquet",
-    "Olivier Gourmet",
-    "Aurélia Petit"
-   ],
-   "rating": 3.2,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68527.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/la-guerra-dei-prezzi/68527/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/la-guerra-dei-prezzi/68527/video/"
   },
   {
    "idf": "22438",
@@ -346,25 +325,25 @@
    "trailer_url": "https://www.comingsoon.it/film/un-tranquillo-funerale-di-famiglia/68729/video/"
   },
   {
-   "idf": "22708",
-   "cs_id": 68448,
-   "title": "Nel Silenzio delle Stanze",
-   "original_title": "La Condition",
+   "idf": "21953",
+   "cs_id": 68347,
+   "title": "Nina Roza",
+   "original_title": "",
    "genres": [
     "Drammatico"
    ],
    "duration": 103,
    "release_date": "2026-10-29",
    "cast": [
-    "Swann Arlaud",
-    "Louise Chevillotte",
-    "Galatea Bellugi",
-    "Emmanuelle Devos"
+    "Galin Stoev",
+    "Ekaterina Stanina",
+    "Sofia Stanina",
+    "Chiara Caselli"
    ],
-   "rating": 3.8,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68448.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/nel-silenzio-delle-stanze/68448/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/nel-silenzio-delle-stanze/68448/video/"
+   "rating": 2.5,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68347.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/nina-roza/68347/scheda/",
+   "trailer_url": "https://www.comingsoon.it/film/nina-roza/68347/video/"
   },
   {
    "idf": "22777",
@@ -389,48 +368,6 @@
    "trailer_url": "https://www.comingsoon.it/film/minotaur/68680/video/"
   },
   {
-   "idf": "22783",
-   "cs_id": 69251,
-   "title": "La Maison des Femmes - La Casa delle Donne",
-   "original_title": "La Maison des Femmes",
-   "genres": [
-    "Drammatico"
-   ],
-   "duration": 110,
-   "release_date": "2026-10-29",
-   "cast": [
-    "Karin Viard",
-    "Lætitia Dosch",
-    "Oulaya Amamra",
-    "Eye Haïdara"
-   ],
-   "rating": 3.2,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69251.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/la-maison-des-femmes-la-casa-delle-donne/69251/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/la-maison-des-femmes-la-casa-delle-donne/69251/video/"
-  },
-  {
-   "idf": "22655",
-   "cs_id": 68252,
-   "title": "Ice Cream Man",
-   "original_title": "",
-   "genres": [
-    "Horror"
-   ],
-   "duration": 87,
-   "release_date": "2026-10-29",
-   "cast": [
-    "Ari Millen",
-    "Benjamin Byron Davis",
-    "Karen Cliche",
-    "Eli Roth"
-   ],
-   "rating": 2.8,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68252.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/ice-cream-man/68252/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/ice-cream-man/68252/video/"
-  },
-  {
    "idf": "22281",
    "cs_id": 69130,
    "title": "Dio Ride",
@@ -448,7 +385,7 @@
     "Alma Noce",
     "Maurizio Lombardi"
    ],
-   "rating": 3.4,
+   "rating": 3.5,
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69130.jpg",
    "scheda_url": "https://www.comingsoon.it/film/dio-ride/69130/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/dio-ride/69130/video/"
@@ -535,7 +472,7 @@
     "Fiona Shaw",
     "Esme Creed-Miles"
    ],
-   "rating": 3.3,
+   "rating": 3.4,
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67762.jpg",
    "scheda_url": "https://www.comingsoon.it/film/ragione-e-sentimento/67762/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/ragione-e-sentimento/67762/video/"
@@ -582,27 +519,6 @@
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68676.jpg",
    "scheda_url": "https://www.comingsoon.it/film/fatherland/68676/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/fatherland/68676/video/"
-  },
-  {
-   "idf": "22661",
-   "cs_id": 69177,
-   "title": "Zustissia",
-   "original_title": "",
-   "genres": [
-    "Drammatico"
-   ],
-   "duration": 111,
-   "release_date": "2026-10-15",
-   "cast": [
-    "Michele Riondino",
-    "Fabrizio Ferracane",
-    "Paola Giannini",
-    "Jacopo Cullin"
-   ],
-   "rating": 4.1,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69177.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/zustissia/69177/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/zustissia/69177/video/"
   },
   {
    "idf": "22524",
@@ -671,29 +587,6 @@
    "trailer_url": "https://www.comingsoon.it/film/l-estranea/68142/video/"
   },
   {
-   "idf": "22192",
-   "cs_id": 68145,
-   "title": "L'Albero di Molto Lontano",
-   "original_title": "The Magic Faraway Tree",
-   "genres": [
-    "Avventura",
-    "Fantasy",
-    "Family"
-   ],
-   "duration": 110,
-   "release_date": "2026-10-08",
-   "cast": [
-    "Andrew Garfield",
-    "Claire Foy",
-    "Nicola Coughlan",
-    "Jessica Gunning"
-   ],
-   "rating": 3.1,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68145.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/l-albero-di-molto-lontano/68145/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/l-albero-di-molto-lontano/68145/video/"
-  },
-  {
    "idf": "22430",
    "cs_id": 67181,
    "title": "Digger",
@@ -717,241 +610,124 @@
    "trailer_url": "https://www.comingsoon.it/film/digger/67181/video/"
   },
   {
-   "idf": "22021",
-   "cs_id": 68241,
-   "title": "Santiago - Un Cammino per Ricominciare",
-   "original_title": "Compostelle",
+   "idf": "20080",
+   "cs_id": 67547,
+   "title": "Calle Malaga",
+   "original_title": "Calle Málaga",
    "genres": [
     "Drammatico"
    ],
-   "duration": null,
-   "release_date": "2026-09-24",
+   "duration": 116,
+   "release_date": "2026-09-17",
    "cast": [
-    "Alexandra Lamy",
-    "Julien Le Berre",
-    "Melanie Doutey",
-    "Eric Métayer"
+    "Marta Etura",
+    "Carmen Maura",
+    "María Alfonsa Rosso",
+    "Miguel Garcés"
    ],
-   "rating": 4.4,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68241.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/santiago-un-cammino-per-ricominciare/68241/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/santiago-un-cammino-per-ricominciare/68241/video/"
+   "rating": 3.6,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67547.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/calle-malaga/67547/scheda/",
+   "trailer_url": "https://www.comingsoon.it/film/calle-malaga/67547/video/"
   },
   {
-   "idf": "22334",
-   "cs_id": 68136,
-   "title": "Nessun Dolore",
-   "original_title": "",
+   "idf": "22094",
+   "cs_id": 67682,
+   "title": "Palestina 36 - Quando tutto ebbe inizio",
+   "original_title": "Palestine 36",
    "genres": [
-    "Drammatico"
+    "Drammatico",
+    "Storico",
+    "Guerra"
    ],
-   "duration": 96,
-   "release_date": "2026-09-24",
-   "cast": [
-    "Alessandro Borghi",
-    "Valeria Golino",
-    "Valerio Mastandrea"
-   ],
-   "rating": 3.5,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68136.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/nessun-dolore/68136/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/nessun-dolore/68136/video/"
-  },
-  {
-   "idf": "22255",
-   "cs_id": 69205,
-   "title": "Serpenti",
-   "original_title": "",
-   "genres": [
-    "Commedia",
-    "Drammatico"
-   ],
-   "duration": 88,
+   "duration": 118,
    "release_date": "2026-09-10",
    "cast": [
-    "Leonardo Lidi",
-    "Alessandro Borghi",
-    "Pietro Castellitto",
-    "Valeria Golino"
+    "Jeremy Irons",
+    "Liam Cunningham",
+    "Billy Howle",
+    "Robert Aramayo"
    ],
-   "rating": 3.4,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69205.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/serpenti/69205/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/serpenti/69205/video/"
+   "rating": 3.9,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67682.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/palestina-36-quando-tutto-ebbe-inizio/67682/scheda/",
+   "trailer_url": "https://www.comingsoon.it/film/palestina-36-quando-tutto-ebbe-inizio/67682/video/"
   },
   {
-   "idf": "21735",
-   "cs_id": 66742,
-   "title": "Il Silenzio degli Altri",
-   "original_title": "Sorda",
-   "genres": [
-    "Drammatico"
-   ],
-   "duration": 99,
-   "release_date": "2026-05-28",
-   "cast": [
-    "Miriam Garlo",
-    "Álvaro Cervantes",
-    "Elena Irureta",
-    "Joaquín Notario"
-   ],
-   "rating": 3.4,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/66742.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/il-silenzio-degli-altri/66742/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/il-silenzio-degli-altri/66742/video/"
-  },
-  {
-   "idf": "21724",
-   "cs_id": 65688,
-   "title": "Il Regno di Kensuke",
-   "original_title": "Kensuke's Kingdom",
-   "genres": [
-    "Animazione",
-    "Avventura"
-   ],
-   "duration": 85,
-   "release_date": "2026-05-28",
-   "cast": [
-    "Cillian Murphy",
-    "Ken Watanabe",
-    "Sally Hawkins",
-    "Raffey Cassidy"
-   ],
-   "rating": 3.5,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/65688.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/il-regno-di-kensuke/65688/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/il-regno-di-kensuke/65688/video/"
-  },
-  {
-   "idf": "20326",
-   "cs_id": 66509,
-   "title": "La Gioia",
+   "idf": "19380",
+   "cs_id": 66278,
+   "title": "San Damiano",
    "original_title": "",
    "genres": [
-    "Drammatico"
+    "Documentario"
    ],
-   "duration": null,
-   "release_date": "2026-02-12",
-   "cast": [
-    "Valeria Golino",
-    "Saul Nanni",
-    "Jasmine Trinca",
-    "Francesco Colella"
-   ],
-   "rating": 3.4,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/66509.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/la-gioia/66509/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/la-gioia/66509/video/"
-  },
-  {
-   "idf": "21091",
-   "cs_id": 67570,
-   "title": "GOAT: Sogna in grande",
-   "original_title": "GOAT",
-   "genres": [
-    "Animazione",
-    "Commedia",
-    "Avventura"
-   ],
-   "duration": 100,
-   "release_date": "2026-02-12",
-   "cast": [
-    "Caleb McLaughlin",
-    "David Harbour",
-    "Patton Oswalt",
-    "Aaron Pierre"
-   ],
-   "rating": 3.3,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67570.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/goat-sogna-in-grande/67570/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/goat-sogna-in-grande/67570/video/"
-  },
-  {
-   "idf": "21074",
-   "cs_id": 67474,
-   "title": "Le Cose non Dette",
-   "original_title": "",
-   "genres": [
-    "Drammatico"
-   ],
-   "duration": 114,
-   "release_date": "2026-01-29",
-   "cast": [
-    "Stefano Accorsi",
-    "Miriam Leone",
-    "Claudio Santamaria",
-    "Carolina Crescentini"
-   ],
-   "rating": 3.5,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67474.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/le-cose-non-dette/67474/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/le-cose-non-dette/67474/video/"
-  },
-  {
-   "idf": "17895",
-   "cs_id": 15871,
-   "title": "Non Aprite Quella Porta",
-   "original_title": "The Texas Chainsaw Massacre",
-   "genres": [
-    "Horror"
-   ],
-   "duration": 85,
-   "release_date": "2024-09-23",
-   "cast": [
-    "Marilyn Burns",
-    "Gunnar Hansen",
-    "Paul A. Partain",
-    "Teri McMinn"
-   ],
-   "rating": 4.1,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/15871.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/non-aprite-quella-porta/15871/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/non-aprite-quella-porta/15871/video/"
-  },
-  {
-   "idf": "8617",
-   "cs_id": 19641,
-   "title": "Colazione da Tiffany",
-   "original_title": "Breakfast at Tiffany's",
-   "genres": [
-    "Commedia",
-    "Drammatico",
-    "Sentimentale"
-   ],
-   "duration": 115,
-   "release_date": "2014-02-13",
-   "cast": [
-    "Audrey Hepburn",
-    "George Peppard",
-    "Patricia Neal",
-    "Buddy Ebsen"
-   ],
-   "rating": 4.5,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/19641.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/colazione-da-tiffany/19641/scheda/",
+   "duration": 86,
+   "release_date": "2025-04-10",
+   "cast": [],
+   "rating": 4.6,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/66278.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/san-damiano/66278/scheda/",
    "trailer_url": null
   },
   {
-   "idf": "16300",
-   "cs_id": 1103,
-   "title": "L'Esorcista - Versione Integrale",
-   "original_title": "The Exorcist - Director",
+   "idf": "14967",
+   "cs_id": 61917,
+   "title": "La pantera delle nevi",
+   "original_title": "La panthère des neiges",
    "genres": [
-    "Horror",
+    "Documentario"
+   ],
+   "duration": 92,
+   "release_date": "2022-10-20",
+   "cast": [],
+   "rating": 4.0,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/61917.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/la-pantera-delle-nevi/61917/scheda/",
+   "trailer_url": "https://www.comingsoon.it/film/la-pantera-delle-nevi/61917/video/"
+  },
+  {
+   "idf": "11950",
+   "cs_id": 53492,
+   "title": "Il Diritto di Contare",
+   "original_title": "Hidden Figures",
+   "genres": [
+    "Drammatico",
+    "Biografico"
+   ],
+   "duration": 127,
+   "release_date": "2017-03-08",
+   "cast": [
+    "Taraji P. Henson",
+    "Octavia Spencer",
+    "Janelle Monáe",
+    "Kevin Costner"
+   ],
+   "rating": 4.0,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/53492.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/il-diritto-di-contare/53492/scheda/",
+   "trailer_url": "https://www.comingsoon.it/film/il-diritto-di-contare/53492/video/"
+  },
+  {
+   "idf": "6502",
+   "cs_id": 381,
+   "title": "Little Miss Sunshine",
+   "original_title": "",
+   "genres": [
+    "Commedia",
     "Drammatico"
    ],
-   "duration": 130,
-   "release_date": "2000-12-01",
+   "duration": 101,
+   "release_date": "2006-09-22",
    "cast": [
-    "Ellen Burstyn",
-    "Max von Sydow",
-    "Linda Blair",
-    "Kitty Winn"
+    "Greg Kinnear",
+    "Toni Collette",
+    "Steve Carell",
+    "Alan Arkin"
    ],
-   "rating": 4.4,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/1103.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/l-esorcista-versione-integrale/1103/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/l-esorcista-versione-integrale/1103/video/"
+   "rating": 4.7,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/381.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/little-miss-sunshine/381/scheda/",
+   "trailer_url": null
   },
   {
    "idf": "3852",
@@ -975,26 +751,26 @@
    "trailer_url": null
   },
   {
-   "idf": "1422",
-   "cs_id": 35223,
-   "title": "La signora ammazzatutti",
-   "original_title": "Serial Mom",
+   "idf": "15826",
+   "cs_id": 22399,
+   "title": "Viale del Tramonto",
+   "original_title": "Sunset Blvd.",
    "genres": [
-    "Commedia",
-    "Thriller"
+    "Drammatico",
+    "Noir"
    ],
-   "duration": 88,
+   "duration": 110,
    "release_date": null,
    "cast": [
-    "Kathleen Turner",
-    "Sam Waterston",
-    "Ricki Lake",
-    "Matthew Lillard"
+    "William Holden",
+    "Gloria Swanson",
+    "Erich von Stroheim",
+    "Nancy Olson"
    ],
-   "rating": 3.9,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/35223.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/la-signora-ammazzatutti/35223/scheda/",
-   "trailer_url": null
+   "rating": 4.8,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/22399.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/viale-del-tramonto/22399/scheda/",
+   "trailer_url": "https://www.comingsoon.it/film/viale-del-tramonto/22399/video/"
   },
   {
    "idf": "22477",
@@ -1020,1451 +796,26 @@
  ],
  "shows": [
   {
-   "film": "1422",
-   "cinema": 174,
-   "date": "2026-11-08",
-   "time": "10:00",
-   "sala": "Sala C",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 9.0,
-   "url": null
-  },
-  {
-   "film": "21724",
-   "cinema": 174,
-   "date": "2026-11-08",
-   "time": "10:30",
-   "sala": "Sala B",
-   "vo": false,
-   "tags": [],
-   "price": 7.0,
-   "url": null
-  },
-  {
-   "film": "8617",
-   "cinema": 174,
-   "date": "2026-11-08",
-   "time": "10:30",
-   "sala": "Sala A",
-   "vo": false,
-   "tags": [],
-   "price": 7.0,
-   "url": null
-  },
-  {
-   "film": "22826",
-   "cinema": 5075,
-   "date": "2026-11-08",
-   "time": "10:30",
-   "sala": "Scorsese",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": null
-  },
-  {
-   "film": "20326",
-   "cinema": 5817,
-   "date": "2026-11-08",
-   "time": "10:30",
-   "sala": "Sala 1",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 8.5,
-   "url": null
-  },
-  {
-   "film": "17895",
-   "cinema": 152,
-   "date": "2026-11-08",
-   "time": "11:00",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "21091",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "11:00",
-   "sala": "Sala 8",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22287",
-   "cinema": 5075,
-   "date": "2026-11-08",
-   "time": "11:00",
-   "sala": "Sala Off. / Mastroianni",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": null
-  },
-  {
-   "film": "22438",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "11:10",
-   "sala": "Sala 7",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22810",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "11:15",
-   "sala": "Sala 2",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22287",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "11:20",
-   "sala": "Sala 4",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22826",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "11:30",
-   "sala": "Sala 9",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "21074",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "11:45",
-   "sala": "Sala 6",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22189",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "12:00",
-   "sala": "Sala 5",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22433",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "12:35",
-   "sala": "Sala 3",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22810",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "13:25",
-   "sala": "Sala 2",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22655",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "13:40",
-   "sala": "Sala 7",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22582",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "14:00",
-   "sala": "Sala 8",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22281",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "14:15",
-   "sala": "Sala 4",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22281",
-   "cinema": 167,
-   "date": "2026-11-08",
-   "time": "14:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22438",
-   "cinema": 152,
-   "date": "2026-11-08",
-   "time": "14:45",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22430",
-   "cinema": 5480,
-   "date": "2026-11-08",
-   "time": "15:00",
-   "sala": "Sala 1",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": null
-  },
-  {
-   "film": "22287",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "15:10",
-   "sala": "Sala 9",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22810",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "15:15",
-   "sala": "Sala 3",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22287",
-   "cinema": 153,
-   "date": "2026-11-08",
-   "time": "15:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": null
-  },
-  {
-   "film": "22438",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "15:30",
-   "sala": "Sala 2",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "21856",
-   "cinema": 174,
-   "date": "2026-11-08",
-   "time": "15:30",
-   "sala": "Sala C",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22777",
-   "cinema": 178,
-   "date": "2026-11-08",
-   "time": "15:30",
-   "sala": "Sala 2",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22810",
-   "cinema": 4587,
-   "date": "2026-11-08",
-   "time": "15:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22189",
-   "cinema": 5074,
-   "date": "2026-11-08",
-   "time": "15:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22287",
-   "cinema": 5075,
-   "date": "2026-11-08",
-   "time": "15:30",
-   "sala": "Sala Off. / Mastroianni",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": null
-  },
-  {
-   "film": "22281",
-   "cinema": 5085,
-   "date": "2026-11-08",
-   "time": "15:30",
-   "sala": "Sala Scalo",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": null
-  },
-  {
-   "film": "22438",
-   "cinema": 5085,
-   "date": "2026-11-08",
-   "time": "15:30",
-   "sala": "Sala Berti",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": null
-  },
-  {
-   "film": "22661",
-   "cinema": 163,
-   "date": "2026-11-08",
-   "time": "16:00",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22189",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "16:00",
-   "sala": "Sala 7",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "21735",
-   "cinema": 177,
-   "date": "2026-11-08",
-   "time": "16:00",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 7.0,
-   "url": null
-  },
-  {
-   "film": "22713",
-   "cinema": 179,
-   "date": "2026-11-08",
-   "time": "16:00",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "21856",
-   "cinema": 181,
-   "date": "2026-11-08",
-   "time": "16:00",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 9.0,
-   "url": null
-  },
-  {
-   "film": "22713",
-   "cinema": 5075,
-   "date": "2026-11-08",
-   "time": "16:00",
-   "sala": "Scorsese",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": null
-  },
-  {
-   "film": "22192",
-   "cinema": 5817,
-   "date": "2026-11-08",
-   "time": "16:00",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 6.0,
-   "url": null
-  },
-  {
-   "film": "22281",
-   "cinema": 161,
-   "date": "2026-11-08",
-   "time": "16:15",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22259",
-   "cinema": 174,
-   "date": "2026-11-08",
-   "time": "16:15",
-   "sala": "Sala A",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22736",
-   "cinema": 174,
-   "date": "2026-11-08",
-   "time": "16:15",
-   "sala": "Sala B",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22287",
-   "cinema": 178,
-   "date": "2026-11-08",
-   "time": "16:15",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22021",
-   "cinema": 182,
-   "date": "2026-11-08",
-   "time": "16:15",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 7.0,
-   "url": null
-  },
-  {
-   "film": "22259",
-   "cinema": 161,
-   "date": "2026-11-08",
-   "time": "16:30",
-   "sala": "Sala 2",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22579",
-   "cinema": 174,
-   "date": "2026-11-08",
-   "time": "16:30",
-   "sala": "Sala D",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22255",
-   "cinema": 176,
-   "date": "2026-11-08",
-   "time": "16:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 7.0,
-   "url": null
-  },
-  {
-   "film": "22281",
-   "cinema": 167,
-   "date": "2026-11-08",
-   "time": "16:45",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22810",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "16:45",
-   "sala": "Sala 5",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22438",
-   "cinema": 152,
-   "date": "2026-11-08",
-   "time": "17:00",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22826",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "17:00",
-   "sala": "Sala 4",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22189",
-   "cinema": 4587,
-   "date": "2026-11-08",
-   "time": "17:10",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22438",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "17:15",
-   "sala": "Sala 8",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22777",
-   "cinema": 5075,
-   "date": "2026-11-08",
-   "time": "17:15",
-   "sala": "DAMSLab/Auditorium",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": null
-  },
-  {
-   "film": "22430",
-   "cinema": 5480,
-   "date": "2026-11-08",
-   "time": "17:15",
-   "sala": "Sala 1",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": null
-  },
-  {
-   "film": "22531",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "17:30",
-   "sala": "Sala 3",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22287",
-   "cinema": 5085,
-   "date": "2026-11-08",
-   "time": "17:30",
-   "sala": "Sala Berti",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": null
-  },
-  {
-   "film": "22438",
-   "cinema": 5085,
-   "date": "2026-11-08",
-   "time": "17:30",
-   "sala": "Sala Scalo",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": null
-  },
-  {
-   "film": "22713",
-   "cinema": 179,
-   "date": "2026-11-08",
-   "time": "17:45",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22287",
-   "cinema": 5075,
-   "date": "2026-11-08",
-   "time": "17:45",
-   "sala": "Sala Off. / Mastroianni",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": null
-  },
-  {
-   "film": "22189",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "18:00",
-   "sala": "Sala 9",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22189",
-   "cinema": 5074,
-   "date": "2026-11-08",
-   "time": "18:00",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22826",
-   "cinema": 5075,
-   "date": "2026-11-08",
-   "time": "18:00",
-   "sala": "Scorsese",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": null
-  },
-  {
-   "film": "22287",
-   "cinema": 153,
-   "date": "2026-11-08",
-   "time": "18:15",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": null
-  },
-  {
-   "film": "22438",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "18:15",
-   "sala": "Sala 2",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "21856",
-   "cinema": 174,
-   "date": "2026-11-08",
-   "time": "18:15",
-   "sala": "Sala C",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22777",
-   "cinema": 178,
-   "date": "2026-11-08",
-   "time": "18:15",
-   "sala": "Sala 2",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "3852",
-   "cinema": 5817,
-   "date": "2026-11-08",
-   "time": "18:15",
-   "sala": "Sala 1",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": null
-  },
-  {
-   "film": "22708",
-   "cinema": 163,
-   "date": "2026-11-08",
-   "time": "18:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22736",
-   "cinema": 174,
-   "date": "2026-11-08",
-   "time": "18:30",
-   "sala": "Sala B",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22783",
-   "cinema": 176,
-   "date": "2026-11-08",
-   "time": "18:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 7.0,
-   "url": null
-  },
-  {
-   "film": "21735",
-   "cinema": 177,
-   "date": "2026-11-08",
-   "time": "18:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 7.0,
-   "url": null
-  },
-  {
-   "film": "22334",
-   "cinema": 182,
-   "date": "2026-11-08",
-   "time": "18:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 7.0,
-   "url": null
-  },
-  {
-   "film": "22826",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "18:40",
-   "sala": "Sala 7",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22281",
-   "cinema": 161,
-   "date": "2026-11-08",
-   "time": "18:45",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22259",
-   "cinema": 174,
-   "date": "2026-11-08",
-   "time": "18:45",
-   "sala": "Sala A",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22579",
-   "cinema": 174,
-   "date": "2026-11-08",
-   "time": "18:45",
-   "sala": "Sala D",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22287",
-   "cinema": 178,
-   "date": "2026-11-08",
-   "time": "18:45",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "21856",
-   "cinema": 181,
-   "date": "2026-11-08",
-   "time": "18:45",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 9.0,
-   "url": null
-  },
-  {
-   "film": "22259",
-   "cinema": 161,
-   "date": "2026-11-08",
-   "time": "19:00",
-   "sala": "Sala 2",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22582",
-   "cinema": 167,
-   "date": "2026-11-08",
-   "time": "19:00",
-   "sala": "Sala 1",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22287",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "19:00",
-   "sala": "Sala 5",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22608",
-   "cinema": 152,
-   "date": "2026-11-08",
-   "time": "19:15",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22189",
-   "cinema": 4587,
-   "date": "2026-11-08",
-   "time": "19:20",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22713",
-   "cinema": 179,
-   "date": "2026-11-08",
-   "time": "19:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22281",
-   "cinema": 5085,
-   "date": "2026-11-08",
-   "time": "19:30",
-   "sala": "Sala Scalo",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": null
-  },
-  {
-   "film": "22287",
-   "cinema": 5085,
-   "date": "2026-11-08",
-   "time": "19:30",
-   "sala": "Sala Berti",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": null
-  },
-  {
-   "film": "22430",
-   "cinema": 5480,
-   "date": "2026-11-08",
-   "time": "19:30",
-   "sala": "Sala 1",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": null
-  },
-  {
-   "film": "22713",
-   "cinema": 5075,
-   "date": "2026-11-08",
-   "time": "19:45",
-   "sala": "DAMSLab/Auditorium",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": null
-  },
-  {
-   "film": "22736",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "19:50",
-   "sala": "Sala 8",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22287",
-   "cinema": 5075,
-   "date": "2026-11-08",
-   "time": "20:00",
-   "sala": "Sala Off. / Mastroianni",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": null
-  },
-  {
-   "film": "22826",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "20:15",
-   "sala": "Sala 3",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003798/60248?SC_CMP=TSC_comingsoon"
-  },
-  {
-   "film": "22021",
-   "cinema": 182,
-   "date": "2026-11-08",
-   "time": "20:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 7.0,
-   "url": null
-  },
-  {
-   "film": "22189",
-   "cinema": 5074,
-   "date": "2026-11-08",
-   "time": "20:30",
-   "sala": "Bristol",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://bristol.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/855767#sala"
-  },
-  {
-   "film": "22736",
-   "cinema": 174,
-   "date": "2026-11-08",
-   "time": "20:45",
-   "sala": "Odeon B",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/855330#sala"
-  },
-  {
-   "film": "22287",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "20:50",
-   "sala": "Sala 4",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60163?SC_CMP=TSC_comingsoon"
-  },
-  {
-   "film": "22287",
-   "cinema": 153,
-   "date": "2026-11-08",
-   "time": "21:00",
-   "sala": "Sala 1",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 8.0,
-   "url": "https://ticket.cinebot.it/bellinzona/evento/2213"
-  },
-  {
-   "film": "22889",
-   "cinema": 163,
-   "date": "2026-11-08",
-   "time": "21:00",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22189",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "21:00",
-   "sala": "Sala 9",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/59705?SC_CMP=TSC_comingsoon"
-  },
-  {
-   "film": "21856",
-   "cinema": 174,
-   "date": "2026-11-08",
-   "time": "21:00",
-   "sala": "Odeon D",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/ragione-e-sentimento-sense-and-sensibility-_2026-2cc17719-c68d-4598-8cd1-7383eb6589d6/855341#sala"
-  },
-  {
-   "film": "22579",
-   "cinema": 174,
-   "date": "2026-11-08",
-   "time": "21:00",
-   "sala": "Sala D",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22477",
-   "cinema": 176,
-   "date": "2026-11-08",
-   "time": "21:00",
-   "sala": "CINEMA ORIONE",
-   "vo": false,
-   "tags": [],
-   "price": 7.0,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5669&kid=51&tpl=blue#/shoppingmode/it/25/5669/1531/25013"
-  },
-  {
-   "film": "22777",
-   "cinema": 178,
-   "date": "2026-11-08",
-   "time": "21:00",
-   "sala": "Rialto 2",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": "http://rialto.ccb.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-_2026-0c9f4ec0-edbc-40fa-8631-4c3121d665df/855402#sala"
-  },
-  {
-   "film": "22826",
-   "cinema": 5075,
-   "date": "2026-11-08",
-   "time": "21:00",
-   "sala": "Scorsese",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/hope_2026/764979#sala"
-  },
-  {
-   "film": "16300",
-   "cinema": 5817,
-   "date": "2026-11-08",
-   "time": "21:00",
-   "sala": "Modernissimo",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 6.0,
-   "url": "http://modernissimo.cinetecabologna.18tickets.it/film/l-esorcista_1973/758373#sala"
-  },
-  {
-   "film": "22524",
-   "cinema": 152,
-   "date": "2026-11-08",
-   "time": "21:15",
-   "sala": "ARLECCHINO",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": null,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/855879#sala"
-  },
-  {
-   "film": "22281",
-   "cinema": 161,
-   "date": "2026-11-08",
-   "time": "21:15",
-   "sala": "Sala1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1003340#sala"
-  },
-  {
-   "film": "22826",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "21:15",
-   "sala": "Sala 2",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003798/60244?SC_CMP=TSC_comingsoon"
-  },
-  {
-   "film": "22259",
-   "cinema": 174,
-   "date": "2026-11-08",
-   "time": "21:15",
-   "sala": "Odeon A",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/855273#sala"
-  },
-  {
-   "film": "22287",
-   "cinema": 178,
-   "date": "2026-11-08",
-   "time": "21:15",
-   "sala": "Rialto 1",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026-e31f5ef5-fb22-4912-8834-4f256667200a/855303#sala"
-  },
-  {
-   "film": "22713",
-   "cinema": 179,
-   "date": "2026-11-08",
-   "time": "21:15",
-   "sala": "Roma D'Essai",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 10.0,
-   "url": "http://roma.ccb.18tickets.it/film/fatherland_2026-108135e0-0687-4591-87d0-9e4549673d64/855298#sala"
-  },
-  {
-   "film": "22531",
-   "cinema": 181,
-   "date": "2026-11-08",
-   "time": "21:15",
-   "sala": "SALA CHAPLIN",
-   "vo": false,
-   "tags": [],
-   "price": 9.0,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1850/37781"
-  },
-  {
-   "film": "22259",
-   "cinema": 161,
-   "date": "2026-11-08",
-   "time": "21:30",
-   "sala": "Sala 3",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/1003361#sala"
-  },
-  {
-   "film": "22281",
-   "cinema": 167,
-   "date": "2026-11-08",
-   "time": "21:30",
-   "sala": "Jolly",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://jolly.popupcinema.18tickets.it/film/dio-ride_2026-1a55a128-2cfe-44c0-8c70-63a6da37600f/855834#sala"
-  },
-  {
-   "film": "22189",
-   "cinema": 4587,
-   "date": "2026-11-08",
-   "time": "21:30",
-   "sala": "Europa Cinema",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/855225#sala"
-  },
-  {
-   "film": "22777",
-   "cinema": 5075,
-   "date": "2026-11-08",
-   "time": "21:30",
-   "sala": "DAMSLab",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/764948#sala"
-  },
-  {
-   "film": "22281",
-   "cinema": 5085,
-   "date": "2026-11-08",
-   "time": "21:30",
-   "sala": "Sala Scalo",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": "http://cinema.nosadella.18tickets.it/film/dio-ride_2026/764502#sala"
-  },
-  {
-   "film": "22287",
-   "cinema": 5085,
-   "date": "2026-11-08",
-   "time": "21:30",
-   "sala": "Sala Berti",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": "http://cinema.nosadella.18tickets.it/film/wild-horse-nine_2026/764489#sala"
-  },
-  {
-   "film": "22430",
-   "cinema": 5480,
-   "date": "2026-11-08",
-   "time": "21:45",
-   "sala": "Cervi",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": "http://cervi.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/764830#sala"
-  },
-  {
-   "film": "22281",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "21:50",
-   "sala": "Sala 5",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003797/60254?SC_CMP=TSC_comingsoon"
-  },
-  {
-   "film": "22815",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "22:10",
-   "sala": "Sala 7",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003791/59510?SC_CMP=TSC_comingsoon"
-  },
-  {
-   "film": "22287",
-   "cinema": 5075,
-   "date": "2026-11-08",
-   "time": "22:15",
-   "sala": "Mastroianni",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/765009#sala"
-  },
-  {
-   "film": "22736",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "22:20",
-   "sala": "Sala 8",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003650/60262?SC_CMP=TSC_comingsoon"
-  },
-  {
-   "film": "22189",
-   "cinema": 171,
-   "date": "2026-11-08",
-   "time": "22:35",
-   "sala": "Sala 6",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/60350?SC_CMP=TSC_comingsoon"
-  },
-  {
    "film": "22281",
    "cinema": 167,
    "date": "2026-11-09",
    "time": "14:30",
-   "sala": "Jolly",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://jolly.popupcinema.18tickets.it/film/dio-ride_2026-1a55a128-2cfe-44c0-8c70-63a6da37600f/855836#sala"
+   "url": null
   },
   {
    "film": "22438",
    "cinema": 152,
    "date": "2026-11-09",
    "time": "15:00",
-   "sala": "ARLECCHINO",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/il-gatto-col-cappello-the-cat-in-the-hat-_2026-32955604-1cc0-4605-8f58-d70b9ed89f5d/855880#sala"
+   "url": null
   },
   {
    "film": "22189",
@@ -2474,8 +825,19 @@
    "sala": "Sala 8",
    "vo": false,
    "tags": [],
+   "price": 10.9,
+   "url": null
+  },
+  {
+   "film": "15826",
+   "cinema": 5480,
+   "date": "2026-11-09",
+   "time": "15:00",
+   "sala": "Sala 1",
+   "vo": false,
+   "tags": [],
    "price": null,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/60274?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22531",
@@ -2487,7 +849,7 @@
    "tags": [
     "V.O."
    ],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003870/60278?SC_CMP=TSC_comingsoon"
   },
   {
@@ -2498,7 +860,7 @@
    "sala": "Sala 4",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003650/60268?SC_CMP=TSC_comingsoon"
   },
   {
@@ -2509,7 +871,7 @@
    "sala": "Sala 2",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003165/59690?SC_CMP=TSC_comingsoon"
   },
   {
@@ -2520,7 +882,7 @@
    "sala": "Odeon D",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 8.0,
    "url": "http://odeon.ccb.18tickets.it/film/ragione-e-sentimento-sense-and-sensibility-_2026/855357#sala"
   },
   {
@@ -2531,7 +893,7 @@
    "sala": "Rialto 2",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 8.0,
    "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/855318#sala"
   },
   {
@@ -2542,7 +904,7 @@
    "sala": "Europa Cinema",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 8.0,
    "url": "http://europa.ccb.18tickets.it/film/shaun-vita-da-pecora-operazione-z-u-c-c-a_2026-1886e1d7-1802-4503-978c-fc140286ba0a/855209#sala"
   },
   {
@@ -2553,7 +915,7 @@
    "sala": "Sala 3",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003724/60265?SC_CMP=TSC_comingsoon"
   },
   {
@@ -2564,7 +926,7 @@
    "sala": "Sala 5",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003740/60270?SC_CMP=TSC_comingsoon"
   },
   {
@@ -2575,8 +937,21 @@
    "sala": "Roma D'Essai",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 8.0,
    "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/855283#sala"
+  },
+  {
+   "film": "6502",
+   "cinema": 5817,
+   "date": "2026-11-09",
+   "time": "16:00",
+   "sala": "Sala 1",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": null
   },
   {
    "film": "22281",
@@ -2597,7 +972,7 @@
    "sala": "Odeon A",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 8.0,
    "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/855274#sala"
   },
   {
@@ -2608,7 +983,7 @@
    "sala": "Odeon B",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 8.0,
    "url": "http://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/855331#sala"
   },
   {
@@ -2619,7 +994,7 @@
    "sala": "Rialto 1",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 8.0,
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/855236#sala"
   },
   {
@@ -2630,7 +1005,7 @@
    "sala": "Sala 6",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60344?SC_CMP=TSC_comingsoon"
   },
   {
@@ -2645,6 +1020,28 @@
    "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/1003362#sala"
   },
   {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-11-09",
+   "time": "16:30",
+   "sala": "Sala D",
+   "vo": false,
+   "tags": [],
+   "price": 8.0,
+   "url": null
+  },
+  {
+   "film": "20080",
+   "cinema": 176,
+   "date": "2026-11-09",
+   "time": "16:30",
+   "sala": "CINEMA ORIONE",
+   "vo": false,
+   "tags": [],
+   "price": 5.0,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5669&kid=51&tpl=blue#/shoppingmode/it/25/5669/1512/25022"
+  },
+  {
    "film": "22713",
    "cinema": 5075,
    "date": "2026-11-09",
@@ -2654,7 +1051,7 @@
    "tags": [
     "V.O."
    ],
-   "price": null,
+   "price": 7.5,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/764909#sala"
   },
   {
@@ -2665,7 +1062,7 @@
    "sala": "Sala 7",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003797/60272?SC_CMP=TSC_comingsoon"
   },
   {
@@ -2700,7 +1097,7 @@
    "sala": "Europa Cinema",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/855228#sala"
   },
   {
@@ -2713,7 +1110,7 @@
    "tags": [
     "V.O."
    ],
-   "price": null,
+   "price": 7.5,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/764949#sala"
   },
   {
@@ -2724,7 +1121,7 @@
    "sala": "Sala 8",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003724/60275?SC_CMP=TSC_comingsoon"
   },
   {
@@ -2737,7 +1134,7 @@
    "tags": [
     "V.O."
    ],
-   "price": null,
+   "price": 7.5,
    "url": "http://cervi.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/764831#sala"
   },
   {
@@ -2748,7 +1145,7 @@
    "sala": "Sala 4",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60269?SC_CMP=TSC_comingsoon"
   },
   {
@@ -2759,7 +1156,7 @@
    "sala": "Roma D'Essai",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/855284#sala"
   },
   {
@@ -2772,7 +1169,7 @@
    "tags": [
     "V.O."
    ],
-   "price": null,
+   "price": 7.5,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/765011#sala"
   },
   {
@@ -2783,7 +1180,7 @@
    "sala": "Sala 3",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003798/60266?SC_CMP=TSC_comingsoon"
   },
   {
@@ -2794,7 +1191,7 @@
    "sala": "Sala 9",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/59703?SC_CMP=TSC_comingsoon"
   },
   {
@@ -2805,7 +1202,7 @@
    "sala": "Sala 2",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003165/59691?SC_CMP=TSC_comingsoon"
   },
   {
@@ -2816,7 +1213,7 @@
    "sala": "Rialto 2",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/855319#sala"
   },
   {
@@ -2829,8 +1226,19 @@
    "tags": [
     "V.O."
    ],
-   "price": null,
+   "price": 7.5,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/hope_2026/764981#sala"
+  },
+  {
+   "film": "22736",
+   "cinema": 174,
+   "date": "2026-11-09",
+   "time": "18:30",
+   "sala": "Sala B",
+   "vo": false,
+   "tags": [],
+   "price": 10.0,
+   "url": null
   },
   {
    "film": "22477",
@@ -2840,7 +1248,7 @@
    "sala": "CINEMA ORIONE",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 5.0,
    "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5669&kid=51&tpl=blue#/shoppingmode/it/25/5669/1531/25014"
   },
   {
@@ -2862,7 +1270,7 @@
    "sala": "Odeon A",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/855275#sala"
   },
   {
@@ -2873,7 +1281,7 @@
    "sala": "Odeon D",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/855423#sala"
   },
   {
@@ -2884,7 +1292,7 @@
    "sala": "Rialto 1",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/855237#sala"
   },
   {
@@ -2897,6 +1305,17 @@
    "tags": [],
    "price": null,
    "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/1003363#sala"
+  },
+  {
+   "film": "22094",
+   "cinema": 163,
+   "date": "2026-11-09",
+   "time": "19:00",
+   "sala": "Sala 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": null
   },
   {
    "film": "22281",
@@ -2917,7 +1336,7 @@
    "sala": "Sala 5",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60169?SC_CMP=TSC_comingsoon"
   },
   {
@@ -2928,7 +1347,7 @@
    "sala": "Sala 6",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003381/60345?SC_CMP=TSC_comingsoon"
   },
   {
@@ -2939,7 +1358,7 @@
    "sala": "Europa Cinema",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/855229#sala"
   },
   {
@@ -2952,7 +1371,7 @@
    "tags": [
     "V.O."
    ],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003870/60273?SC_CMP=TSC_comingsoon"
   },
   {
@@ -2961,8 +1380,10 @@
    "date": "2026-11-09",
    "time": "19:30",
    "sala": "ARLECCHINO",
-   "vo": false,
-   "tags": [],
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
    "price": null,
    "url": "http://arlecchino.popupcinema.18tickets.it/film/it-ends-original-version_2026/855882#sala"
   },
@@ -2974,7 +1395,7 @@
    "sala": "Roma D'Essai",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/855285#sala"
   },
   {
@@ -2987,7 +1408,7 @@
    "tags": [
     "V.O."
    ],
-   "price": null,
+   "price": 7.5,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/fatherland_2026/764907#sala"
   },
   {
@@ -3000,7 +1421,7 @@
    "tags": [
     "V.O."
    ],
-   "price": null,
+   "price": 7.5,
    "url": "http://cervi.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/764832#sala"
   },
   {
@@ -3011,7 +1432,7 @@
    "sala": "Sala 8",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/60276?SC_CMP=TSC_comingsoon"
   },
   {
@@ -3024,7 +1445,7 @@
    "tags": [
     "V.O."
    ],
-   "price": null,
+   "price": 7.5,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/765012#sala"
   },
   {
@@ -3037,8 +1458,19 @@
    "tags": [
     "V.O."
    ],
-   "price": null,
+   "price": 7.5,
    "url": "http://modernissimo.cinetecabologna.18tickets.it/film/minnie-moskowitz-minnie-and-moskowitz-ried-_1971/758418#sala"
+  },
+  {
+   "film": "11950",
+   "cinema": 177,
+   "date": "2026-11-09",
+   "time": "20:30",
+   "sala": "Sala 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": null
   },
   {
    "film": "22736",
@@ -3048,7 +1480,7 @@
    "sala": "Sala 9",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003650/60279?SC_CMP=TSC_comingsoon"
   },
   {
@@ -3059,7 +1491,7 @@
    "sala": "Sala 4",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60161?SC_CMP=TSC_comingsoon"
   },
   {
@@ -3070,8 +1502,45 @@
    "sala": "Sala 2",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/59692?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "21856",
+   "cinema": 174,
+   "date": "2026-11-09",
+   "time": "21:00",
+   "sala": "Sala C",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": 10.0,
+   "url": null
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-11-09",
+   "time": "21:00",
+   "sala": "Sala D",
+   "vo": false,
+   "tags": [],
+   "price": 10.0,
+   "url": null
+  },
+  {
+   "film": "21953",
+   "cinema": 176,
+   "date": "2026-11-09",
+   "time": "21:00",
+   "sala": "CINEMA ORIONE",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": 5.0,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5669&kid=51&tpl=blue#/shoppingmode/it/25/5669/1525/25023"
   },
   {
    "film": "22777",
@@ -3081,7 +1550,7 @@
    "sala": "Rialto 2",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://rialto.ccb.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-_2026-0c9f4ec0-edbc-40fa-8631-4c3121d665df/855403#sala"
   },
   {
@@ -3125,7 +1594,7 @@
    "sala": "Odeon A",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/855276#sala"
   },
   {
@@ -3136,7 +1605,7 @@
    "sala": "Rialto 1",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026-e31f5ef5-fb22-4912-8834-4f256667200a/855304#sala"
   },
   {
@@ -3149,7 +1618,7 @@
    "tags": [
     "V.O."
    ],
-   "price": null,
+   "price": 10.0,
    "url": "http://roma.ccb.18tickets.it/film/fatherland_2026-108135e0-0687-4591-87d0-9e4549673d64/855299#sala"
   },
   {
@@ -3162,8 +1631,19 @@
    "tags": [
     "V.O."
    ],
-   "price": null,
+   "price": 7.5,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/hope_2026/764982#sala"
+  },
+  {
+   "film": "19380",
+   "cinema": 152,
+   "date": "2026-11-09",
+   "time": "21:30",
+   "sala": "ARLECCHINO",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/san-damiano_2025-dc62a8b3-bf70-4feb-9298-7475f8bbbce2/852795#sala"
   },
   {
    "film": "22259",
@@ -3177,6 +1657,19 @@
    "url": "http://fossolo.ccroma.18tickets.it/film/l-estranea_2026-862582e0-0042-4b87-b0e0-ca494e7eb3b2/1003364#sala"
   },
   {
+   "film": "14967",
+   "cinema": 163,
+   "date": "2026-11-09",
+   "time": "21:30",
+   "sala": "Sala 1",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": null
+  },
+  {
    "film": "22826",
    "cinema": 171,
    "date": "2026-11-09",
@@ -3184,7 +1677,7 @@
    "sala": "Sala 3",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003798/60267?SC_CMP=TSC_comingsoon"
   },
   {
@@ -3195,7 +1688,7 @@
    "sala": "Odeon B",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/855333#sala"
   },
   {
@@ -3208,7 +1701,7 @@
    "tags": [
     "V.O."
    ],
-   "price": null,
+   "price": 7.5,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/764950#sala"
   },
   {
@@ -3219,7 +1712,7 @@
    "sala": "Sala 5",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003797/60271?SC_CMP=TSC_comingsoon"
   },
   {
@@ -3230,7 +1723,7 @@
    "sala": "Sala 6",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/60346?SC_CMP=TSC_comingsoon"
   },
   {
@@ -3243,7 +1736,7 @@
    "tags": [
     "V.O."
    ],
-   "price": null,
+   "price": 7.5,
    "url": "http://cervi.cinetecabologna.18tickets.it/film/digger_2026-cbf7f1f7-6680-4383-b2ff-8f881b4389c0/764833#sala"
   },
   {
@@ -3254,7 +1747,7 @@
    "sala": "Sala 7",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003791/59509?SC_CMP=TSC_comingsoon"
   },
   {
@@ -3267,7 +1760,7 @@
    "tags": [
     "V.O."
    ],
-   "price": null,
+   "price": 7.5,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/765013#sala"
   },
   {
@@ -3278,7 +1771,7 @@
    "sala": "Sala 8",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003650/60334?SC_CMP=TSC_comingsoon"
   },
   {
@@ -3368,17 +1861,6 @@
    "tags": [],
    "price": null,
    "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/855286#sala"
-  },
-  {
-   "film": "21856",
-   "cinema": 181,
-   "date": "2026-11-10",
-   "time": "16:00",
-   "sala": "SALA CHAPLIN",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1843/37782"
   },
   {
    "film": "22287",
@@ -3657,17 +2139,6 @@
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/855239#sala"
   },
   {
-   "film": "22531",
-   "cinema": 181,
-   "date": "2026-11-10",
-   "time": "18:45",
-   "sala": "SALA CHAPLIN",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1850/37783"
-  },
-  {
    "film": "22259",
    "cinema": 161,
    "date": "2026-11-10",
@@ -3701,35 +2172,15 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60168?SC_CMP=TSC_comingsoon"
   },
   {
-   "film": "22281",
-   "cinema": 5085,
-   "date": "2026-11-10",
-   "time": "19:00",
-   "sala": "Sala Scalo",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://cinema.nosadella.18tickets.it/film/dio-ride_2026/764496#sala"
-  },
-  {
-   "film": "22287",
-   "cinema": 5085,
-   "date": "2026-11-10",
-   "time": "19:00",
-   "sala": "Sala Berti",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://cinema.nosadella.18tickets.it/film/wild-horse-nine_2026/764480#sala"
-  },
-  {
    "film": "22608",
    "cinema": 152,
    "date": "2026-11-10",
    "time": "19:15",
    "sala": "ARLECCHINO",
-   "vo": false,
-   "tags": [],
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
    "price": null,
    "url": "http://arlecchino.popupcinema.18tickets.it/film/it-ends-original-version_2026-dce51724-fd0c-44e8-a851-219d9237c029/855906#sala"
   },
@@ -3848,28 +2299,6 @@
    "tags": [],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-_2026-0c9f4ec0-edbc-40fa-8631-4c3121d665df/855404#sala"
-  },
-  {
-   "film": "22531",
-   "cinema": 181,
-   "date": "2026-11-10",
-   "time": "21:00",
-   "sala": "SALA CHAPLIN",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1850/37784"
-  },
-  {
-   "film": "22287",
-   "cinema": 5085,
-   "date": "2026-11-10",
-   "time": "21:10",
-   "sala": "Sala Berti",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://cinema.nosadella.18tickets.it/film/wild-horse-nine_2026/764481#sala"
   },
   {
    "film": "22281",
@@ -4058,17 +2487,6 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003650/60306?SC_CMP=TSC_comingsoon"
   },
   {
-   "film": "22655",
-   "cinema": 171,
-   "date": "2026-11-10",
-   "time": "22:50",
-   "sala": "Sala 3",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003831/60285?SC_CMP=TSC_comingsoon"
-  },
-  {
    "film": "22287",
    "cinema": 5075,
    "date": "2026-11-11",
@@ -4190,17 +2608,6 @@
    "tags": [],
    "price": null,
    "url": "http://roma.ccb.18tickets.it/film/fatherland_2026/855289#sala"
-  },
-  {
-   "film": "21856",
-   "cinema": 181,
-   "date": "2026-11-11",
-   "time": "16:00",
-   "sala": "SALA CHAPLIN",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1843/37787"
   },
   {
    "film": "22713",
@@ -4431,17 +2838,6 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60339?SC_CMP=TSC_comingsoon"
   },
   {
-   "film": "22189",
-   "cinema": 5074,
-   "date": "2026-11-11",
-   "time": "18:30",
-   "sala": "Bristol",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://bristol.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/855768#sala"
-  },
-  {
    "film": "22826",
    "cinema": 5075,
    "date": "2026-11-11",
@@ -4501,17 +2897,6 @@
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/855241#sala"
   },
   {
-   "film": "22531",
-   "cinema": 181,
-   "date": "2026-11-11",
-   "time": "18:45",
-   "sala": "SALA CHAPLIN",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1850/37788"
-  },
-  {
    "film": "22259",
    "cinema": 161,
    "date": "2026-11-11",
@@ -4543,28 +2928,6 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60167?SC_CMP=TSC_comingsoon"
-  },
-  {
-   "film": "22281",
-   "cinema": 5085,
-   "date": "2026-11-11",
-   "time": "19:00",
-   "sala": "Sala Scalo",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://cinema.nosadella.18tickets.it/film/dio-ride_2026/764494#sala"
-  },
-  {
-   "film": "22287",
-   "cinema": 5085,
-   "date": "2026-11-11",
-   "time": "19:00",
-   "sala": "Sala Berti",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://cinema.nosadella.18tickets.it/film/wild-horse-nine_2026/764482#sala"
   },
   {
    "film": "22524",
@@ -4661,19 +3024,6 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60159?SC_CMP=TSC_comingsoon"
   },
   {
-   "film": "22287",
-   "cinema": 153,
-   "date": "2026-11-11",
-   "time": "21:00",
-   "sala": "Sala 1",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": null,
-   "url": "https://ticket.cinebot.it/bellinzona/evento/2211"
-  },
-  {
    "film": "22189",
    "cinema": 171,
    "date": "2026-11-11",
@@ -4694,50 +3044,6 @@
    "tags": [],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-_2026-0c9f4ec0-edbc-40fa-8631-4c3121d665df/855405#sala"
-  },
-  {
-   "film": "22531",
-   "cinema": 181,
-   "date": "2026-11-11",
-   "time": "21:00",
-   "sala": "SALA CHAPLIN",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1850/37789"
-  },
-  {
-   "film": "22189",
-   "cinema": 5074,
-   "date": "2026-11-11",
-   "time": "21:00",
-   "sala": "Bristol",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://bristol.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/855769#sala"
-  },
-  {
-   "film": "22281",
-   "cinema": 5085,
-   "date": "2026-11-11",
-   "time": "21:10",
-   "sala": "Sala Scalo",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://cinema.nosadella.18tickets.it/film/dio-ride_2026/764495#sala"
-  },
-  {
-   "film": "22287",
-   "cinema": 5085,
-   "date": "2026-11-11",
-   "time": "21:10",
-   "sala": "Sala Berti",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://cinema.nosadella.18tickets.it/film/wild-horse-nine_2026/764483#sala"
   },
   {
    "film": "22281",
@@ -4802,8 +3108,10 @@
    "date": "2026-11-11",
    "time": "21:30",
    "sala": "ARLECCHINO",
-   "vo": false,
-   "tags": [],
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
    "price": null,
    "url": "http://arlecchino.popupcinema.18tickets.it/film/it-ends-original-version_2026-dce51724-fd0c-44e8-a851-219d9237c029/855914#sala"
   },
@@ -4950,17 +3258,6 @@
    ],
    "price": null,
    "url": "http://modernissimo.cinetecabologna.18tickets.it/film/minnie-moskowitz-minnie-and-moskowitz-ried-_1971/758439#sala"
-  },
-  {
-   "film": "21091",
-   "cinema": 171,
-   "date": "2026-11-15",
-   "time": "11:00",
-   "sala": "Sala 6",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003425/59956?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "3852",
