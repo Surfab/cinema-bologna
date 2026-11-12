@@ -740,11 +740,11 @@
    "cinema": 167,
    "date": "2026-11-12",
    "time": "14:30",
-   "sala": "Jolly",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://jolly.popupcinema.18tickets.it/film/dio-ride_2026-1a55a128-2cfe-44c0-8c70-63a6da37600f/859593#sala"
+   "url": null
   },
   {
    "film": "22189",
