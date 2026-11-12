@@ -1,5 +1,5 @@
 Cinema a Bologna, da giovedì 12 novembre a mercoledì 18 novembre
-Orari aggiornati giovedì 12 novembre alle 14:44.
+Orari aggiornati giovedì 12 novembre alle 22:29.
 
 == Nuovi questa settimana (9) ==
 
@@ -7,7 +7,7 @@ Il Rumore delle Cose Nuove
 Drammatico, commedia. 113 min. Al cinema dal 12 novembre
   The Space
     gio 12: 16:30, 18:30, 20:50
-    ven 13: 15:10, 17:50, 18:50, 20:50
+    ven 13: 15:10, 18:50, 20:50
     sab 14: 14:10, 15:40, 18:00, 20:50
     dom 15: 16:45, 18:30, 20:50, 22:15
     lun 16: 15:55, 18:40, 21:15
@@ -53,11 +53,11 @@ Godzilla Minus Zero
 Azione, avventura, fantasy. 119 min. Al cinema dal 12 novembre
   The Space
     gio 12: 15:15, 18:25, 19:00, 21:30
-    ven 13: 15:50, 19:00, 21:30
+    ven 13: 15:50, 17:45, 19:00, 21:30
     sab 14: 18:25, 19:00, 21:30, 23:35
-    dom 15: 11:10, 14:35, 17:45, 19:00
-    lun 16–mar 17: 15:35, 18:50
-    mer 18: 15:15, 18:50
+    dom 15: 11:10, 14:35, 17:45, 19:00, 21:30
+    lun 16–mar 17: 15:35, 18:50, 22:10
+    mer 18: 15:15, 18:50, 22:10
   Arlecchino
     gio 12–sab 14: 21:30 V.O.
     dom 15: 19:00 V.O.
@@ -72,6 +72,15 @@ Drammatico. 135 min. Al cinema dal 12 novembre
   Galliera
     gio 12: 16:00
 
+Scrooge e gli Spiriti del Natale (Ebenezer: A Christmas Carol)
+Fantasy. Al cinema dal 12 novembre
+  The Space
+    gio 12: 17:45, 22:00
+    ven 13: 17:30, 18:20, 22:00
+    sab 14: 00:45, 15:10, 18:20, 22:00
+    dom 15: 11:20, 14:20, 15:50, 22:00
+    lun 16–mer 18: 15:10, 22:00
+
 La Gradiva
 Drammatico. 145 min. Al cinema dal 12 novembre
   Lumière
@@ -83,15 +92,6 @@ Drammatico. 145 min. Al cinema dal 12 novembre
     ven 13: 18:45 V.O.
     lun 16: 18:45 V.O.
     mar 17: 16:00 V.O.
-
-Scrooge e gli Spiriti del Natale (Ebenezer: A Christmas Carol)
-Fantasy. Al cinema dal 12 novembre
-  The Space
-    gio 12: 17:45, 22:00
-    ven 13: 18:20, 22:00
-    sab 14: 22:00
-    dom 15: 15:50, 22:00
-    lun 16–mer 18: 22:00
 
 Come Rapinare una Banca (How to Rob a Bank)
 Azione, thriller. 122 min. Al cinema dal 12 novembre
