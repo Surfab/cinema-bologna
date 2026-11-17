@@ -950,7 +950,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003903/60623?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22751",
@@ -961,7 +961,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003849/60488?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22850",
@@ -972,53 +972,53 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003861/60549?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22281",
    "cinema": 161,
    "date": "2026-11-17",
    "time": "16:00",
-   "sala": "Sala1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1008540#sala"
+   "url": null
   },
   {
    "film": "22842",
    "cinema": 5480,
    "date": "2026-11-17",
    "time": "16:00",
-   "sala": "Cervi",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://cervi.cinetecabologna.18tickets.it/film/la-gradiva_2026/768932#sala"
+   "url": null
   },
   {
    "film": "22850",
    "cinema": 161,
    "date": "2026-11-17",
    "time": "16:15",
-   "sala": "Sala 3",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1008649#sala"
+   "url": null
   },
   {
    "film": "22287",
    "cinema": 170,
    "date": "2026-11-17",
    "time": "16:15",
-   "sala": "Medica",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://medica.popupcinema.18tickets.it/film/wild-horse-nine_2026-0abb4f56-2989-46e0-b7ef-2075cf7075dd/859394#sala"
+   "url": null
   },
   {
    "film": "22189",
@@ -1029,7 +1029,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/60505?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22287",
@@ -1040,29 +1040,29 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60458?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22850",
    "cinema": 174,
    "date": "2026-11-17",
    "time": "16:15",
-   "sala": "Odeon A",
+   "sala": "Sala A",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/859810#sala"
+   "url": null
   },
   {
    "film": "22287",
    "cinema": 178,
    "date": "2026-11-17",
    "time": "16:15",
-   "sala": "Rialto 1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/859710#sala"
+   "url": null
   },
   {
    "film": "22263",
@@ -1086,42 +1086,42 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003165/60476?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22269",
    "cinema": 179,
    "date": "2026-11-17",
    "time": "16:30",
-   "sala": "Roma D'Essai",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://roma.ccb.18tickets.it/film/look-back_2026/859824#sala"
+   "url": null
   },
   {
    "film": "22524",
    "cinema": 152,
    "date": "2026-11-17",
    "time": "16:35",
-   "sala": "ARLECCHINO",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": null,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/primetime_2026/859891#sala"
+   "url": null
   },
   {
    "film": "22189",
    "cinema": 167,
    "date": "2026-11-17",
    "time": "16:50",
-   "sala": "Jolly",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://jolly.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/859611#sala"
+   "url": null
   },
   {
    "film": "4847",
@@ -1132,51 +1132,51 @@
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "https://ticket.cinebot.it/bellinzona/evento/2224"
+   "url": null
   },
   {
    "film": "22360",
    "cinema": 181,
    "date": "2026-11-17",
    "time": "17:00",
-   "sala": "SALA CHAPLIN",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 9.0,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1853/37806"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 174,
    "date": "2026-11-17",
    "time": "17:10",
-   "sala": "Odeon B",
+   "sala": "Sala B",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/859883#sala"
+   "url": null
   },
   {
    "film": "22189",
    "cinema": 4587,
    "date": "2026-11-17",
    "time": "17:10",
-   "sala": "Europa Cinema",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/859746#sala"
+   "url": null
   },
   {
    "film": "21856",
    "cinema": 174,
    "date": "2026-11-17",
    "time": "17:15",
-   "sala": "Odeon D",
+   "sala": "Sala D",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/ragione-e-sentimento-sense-and-sensibility-_2026/859940#sala"
+   "url": null
   },
   {
    "film": "22269",
@@ -1187,7 +1187,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003903/60523?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22269",
@@ -1200,31 +1200,31 @@
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/768909#sala"
+   "url": null
   },
   {
    "film": "22287",
    "cinema": 5075,
    "date": "2026-11-17",
    "time": "17:45",
-   "sala": "Mastroianni",
+   "sala": "Sala Off. / Mastroianni",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/768885#sala"
+   "url": null
   },
   {
    "film": "19902",
    "cinema": 171,
    "date": "2026-11-17",
    "time": "18:10",
-   "sala": "EPIC",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003160/60438?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22780",
@@ -1235,29 +1235,29 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003866/60624?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22991",
    "cinema": 174,
    "date": "2026-11-17",
    "time": "18:15",
-   "sala": "Odeon C",
+   "sala": "Sala C",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/859913#sala"
+   "url": null
   },
   {
    "film": "22777",
    "cinema": 178,
    "date": "2026-11-17",
    "time": "18:15",
-   "sala": "Rialto 2",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/859732#sala"
+   "url": null
   },
   {
    "film": "16711",
@@ -1268,18 +1268,18 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003872/60422?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22281",
    "cinema": 161,
    "date": "2026-11-17",
    "time": "18:30",
-   "sala": "Sala1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1008541#sala"
+   "url": null
   },
   {
    "film": "22189",
@@ -1290,88 +1290,88 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/60550?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "4162",
    "cinema": 167,
    "date": "2026-11-17",
    "time": "18:40",
-   "sala": "Jolly",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": null,
-   "url": "http://jolly.popupcinema.18tickets.it/film/2001-odissea-nello-spazio-2001-a-space-odyssey-ried-_1968-9c33685f-931a-4501-ace9-1f3eba8b9726/859617#sala"
+   "url": null
   },
   {
    "film": "22850",
    "cinema": 161,
    "date": "2026-11-17",
    "time": "18:45",
-   "sala": "Sala 3",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1008650#sala"
+   "url": null
   },
   {
    "film": "22850",
    "cinema": 174,
    "date": "2026-11-17",
    "time": "18:45",
-   "sala": "Odeon A",
+   "sala": "Sala A",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/859811#sala"
+   "url": null
   },
   {
    "film": "22287",
    "cinema": 178,
    "date": "2026-11-17",
    "time": "18:45",
-   "sala": "Rialto 1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/859711#sala"
+   "url": null
   },
   {
    "film": "22269",
    "cinema": 179,
    "date": "2026-11-17",
    "time": "18:45",
-   "sala": "Roma D'Essai",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://roma.ccb.18tickets.it/film/look-back_2026/859825#sala"
+   "url": null
   },
   {
    "film": "22826",
    "cinema": 5480,
    "date": "2026-11-17",
    "time": "18:45",
-   "sala": "Cervi",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://cervi.cinetecabologna.18tickets.it/film/hope_2026/772267#sala"
+   "url": null
   },
   {
    "film": "22751",
    "cinema": 152,
    "date": "2026-11-17",
    "time": "18:50",
-   "sala": "ARLECCHINO",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/godzilla-minus-zero_2026-bd6acb15-63d6-4745-be62-2dc7b02bed19/859951#sala"
+   "url": null
   },
   {
    "film": "22751",
@@ -1382,18 +1382,18 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003849/59963?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22287",
    "cinema": 170,
    "date": "2026-11-17",
    "time": "19:00",
-   "sala": "Medica",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://medica.popupcinema.18tickets.it/film/wild-horse-nine_2026-0abb4f56-2989-46e0-b7ef-2075cf7075dd/859395#sala"
+   "url": null
   },
   {
    "film": "22360",
@@ -1404,18 +1404,18 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003902/60506?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22360",
    "cinema": 181,
    "date": "2026-11-17",
    "time": "19:00",
-   "sala": "SALA CHAPLIN",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 9.0,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1853/37807"
+   "url": null
   },
   {
    "film": "22850",
@@ -1426,7 +1426,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003861/60459?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "16711",
@@ -1437,40 +1437,40 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003872/60327?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 174,
    "date": "2026-11-17",
    "time": "19:20",
-   "sala": "Odeon B",
+   "sala": "Sala B",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/859884#sala"
+   "url": null
   },
   {
    "film": "22189",
    "cinema": 4587,
    "date": "2026-11-17",
    "time": "19:20",
-   "sala": "Europa Cinema",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/859752#sala"
+   "url": null
   },
   {
    "film": "22993",
    "cinema": 174,
    "date": "2026-11-17",
    "time": "19:45",
-   "sala": "Odeon D",
+   "sala": "Sala D",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/in-un-battito_2026/858308#sala"
+   "url": null
   },
   {
    "film": "22269",
@@ -1483,7 +1483,7 @@
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/768910#sala"
+   "url": null
   },
   {
    "film": "22993",
@@ -1494,31 +1494,31 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003986/60524?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22287",
    "cinema": 5075,
    "date": "2026-11-17",
    "time": "20:00",
-   "sala": "Mastroianni",
+   "sala": "Sala Off. / Mastroianni",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/768886#sala"
+   "url": null
   },
   {
    "film": "22971",
    "cinema": 5817,
    "date": "2026-11-17",
    "time": "20:30",
-   "sala": "Modernissimo",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 7.5,
-   "url": "http://modernissimo.cinetecabologna.18tickets.it/film/le-ragazzine-stanno-perdendo-il-controllo-la-societa-le-teme-la-fine-e-azzurra-_2026/765472#sala"
+   "url": null
   },
   {
    "film": "1027",
@@ -1540,7 +1540,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003861/60324?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "4847",
@@ -1553,18 +1553,18 @@
     "V.O."
    ],
    "price": 8.0,
-   "url": "https://ticket.cinebot.it/bellinzona/evento/2225"
+   "url": null
   },
   {
    "film": "22281",
    "cinema": 161,
    "date": "2026-11-17",
    "time": "21:00",
-   "sala": "Sala1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1008542#sala"
+   "url": null
   },
   {
    "film": "22991",
@@ -1588,88 +1588,88 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003866/60625?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22991",
    "cinema": 174,
    "date": "2026-11-17",
    "time": "21:00",
-   "sala": "Odeon C",
+   "sala": "Sala C",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026-c6a9e9c1-81a9-4185-a619-bffc77253cc1/859921#sala"
+   "url": null
   },
   {
    "film": "22777",
    "cinema": 178,
    "date": "2026-11-17",
    "time": "21:00",
-   "sala": "Rialto 2",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://rialto.ccb.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-_2026-0c9f4ec0-edbc-40fa-8631-4c3121d665df/859740#sala"
+   "url": null
   },
   {
    "film": "22269",
    "cinema": 179,
    "date": "2026-11-17",
    "time": "21:00",
-   "sala": "Roma D'Essai",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 10.0,
-   "url": "http://roma.ccb.18tickets.it/film/look-back_2026-75e53b30-b2eb-4365-8a82-fca5f1a663dc/859831#sala"
+   "url": null
   },
   {
    "film": "22360",
    "cinema": 181,
    "date": "2026-11-17",
    "time": "21:00",
-   "sala": "SALA CHAPLIN",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 9.0,
-   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1853/37808"
+   "url": null
   },
   {
    "film": "22850",
    "cinema": 161,
    "date": "2026-11-17",
    "time": "21:15",
-   "sala": "Sala 3",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1008651#sala"
+   "url": null
   },
   {
    "film": "22850",
    "cinema": 174,
    "date": "2026-11-17",
    "time": "21:15",
-   "sala": "Odeon A",
+   "sala": "Sala A",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/859812#sala"
+   "url": null
   },
   {
    "film": "22287",
    "cinema": 178,
    "date": "2026-11-17",
    "time": "21:15",
-   "sala": "Rialto 1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026-e31f5ef5-fb22-4912-8834-4f256667200a/859719#sala"
+   "url": null
   },
   {
    "film": "22360",
@@ -1680,42 +1680,42 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003902/60551?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "13061",
    "cinema": 152,
    "date": "2026-11-17",
    "time": "21:30",
-   "sala": "ARLECCHINO",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/zombie-contro-zombie-one-cut-of-the-dead-kamera-wo-tomeru-na-_2018-5210cc4b-4444-486d-84c6-7a59a84babec/859956#sala"
+   "url": null
   },
   {
    "film": "22281",
    "cinema": 167,
    "date": "2026-11-17",
    "time": "21:30",
-   "sala": "Jolly",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://jolly.popupcinema.18tickets.it/film/dio-ride_2026-1a55a128-2cfe-44c0-8c70-63a6da37600f/859614#sala"
+   "url": null
   },
   {
    "film": "22287",
    "cinema": 170,
    "date": "2026-11-17",
    "time": "21:30",
-   "sala": "Medica",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": null,
-   "url": "http://medica.popupcinema.18tickets.it/film/wild-horse-nine-original-version_2026/859383#sala"
+   "url": null
   },
   {
    "film": "22287",
@@ -1726,64 +1726,53 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60507?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22259",
    "cinema": 174,
    "date": "2026-11-17",
    "time": "21:30",
-   "sala": "Odeon B",
+   "sala": "Sala B",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/859885#sala"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 174,
    "date": "2026-11-17",
    "time": "21:30",
-   "sala": "Odeon D",
+   "sala": "Sala D",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/859933#sala"
+   "url": null
   },
   {
    "film": "22189",
    "cinema": 4587,
    "date": "2026-11-17",
    "time": "21:30",
-   "sala": "Europa Cinema",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/859758#sala"
+   "url": null
   },
   {
    "film": "22777",
    "cinema": 5480,
    "date": "2026-11-17",
    "time": "21:30",
-   "sala": "Cervi",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://cervi.cinetecabologna.18tickets.it/film/minotaur-nel-labirinto-del-potere-minotaure-v-o-_2026-a848dcdf-9f94-435a-b399-522f0d279a87/768946#sala"
-  },
-  {
-   "film": "19902",
-   "cinema": 171,
-   "date": "2026-11-17",
-   "time": "21:40",
-   "sala": "Sala 5",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003939/59460?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "4162",
@@ -1794,7 +1783,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003939/59460?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22189",
@@ -1805,7 +1794,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/60460?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22780",
@@ -1816,7 +1805,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003866/60179?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22269",
@@ -1829,31 +1818,31 @@
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/768911#sala"
+   "url": null
   },
   {
    "film": "22751",
    "cinema": 171,
    "date": "2026-11-17",
    "time": "22:10",
-   "sala": "EPIC",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003849/60439?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22287",
    "cinema": 5075,
    "date": "2026-11-17",
    "time": "22:15",
-   "sala": "Mastroianni",
+   "sala": "Sala Off. / Mastroianni",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.5,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/768887#sala"
+   "url": null
   },
   {
    "film": "22848",
@@ -1864,7 +1853,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003758/60525?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22269",
@@ -2786,6 +2775,177 @@
    "url": "http://arlecchino.popupcinema.18tickets.it/film/primetime_2026/863537#sala"
   },
   {
+   "film": "22736",
+   "cinema": 174,
+   "date": "2026-11-19",
+   "time": "15:15",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/864352#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-11-19",
+   "time": "15:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/864189#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-19",
+   "time": "15:30",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864308#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 4587,
+   "date": "2026-11-19",
+   "time": "15:30",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/fatherland_2026/864102#sala"
+  },
+  {
+   "film": "22269",
+   "cinema": 5075,
+   "date": "2026-11-19",
+   "time": "15:45",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/774229#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-19",
+   "time": "16:00",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014585#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-19",
+   "time": "16:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014606#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-19",
+   "time": "16:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864128#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-19",
+   "time": "16:15",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864274#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-19",
+   "time": "17:10",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864361#sala"
+  },
+  {
+   "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-19",
+   "time": "17:10",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864161#sala"
+  },
+  {
+   "film": "22842",
+   "cinema": 5480,
+   "date": "2026-11-19",
+   "time": "17:30",
+   "sala": "Cervi",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/la-gradiva_2026/774264#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-19",
+   "time": "17:45",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774206#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-19",
+   "time": "18:15",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864309#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-19",
+   "time": "18:30",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014586#sala"
+  },
+  {
    "film": "22287",
    "cinema": 170,
    "date": "2026-11-19",
@@ -2795,6 +2955,39 @@
    "tags": [],
    "price": null,
    "url": "http://medica.popupcinema.18tickets.it/film/wild-horse-nine_2026-0abb4f56-2989-46e0-b7ef-2075cf7075dd/863474#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-19",
+   "time": "18:45",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014607#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-19",
+   "time": "18:45",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864129#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-19",
+   "time": "18:45",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864275#sala"
   },
   {
    "film": "22524",
@@ -2810,6 +3003,109 @@
    "url": "http://arlecchino.popupcinema.18tickets.it/film/primetime_2026-057e9cb4-cecd-410c-847e-26273019ad42/863545#sala"
   },
   {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-19",
+   "time": "19:20",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864362#sala"
+  },
+  {
+   "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-19",
+   "time": "19:20",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864263#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-19",
+   "time": "20:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774207#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-19",
+   "time": "21:00",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014587#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-19",
+   "time": "21:00",
+   "sala": "Odeon C",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026-c6a9e9c1-81a9-4185-a619-bffc77253cc1/864350#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-19",
+   "time": "21:00",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/864339#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-19",
+   "time": "21:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014608#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-19",
+   "time": "21:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864133#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-19",
+   "time": "21:15",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026-e31f5ef5-fb22-4912-8834-4f256667200a/864293#sala"
+  },
+  {
    "film": "22751",
    "cinema": 152,
    "date": "2026-11-19",
@@ -2819,6 +3115,41 @@
    "tags": [],
    "price": null,
    "url": "http://arlecchino.popupcinema.18tickets.it/film/godzilla-minus-zero_2026-bd6acb15-63d6-4745-be62-2dc7b02bed19/863546#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-19",
+   "time": "21:30",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864363#sala"
+  },
+  {
+   "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-19",
+   "time": "21:30",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864230#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-19",
+   "time": "22:15",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774208#sala"
   },
   {
    "film": "22281",
@@ -2832,6 +3163,94 @@
    "url": "http://jolly.popupcinema.18tickets.it/film/dio-ride_2026-1a55a128-2cfe-44c0-8c70-63a6da37600f/863353#sala"
   },
   {
+   "film": "22736",
+   "cinema": 174,
+   "date": "2026-11-20",
+   "time": "15:15",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/864354#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-11-20",
+   "time": "15:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/864190#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-20",
+   "time": "15:30",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864310#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 4587,
+   "date": "2026-11-20",
+   "time": "15:30",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/fatherland_2026/864103#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-20",
+   "time": "16:00",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014588#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-20",
+   "time": "16:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014609#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-20",
+   "time": "16:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864134#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-20",
+   "time": "16:15",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864276#sala"
+  },
+  {
    "film": "22189",
    "cinema": 167,
    "date": "2026-11-20",
@@ -2843,6 +3262,50 @@
    "url": "http://jolly.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/863335#sala"
   },
   {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-20",
+   "time": "17:10",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864364#sala"
+  },
+  {
+   "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-20",
+   "time": "17:10",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864162#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-20",
+   "time": "18:15",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864327#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-20",
+   "time": "18:30",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014589#sala"
+  },
+  {
    "film": "22287",
    "cinema": 170,
    "date": "2026-11-20",
@@ -2852,6 +3315,39 @@
    "tags": [],
    "price": null,
    "url": "http://medica.popupcinema.18tickets.it/film/wild-horse-nine_2026-0abb4f56-2989-46e0-b7ef-2075cf7075dd/863496#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-20",
+   "time": "18:45",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014610#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-20",
+   "time": "18:45",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864135#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-20",
+   "time": "18:45",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864277#sala"
   },
   {
    "film": "22751",
@@ -2876,6 +3372,74 @@
    "url": "http://jolly.popupcinema.18tickets.it/film/dio-ride_2026-1a55a128-2cfe-44c0-8c70-63a6da37600f/863354#sala"
   },
   {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-20",
+   "time": "19:20",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864365#sala"
+  },
+  {
+   "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-20",
+   "time": "19:20",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864264#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-20",
+   "time": "21:00",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014590#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-20",
+   "time": "21:00",
+   "sala": "Odeon C",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864328#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-20",
+   "time": "21:00",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/864344#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-20",
+   "time": "21:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014611#sala"
+  },
+  {
    "film": "22189",
    "cinema": 167,
    "date": "2026-11-20",
@@ -2885,6 +3449,50 @@
    "tags": [],
    "price": null,
    "url": "http://jolly.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/863336#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-20",
+   "time": "21:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864136#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-20",
+   "time": "21:15",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864288#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-20",
+   "time": "21:30",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864366#sala"
+  },
+  {
+   "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-20",
+   "time": "21:30",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864231#sala"
   },
   {
    "film": "22287",
@@ -2909,6 +3517,107 @@
    "url": "http://jolly.popupcinema.18tickets.it/film/dio-ride_2026-1a55a128-2cfe-44c0-8c70-63a6da37600f/863355#sala"
   },
   {
+   "film": "22736",
+   "cinema": 174,
+   "date": "2026-11-21",
+   "time": "15:15",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/864355#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-11-21",
+   "time": "15:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/864191#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-21",
+   "time": "15:30",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864332#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 4587,
+   "date": "2026-11-21",
+   "time": "15:30",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/fatherland_2026/864104#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-21",
+   "time": "15:30",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774211#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-21",
+   "time": "16:00",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014591#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-21",
+   "time": "16:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014612#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-21",
+   "time": "16:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864137#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-21",
+   "time": "16:15",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864278#sala"
+  },
+  {
    "film": "22751",
    "cinema": 152,
    "date": "2026-11-21",
@@ -2918,6 +3627,122 @@
    "tags": [],
    "price": null,
    "url": "http://arlecchino.popupcinema.18tickets.it/film/godzilla-minus-zero_2026-bd6acb15-63d6-4745-be62-2dc7b02bed19/863587#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-21",
+   "time": "17:10",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864367#sala"
+  },
+  {
+   "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-21",
+   "time": "17:10",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864163#sala"
+  },
+  {
+   "film": "22269",
+   "cinema": 5075,
+   "date": "2026-11-21",
+   "time": "17:15",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/774235#sala"
+  },
+  {
+   "film": "22842",
+   "cinema": 5480,
+   "date": "2026-11-21",
+   "time": "17:30",
+   "sala": "Cervi",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/la-gradiva_2026/774267#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-21",
+   "time": "17:45",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774212#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-21",
+   "time": "18:15",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864333#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-21",
+   "time": "18:30",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014592#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-21",
+   "time": "18:45",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014613#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-21",
+   "time": "18:45",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864139#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-21",
+   "time": "18:45",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864279#sala"
   },
   {
    "film": "22189",
@@ -2931,6 +3756,28 @@
    "url": "http://jolly.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/863340#sala"
   },
   {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-21",
+   "time": "19:20",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864368#sala"
+  },
+  {
+   "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-21",
+   "time": "19:20",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864265#sala"
+  },
+  {
    "film": "22287",
    "cinema": 170,
    "date": "2026-11-21",
@@ -2940,6 +3787,87 @@
    "tags": [],
    "price": null,
    "url": "http://medica.popupcinema.18tickets.it/film/wild-horse-nine-original-version_2026/863500#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-21",
+   "time": "20:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774213#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-21",
+   "time": "21:00",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014593#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-21",
+   "time": "21:00",
+   "sala": "Odeon C",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864329#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-21",
+   "time": "21:00",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/864345#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-21",
+   "time": "21:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014614#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-21",
+   "time": "21:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864140#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-21",
+   "time": "21:15",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864289#sala"
   },
   {
    "film": "22281",
@@ -2953,6 +3881,67 @@
    "url": "http://jolly.popupcinema.18tickets.it/film/dio-ride_2026-1a55a128-2cfe-44c0-8c70-63a6da37600f/863356#sala"
   },
   {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-21",
+   "time": "21:30",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864369#sala"
+  },
+  {
+   "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-21",
+   "time": "21:30",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864232#sala"
+  },
+  {
+   "film": "22269",
+   "cinema": 5075,
+   "date": "2026-11-21",
+   "time": "21:30",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/774237#sala"
+  },
+  {
+   "film": "22842",
+   "cinema": 5480,
+   "date": "2026-11-21",
+   "time": "21:45",
+   "sala": "Cervi",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/la-gradiva_2026/774268#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-21",
+   "time": "22:15",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774214#sala"
+  },
+  {
    "film": "22287",
    "cinema": 170,
    "date": "2026-11-22",
@@ -2962,6 +3951,30 @@
    "tags": [],
    "price": null,
    "url": "http://medica.popupcinema.18tickets.it/film/wild-horse-nine_2026-0abb4f56-2989-46e0-b7ef-2075cf7075dd/863506#sala"
+  },
+  {
+   "film": "13061",
+   "cinema": 152,
+   "date": "2026-11-22",
+   "time": "11:00",
+   "sala": "ARLECCHINO",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/zombie-contro-zombie-one-cut-of-the-dead-kamera-wo-tomeru-na-_2018-5210cc4b-4444-486d-84c6-7a59a84babec/863627#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-22",
+   "time": "11:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774215#sala"
   },
   {
    "film": "22281",
@@ -2975,6 +3988,131 @@
    "url": "http://jolly.popupcinema.18tickets.it/film/dio-ride_2026-1a55a128-2cfe-44c0-8c70-63a6da37600f/863357#sala"
   },
   {
+   "film": "22736",
+   "cinema": 174,
+   "date": "2026-11-22",
+   "time": "15:15",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/864356#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 4587,
+   "date": "2026-11-22",
+   "time": "15:15",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/fatherland_2026/864360#sala"
+  },
+  {
+   "film": "22579",
+   "cinema": 174,
+   "date": "2026-11-22",
+   "time": "15:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/864193#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-22",
+   "time": "15:30",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864335#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-22",
+   "time": "15:30",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774216#sala"
+  },
+  {
+   "film": "22842",
+   "cinema": 5480,
+   "date": "2026-11-22",
+   "time": "15:30",
+   "sala": "Cervi",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/la-gradiva_2026/774269#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-22",
+   "time": "16:00",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014594#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-22",
+   "time": "16:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014615#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-22",
+   "time": "16:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864141#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-22",
+   "time": "16:15",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864280#sala"
+  },
+  {
+   "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-22",
+   "time": "16:50",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864376#sala"
+  },
+  {
    "film": "22189",
    "cinema": 167,
    "date": "2026-11-22",
@@ -2984,6 +4122,65 @@
    "tags": [],
    "price": null,
    "url": "http://jolly.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/863341#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-22",
+   "time": "17:10",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864370#sala"
+  },
+  {
+   "film": "22269",
+   "cinema": 5075,
+   "date": "2026-11-22",
+   "time": "17:15",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/774236#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-22",
+   "time": "17:45",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774217#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-22",
+   "time": "18:15",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864334#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-22",
+   "time": "18:30",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014595#sala"
   },
   {
    "film": "22287",
@@ -2997,6 +4194,50 @@
    "url": "http://medica.popupcinema.18tickets.it/film/wild-horse-nine_2026-0abb4f56-2989-46e0-b7ef-2075cf7075dd/863507#sala"
   },
   {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-22",
+   "time": "18:45",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014616#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-22",
+   "time": "18:45",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864142#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-22",
+   "time": "18:45",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864281#sala"
+  },
+  {
+   "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-22",
+   "time": "18:50",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864378#sala"
+  },
+  {
    "film": "22281",
    "cinema": 167,
    "date": "2026-11-22",
@@ -3006,6 +4247,98 @@
    "tags": [],
    "price": null,
    "url": "http://jolly.popupcinema.18tickets.it/film/dio-ride_2026-1a55a128-2cfe-44c0-8c70-63a6da37600f/863358#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-22",
+   "time": "19:20",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864371#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-22",
+   "time": "20:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774218#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-22",
+   "time": "21:00",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014596#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-22",
+   "time": "21:00",
+   "sala": "Odeon C",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026-c6a9e9c1-81a9-4185-a619-bffc77253cc1/864351#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-22",
+   "time": "21:00",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/864346#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-22",
+   "time": "21:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014617#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-22",
+   "time": "21:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864143#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-22",
+   "time": "21:15",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026-e31f5ef5-fb22-4912-8834-4f256667200a/864294#sala"
   },
   {
    "film": "22751",
@@ -3019,6 +4352,56 @@
    "url": "http://arlecchino.popupcinema.18tickets.it/film/godzilla-minus-zero_2026-458016f4-f440-4a9e-a496-0764318afe74/863595#sala"
   },
   {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-22",
+   "time": "21:30",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864372#sala"
+  },
+  {
+   "film": "22269",
+   "cinema": 5075,
+   "date": "2026-11-22",
+   "time": "21:30",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/774238#sala"
+  },
+  {
+   "film": "22842",
+   "cinema": 5480,
+   "date": "2026-11-22",
+   "time": "21:30",
+   "sala": "Cervi",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/la-gradiva_2026/774270#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-22",
+   "time": "22:15",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774219#sala"
+  },
+  {
    "film": "22281",
    "cinema": 167,
    "date": "2026-11-23",
@@ -3028,6 +4411,109 @@
    "tags": [],
    "price": null,
    "url": "http://jolly.popupcinema.18tickets.it/film/dio-ride_2026-1a55a128-2cfe-44c0-8c70-63a6da37600f/863359#sala"
+  },
+  {
+   "film": "22736",
+   "cinema": 174,
+   "date": "2026-11-23",
+   "time": "15:15",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/864357#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-23",
+   "time": "15:30",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864336#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 4587,
+   "date": "2026-11-23",
+   "time": "15:30",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/fatherland_2026/864106#sala"
+  },
+  {
+   "film": "22842",
+   "cinema": 5480,
+   "date": "2026-11-23",
+   "time": "15:30",
+   "sala": "Cervi",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/la-gradiva_2026/774271#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-23",
+   "time": "15:45",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774220#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-23",
+   "time": "16:00",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014597#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-23",
+   "time": "16:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014618#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-23",
+   "time": "16:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864144#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-23",
+   "time": "16:15",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864282#sala"
   },
   {
    "film": "22751",
@@ -3052,6 +4538,63 @@
    "url": "http://jolly.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/863342#sala"
   },
   {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-23",
+   "time": "17:10",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864373#sala"
+  },
+  {
+   "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-23",
+   "time": "17:15",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864235#sala"
+  },
+  {
+   "film": "22269",
+   "cinema": 5075,
+   "date": "2026-11-23",
+   "time": "18:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/774230#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-23",
+   "time": "18:15",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864337#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-23",
+   "time": "18:30",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014598#sala"
+  },
+  {
    "film": "22287",
    "cinema": 170,
    "date": "2026-11-23",
@@ -3061,6 +4604,39 @@
    "tags": [],
    "price": null,
    "url": "http://medica.popupcinema.18tickets.it/film/wild-horse-nine_2026-0abb4f56-2989-46e0-b7ef-2075cf7075dd/863523#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-23",
+   "time": "18:45",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014619#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-23",
+   "time": "18:45",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864145#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-23",
+   "time": "18:45",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864283#sala"
   },
   {
    "film": "22281",
@@ -3075,6 +4651,74 @@
   },
   {
    "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-23",
+   "time": "19:15",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864236#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-23",
+   "time": "19:20",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864374#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-23",
+   "time": "20:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774221#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-23",
+   "time": "21:00",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014599#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-23",
+   "time": "21:00",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/864347#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-23",
+   "time": "21:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014620#sala"
+  },
+  {
+   "film": "22189",
    "cinema": 167,
    "date": "2026-11-23",
    "time": "21:15",
@@ -3083,6 +4727,65 @@
    "tags": [],
    "price": null,
    "url": "http://jolly.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/863343#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-23",
+   "time": "21:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864146#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-23",
+   "time": "21:15",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026-e31f5ef5-fb22-4912-8834-4f256667200a/864295#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-23",
+   "time": "21:30",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864375#sala"
+  },
+  {
+   "film": "22842",
+   "cinema": 5480,
+   "date": "2026-11-23",
+   "time": "21:30",
+   "sala": "Cervi",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/la-gradiva_2026/774272#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-23",
+   "time": "22:15",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774222#sala"
   },
   {
    "film": "22751",
@@ -3107,6 +4810,109 @@
    "url": "http://jolly.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/863344#sala"
   },
   {
+   "film": "22736",
+   "cinema": 174,
+   "date": "2026-11-24",
+   "time": "15:15",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/864358#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-24",
+   "time": "15:30",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864340#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 4587,
+   "date": "2026-11-24",
+   "time": "15:30",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/fatherland_2026/864107#sala"
+  },
+  {
+   "film": "22842",
+   "cinema": 5480,
+   "date": "2026-11-24",
+   "time": "15:30",
+   "sala": "Cervi",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/la-gradiva_2026/774273#sala"
+  },
+  {
+   "film": "22269",
+   "cinema": 5075,
+   "date": "2026-11-24",
+   "time": "15:45",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/774232#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-24",
+   "time": "16:00",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014600#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-24",
+   "time": "16:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014621#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-24",
+   "time": "16:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864147#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-24",
+   "time": "16:15",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864284#sala"
+  },
+  {
    "film": "22281",
    "cinema": 167,
    "date": "2026-11-24",
@@ -3116,6 +4922,63 @@
    "tags": [],
    "price": null,
    "url": "http://jolly.popupcinema.18tickets.it/film/dio-ride_2026-1a55a128-2cfe-44c0-8c70-63a6da37600f/863362#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-24",
+   "time": "17:10",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864377#sala"
+  },
+  {
+   "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-24",
+   "time": "17:10",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864165#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-24",
+   "time": "17:45",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774223#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-24",
+   "time": "18:15",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864341#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-24",
+   "time": "18:30",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014601#sala"
   },
   {
    "film": "22287",
@@ -3129,6 +4992,39 @@
    "url": "http://medica.popupcinema.18tickets.it/film/wild-horse-nine_2026-0abb4f56-2989-46e0-b7ef-2075cf7075dd/863524#sala"
   },
   {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-24",
+   "time": "18:45",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014622#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-24",
+   "time": "18:45",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864148#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-24",
+   "time": "18:45",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864285#sala"
+  },
+  {
    "film": "22189",
    "cinema": 167,
    "date": "2026-11-24",
@@ -3140,6 +5036,63 @@
    "url": "http://jolly.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/863345#sala"
   },
   {
+   "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-24",
+   "time": "19:20",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864266#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-24",
+   "time": "20:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774224#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-24",
+   "time": "21:00",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014602#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-24",
+   "time": "21:00",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/864348#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-24",
+   "time": "21:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014623#sala"
+  },
+  {
    "film": "22281",
    "cinema": 167,
    "date": "2026-11-24",
@@ -3149,6 +5102,76 @@
    "tags": [],
    "price": null,
    "url": "http://jolly.popupcinema.18tickets.it/film/dio-ride_2026-1a55a128-2cfe-44c0-8c70-63a6da37600f/863363#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-24",
+   "time": "21:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864149#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-24",
+   "time": "21:15",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026-e31f5ef5-fb22-4912-8834-4f256667200a/864296#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-24",
+   "time": "21:30",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864379#sala"
+  },
+  {
+   "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-24",
+   "time": "21:30",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864233#sala"
+  },
+  {
+   "film": "22842",
+   "cinema": 5480,
+   "date": "2026-11-24",
+   "time": "21:30",
+   "sala": "Cervi",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/la-gradiva_2026/774274#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-24",
+   "time": "22:15",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774225#sala"
   },
   {
    "film": "22751",
@@ -3184,6 +5207,109 @@
    "url": "http://medica.popupcinema.18tickets.it/film/wild-horse-nine_2026-0abb4f56-2989-46e0-b7ef-2075cf7075dd/863525#sala"
   },
   {
+   "film": "22736",
+   "cinema": 174,
+   "date": "2026-11-25",
+   "time": "15:15",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/864359#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-25",
+   "time": "15:30",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864342#sala"
+  },
+  {
+   "film": "22713",
+   "cinema": 4587,
+   "date": "2026-11-25",
+   "time": "15:30",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/fatherland_2026/864108#sala"
+  },
+  {
+   "film": "22842",
+   "cinema": 5480,
+   "date": "2026-11-25",
+   "time": "15:30",
+   "sala": "Cervi",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/la-gradiva_2026/774275#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-25",
+   "time": "15:45",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774226#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-25",
+   "time": "16:00",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014603#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-25",
+   "time": "16:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014624#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-25",
+   "time": "16:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864150#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-25",
+   "time": "16:15",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864286#sala"
+  },
+  {
    "film": "22189",
    "cinema": 167,
    "date": "2026-11-25",
@@ -3193,6 +5319,96 @@
    "tags": [],
    "price": null,
    "url": "http://jolly.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/863347#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-25",
+   "time": "17:10",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864381#sala"
+  },
+  {
+   "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-25",
+   "time": "17:10",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864166#sala"
+  },
+  {
+   "film": "22269",
+   "cinema": 5075,
+   "date": "2026-11-25",
+   "time": "18:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/774231#sala"
+  },
+  {
+   "film": "22991",
+   "cinema": 174,
+   "date": "2026-11-25",
+   "time": "18:15",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864343#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-25",
+   "time": "18:30",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014604#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-25",
+   "time": "18:45",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014625#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-25",
+   "time": "18:45",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864151#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-25",
+   "time": "18:45",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864287#sala"
   },
   {
    "film": "22281",
@@ -3207,6 +5423,63 @@
   },
   {
    "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-25",
+   "time": "19:20",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864267#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-25",
+   "time": "20:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774227#sala"
+  },
+  {
+   "film": "22281",
+   "cinema": 161,
+   "date": "2026-11-25",
+   "time": "21:00",
+   "sala": "Sala1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1014605#sala"
+  },
+  {
+   "film": "22777",
+   "cinema": 178,
+   "date": "2026-11-25",
+   "time": "21:00",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/minotaur_2026/864349#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 161,
+   "date": "2026-11-25",
+   "time": "21:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1014626#sala"
+  },
+  {
+   "film": "22189",
    "cinema": 167,
    "date": "2026-11-25",
    "time": "21:15",
@@ -3215,6 +5488,76 @@
    "tags": [],
    "price": null,
    "url": "http://jolly.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/863348#sala"
+  },
+  {
+   "film": "22850",
+   "cinema": 174,
+   "date": "2026-11-25",
+   "time": "21:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864152#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 178,
+   "date": "2026-11-25",
+   "time": "21:15",
+   "sala": "Rialto 1",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026-e31f5ef5-fb22-4912-8834-4f256667200a/864297#sala"
+  },
+  {
+   "film": "22259",
+   "cinema": 174,
+   "date": "2026-11-25",
+   "time": "21:30",
+   "sala": "Odeon D",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864380#sala"
+  },
+  {
+   "film": "22189",
+   "cinema": 4587,
+   "date": "2026-11-25",
+   "time": "21:30",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864234#sala"
+  },
+  {
+   "film": "22842",
+   "cinema": 5480,
+   "date": "2026-11-25",
+   "time": "21:30",
+   "sala": "Cervi",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/la-gradiva_2026/774276#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-25",
+   "time": "22:15",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/774228#sala"
   }
  ]
 }
