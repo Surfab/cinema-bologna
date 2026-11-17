@@ -143,6 +143,20 @@
    "from": "2026-11-26",
    "films": [
     {
+     "cs_id": 69142,
+     "title": "Mustang",
+     "original_title": "",
+     "genres": [
+      "Documentario"
+     ],
+     "year": "2026",
+     "director": "Kasia Smutniak",
+     "distributor": "Fandango Distribuzione",
+     "release_date": "2026-11-23",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69142.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/mustang/69142/scheda/"
+    },
+    {
      "cs_id": 53675,
      "title": "Your Name",
      "original_title": "Kimi no na wa",
