@@ -299,7 +299,7 @@
     "Herbert Ballerina",
     "Massimo Ceccherini"
    ],
-   "rating": 3.3,
+   "rating": 3.4,
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69096.jpg",
    "scheda_url": "https://www.comingsoon.it/film/un-weekend-artificiale/69096/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/un-weekend-artificiale/69096/video/"
@@ -776,11 +776,11 @@
    "cinema": 152,
    "date": "2026-11-19",
    "time": "15:00",
-   "sala": "ARLECCHINO",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/primetime_2026/863537#sala"
+   "url": null
   },
   {
    "film": "22994",
@@ -791,7 +791,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00004018/60673?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22360",
@@ -802,7 +802,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003902/60663?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22850",
@@ -813,53 +813,53 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003861/60667?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22736",
    "cinema": 174,
    "date": "2026-11-19",
    "time": "15:15",
-   "sala": "Odeon D",
+   "sala": "Sala D",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/864352#sala"
+   "url": null
   },
   {
    "film": "22269",
    "cinema": 178,
    "date": "2026-11-19",
    "time": "15:15",
-   "sala": "Rialto 2",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://rialto.ccb.18tickets.it/film/look-back_2026/864305#sala"
+   "url": null
   },
   {
    "film": "22879",
    "cinema": 167,
    "date": "2026-11-19",
    "time": "15:30",
-   "sala": "Jolly",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://jolly.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api_2025-7d62e575-9c75-47c0-8e9c-eb5d3882531c/863389#sala"
+   "url": null
   },
   {
    "film": "22941",
    "cinema": 170,
    "date": "2026-11-19",
    "time": "15:30",
-   "sala": "Medica",
+   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": null,
-   "url": "http://medica.popupcinema.18tickets.it/film/hunger-games-l-alba-sulla-mietitura_2026-fe7da56e-8df3-4b8a-ab88-211c45ceed6f/863471#sala"
+   "url": null
   },
   {
    "film": "22810",
@@ -870,51 +870,51 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003724/60664?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22579",
    "cinema": 174,
    "date": "2026-11-19",
    "time": "15:30",
-   "sala": "Odeon B",
+   "sala": "Sala B",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/864189#sala"
+   "url": null
   },
   {
    "film": "22991",
    "cinema": 174,
    "date": "2026-11-19",
    "time": "15:30",
-   "sala": "Odeon C",
+   "sala": "Sala C",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864308#sala"
+   "url": null
   },
   {
    "film": "22778",
    "cinema": 179,
    "date": "2026-11-19",
    "time": "15:30",
-   "sala": "Roma D'Essai",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/864180#sala"
+   "url": null
   },
   {
    "film": "22713",
    "cinema": 4587,
    "date": "2026-11-19",
    "time": "15:30",
-   "sala": "Europa Cinema",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://europa.ccb.18tickets.it/film/fatherland_2026/864102#sala"
+   "url": null
   },
   {
    "film": "22438",
@@ -1353,7 +1353,7 @@
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": null
+   "url": "http://cinema.nosadella.18tickets.it/film/wild-horse-nine_2026/774188#sala"
   },
   {
    "film": "22269",
@@ -1365,17 +1365,6 @@
    "tags": [],
    "price": 10.0,
    "url": "http://rialto.ccb.18tickets.it/film/look-back_2026/864307#sala"
-  },
-  {
-   "film": "22287",
-   "cinema": 5085,
-   "date": "2026-11-19",
-   "time": "19:10",
-   "sala": "Sala Scalo",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://cinema.nosadella.18tickets.it/film/wild-horse-nine_2026/774188#sala"
   },
   {
    "film": "22524",
@@ -2260,6 +2249,17 @@
    "url": "http://cinema.nosadella.18tickets.it/film/dio-ride_2026/774200#sala"
   },
   {
+   "film": "22287",
+   "cinema": 5085,
+   "date": "2026-11-20",
+   "time": "19:00",
+   "sala": "Sala Scalo",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cinema.nosadella.18tickets.it/film/wild-horse-nine_2026/774190#sala"
+  },
+  {
    "film": "22269",
    "cinema": 178,
    "date": "2026-11-20",
@@ -2269,17 +2269,6 @@
    "tags": [],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/look-back_2026/864313#sala"
-  },
-  {
-   "film": "22287",
-   "cinema": 5085,
-   "date": "2026-11-20",
-   "time": "19:10",
-   "sala": "Sala Scalo",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://cinema.nosadella.18tickets.it/film/wild-horse-nine_2026/774190#sala"
   },
   {
    "film": "22941",
@@ -6656,6 +6645,17 @@
    "url": "http://cinema.nosadella.18tickets.it/film/dio-ride_2026/774205#sala"
   },
   {
+   "film": "22287",
+   "cinema": 5085,
+   "date": "2026-11-25",
+   "time": "19:00",
+   "sala": "Sala Scalo",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cinema.nosadella.18tickets.it/film/wild-horse-nine_2026/774192#sala"
+  },
+  {
    "film": "22269",
    "cinema": 178,
    "date": "2026-11-25",
@@ -6665,17 +6665,6 @@
    "tags": [],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/look-back_2026/864325#sala"
-  },
-  {
-   "film": "22287",
-   "cinema": 5085,
-   "date": "2026-11-25",
-   "time": "19:10",
-   "sala": "Sala Scalo",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://cinema.nosadella.18tickets.it/film/wild-horse-nine_2026/774192#sala"
   },
   {
    "film": "22189",
