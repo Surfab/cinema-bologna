@@ -1,37 +1,74 @@
 Cinema a Bologna, da giovedì 19 novembre a mercoledì 25 novembre
-Orari aggiornati giovedì 19 novembre alle 05:09.
+Orari aggiornati giovedì 19 novembre alle 10:46.
 
-== Nuovi questa settimana (4) ==
+== Nuovi questa settimana (5) ==
+
+Hunger Games: L'Alba sulla Mietitura (The Hunger Games: Sunrise on the Reaping)
+Azione, avventura, fantasy. 158 min. Al cinema dal 19 novembre
+  The Space
+    gio 19: 16:40, 17:30, 18:30, 18:45, 19:00, 19:20, 20:10, 21:00, 21:55
+    ven 20: 16:30, 17:30, 18:10, 18:15, 19:00, 19:20, 20:00, 21:00, 21:50
+    sab 21: 11:15, 12:55, 14:10, 16:30, 17:30, 18:00, 19:00, 21:00, 21:50, 22:30, 23:10
+    dom 22: 11:10, 13:10, 14:30, 16:50, 17:30, 18:15, 19:00, 20:30, 21:00, 21:45
+    lun 23: 16:00, 17:20, 18:15, 19:00, 21:00, 21:45
+    mar 24: 17:20, 18:15, 19:00, 20:00, 21:00, 21:50
+    mer 25: 17:20, 19:00, 21:00
+  Medica
+    gio 19–ven 20: 15:30 V.O., 21:00 V.O.
+    sab 21: 16:30 V.O., 22:00 V.O.
+    dom 22–mar 24: 15:30 V.O., 21:00 V.O.
+    mer 25: 17:00 V.O.
+
+Fjord
+Drammatico. 126 min. Al cinema dal 19 novembre
+  Lumière
+    gio 19: 16:00 V.O., 21:30 V.O.
+    sab 21: 16:15 V.O., 19:15 V.O., 22:00 V.O.
+    dom 22: 10:30 V.O., 16:15 V.O., 19:15 V.O., 22:00 V.O.
+    lun 23: 18:45 V.O., 21:30 V.O.
+    mar 24: 16:00 V.O., 21:30 V.O.
+    mer 25: 16:00 V.O., 18:45 V.O., 21:30 V.O.
+  Roma d'Essai
+    gio 19–mer 25: 15:30, 18:15, 21:00
+  The Space
+    gio 19: 17:45
+    ven 20: 18:30
+    sab 21: 17:10
+    dom 22: 20:50
+    lun 23–mar 24: 18:00
+
+Il Fuoco che ti Porti Dentro
+Drammatico. 94 min. Al cinema dal 19 novembre
+  Odeon
+    gio 19–mer 25: 17:30, 19:30, 21:30
 
 La Ballata Del Re Delle Api (The Rivals of Amziah King)
 Drammatico, thriller. 130 min. Al cinema dal 19 novembre
   Jolly
-    gio 19: 15:30 V.O., 19:00 V.O., 20:30 V.O., 21:30 V.O.
-
-In un Battito
-Documentario. 97 min. Al cinema dal 16 novembre
-  Odeon
-    gio 19: 17:35, 21:30
+    gio 19: 15:30, 19:00, 21:30 V.O.
   The Space
-    gio 19: 20:00
+    gio 19: 18:00
+    ven 20: 21:25
+    sab 21: 19:20
+    dom 22: 18:30
+    lun 23–mar 24: 17:30
 
-La Storia Infinita (Die unendliche Geschichte)
-Fantasy. 101 min. Al cinema dal 16 novembre
+Ramayana: La Nascita di una Leggenda (Ramayana Part 1)
+Avventura, azione, fantasy. 208 min. Al cinema dal 19 novembre
   The Space
-    gio 19: 18:25, 19:15
+    gio 19: 15:00
+    ven 20: 15:30
+    sab 21: 15:00
+    dom 22: 14:20
+    lun 23: 15:30
+    mar 24: 15:25
 
-2001: Odissea nello spazio (2001: A Space Odyssey)
-Fantascienza. 141 min. Al cinema dal 16 novembre
-  The Space
-    gio 19: 21:40
-
-== Ancora in sala (25) ==
+== Ancora in sala (23) ==
 
 Wild Horse Nine
 Thriller, commedia. 118 min. Al cinema dal 5 novembre
   Medica
-    gio 19: 16:15, 18:30, 19:00 V.O., 21:30
-    ven 20: 18:30
+    gio 19–ven 20: 18:30
     sab 21: 14:00, 19:30
     dom 22: 10:30, 18:30
     lun 23–mar 24: 18:30
@@ -44,14 +81,14 @@ Thriller, commedia. 118 min. Al cinema dal 5 novembre
     mar 24: 17:45 V.O., 20:00 V.O., 22:15 V.O.
     mer 25: 15:45 V.O., 20:00 V.O., 22:15 V.O.
   Bellinzona
-    gio 19: 21:00
-    ven 20: 18:15, 21:00
-    sab 21–dom 22: 15:30, 18:15, 21:00
-    mer 25: 21:00
+    gio 19: 21:00 V.O.
+    ven 20: 18:15 V.O., 21:00 V.O.
+    sab 21–dom 22: 15:30 V.O., 18:15 V.O., 21:00 V.O.
+    mer 25: 21:00 V.O.
   Rialto
-    gio 19–mer 25: 16:15, 18:45, 21:15
+    gio 19–mer 25: 16:15, 18:45, 21:15 V.O.
   The Space
-    gio 19: 16:25, 16:30, 21:30
+    gio 19: 16:25
     ven 20: 19:30
     sab 21: 18:40
     dom 22: 18:00
@@ -63,18 +100,24 @@ Thriller, commedia. 118 min. Al cinema dal 5 novembre
     mar 24: 21:10
     mer 25: 19:10, 21:10
 
+Il Rumore delle Cose Nuove
+Drammatico, commedia. 113 min. Al cinema dal 12 novembre
+  The Space
+    gio 19: 15:15
+    ven 20: 22:20
+    sab 21: 20:15
+    dom 22: 21:25
+    lun 23: 22:20
+    mar 24: 16:45
+  Fossolo
+    gio 19–mer 25: 16:15, 18:45, 21:15
+  Odeon
+    gio 19–mer 25: 16:15, 18:45, 21:15
+
 Se Domani Non Torno
 Drammatico, biografico. Al cinema dal 5 novembre
-  Jolly
-    gio 19: 17:45
-    ven 20: 16:45, 21:15
-    sab 21: 19:20
-    dom 22: 17:00
-    lun 23: 16:45, 21:15
-    mar 24: 14:30, 19:00
-    mer 25: 16:45, 21:15
   The Space
-    gio 19: 16:00, 17:20, 21:10, 21:15
+    gio 19: 16:00, 21:15
     ven 20: 15:45, 18:50, 22:00
     sab 21: 16:45, 20:00
     dom 22: 17:45, 20:15
@@ -91,20 +134,6 @@ Drammatico, biografico. Al cinema dal 5 novembre
     lun 23: 17:15, 19:15
     mar 24–mer 25: 17:10, 19:20, 21:30
 
-Il Rumore delle Cose Nuove
-Drammatico, commedia. 113 min. Al cinema dal 12 novembre
-  The Space
-    gio 19: 15:15, 16:00, 18:25, 20:50
-    ven 20: 22:20
-    sab 21: 20:15
-    dom 22: 21:25
-    lun 23: 22:20
-    mar 24: 16:45
-  Fossolo
-    gio 19–mer 25: 16:15, 18:45, 21:15
-  Odeon
-    gio 19–mer 25: 16:15, 18:45, 21:15
-
 Dio Ride
 Drammatico, storico, commedia. 114 min. Al cinema dal 29 ottobre
   Bristol
@@ -112,45 +141,46 @@ Drammatico, storico, commedia. 114 min. Al cinema dal 29 ottobre
     ven 20: 18:45
     sab 21–dom 22: 14:30, 19:00
     mer 25: 21:00
-  Jolly
-    gio 19: 15:30
-    ven 20: 14:30, 19:00
-    sab 21: 14:30, 21:30
-    dom 22: 14:45, 19:15
-    lun 23: 14:30, 19:00
-    mar 24: 16:45, 21:15
-    mer 25: 14:30, 19:00
-  The Space
-    gio 19: 15:35
   Fossolo
     gio 19–mer 25: 16:00, 18:30, 21:00
   Nosadella
-    gio 19: 19:00, 21:10
-    ven 20: 19:00
+    gio 19–ven 20: 19:00
     sab 21–dom 22: 17:30, 19:30
     mer 25: 19:00
+
+Scrooge e gli Spiriti del Natale (Ebenezer: A Christmas Carol)
+Fantasy. 116 min. Al cinema dal 12 novembre
+  The Space
+    gio 19: 20:50, 22:15
+    ven 20: 16:00, 21:40, 22:30
+    sab 21: 12:10, 14:45, 20:30, 22:45
+    dom 22: 16:10, 18:30
+    lun 23: 17:50, 22:10
+    mar 24: 15:15, 22:10
+  Nosadella
+    gio 19–ven 20: 21:10
+    sab 21–dom 22: 15:30, 21:30
+    mer 25: 21:10
 
 Un Weekend Artificiale
 Commedia. Al cinema dal 12 novembre
   The Space
-    gio 19: 15:10, 16:35, 18:15, 19:05, 21:50, 22:50
+    gio 19: 15:10, 18:15, 22:50
     ven 20: 15:00, 17:00, 22:50
     sab 21: 13:50, 22:25
     dom 22: 15:15, 22:50
     lun 23: 15:15, 22:30
     mar 24: 15:30, 22:30
   Chaplin
-    gio 19: 16:30, 17:00, 19:00, 21:00
-    ven 20: 16:30
+    gio 19–ven 20: 16:30
     sab 21–dom 22: 15:00, 17:00, 19:00
 
-L'Essere Amato (El Ser Querido)
-Drammatico. 135 min. Al cinema dal 12 novembre
-  Odeon
-    gio 19–dom 22: 15:30, 18:15, 21:00
-    lun 23–mer 25: 15:30, 18:15
-  Galliera
-    gio 19: 16:30
+Look Back (Rukku Bakku)
+Drammatico. 100 min. Al cinema dal 12 novembre
+  Rialto
+    gio 19–lun 23: 15:15, 17:10, 19:05
+    mar 24: 15:15, 17:10
+    mer 25: 15:15, 17:10, 19:05
 
 L'Estranea
 Drammatico, thriller. 115 min. Al cinema dall'8 ottobre
@@ -158,15 +188,11 @@ Drammatico, thriller. 115 min. Al cinema dall'8 ottobre
     gio 19–lun 23: 17:10, 19:20, 21:30
     mar 24–mer 25: 17:10, 21:30
 
-Scrooge e gli Spiriti del Natale (Ebenezer: A Christmas Carol)
-Fantasy. 116 min. Al cinema dal 12 novembre
-  The Space
-    gio 19: 15:10, 18:10, 20:50, 21:00, 22:00, 22:15
-    ven 20: 16:00, 21:40, 22:30
-    sab 21: 12:10, 14:45, 20:30, 22:45
-    dom 22: 16:10, 18:30
-    lun 23: 17:50, 22:10
-    mar 24: 15:15, 22:10
+L'Essere Amato (El Ser Querido)
+Drammatico. 135 min. Al cinema dal 12 novembre
+  Odeon
+    gio 19–dom 22: 15:30, 18:15, 21:00 V.O.
+    lun 23–mer 25: 15:30, 18:15
 
 Fatherland
 Drammatico. 82 min. Al cinema dal 16 ottobre
@@ -175,121 +201,101 @@ Drammatico. 82 min. Al cinema dal 16 ottobre
     dom 22: 15:15
     lun 23–mer 25: 15:30
   Sala Cervi
-    gio 19: 19:45 V.O., 20:15 V.O.
+    gio 19: 20:15 V.O.
     sab 21: 20:15 V.O.
     dom 22–mer 25: 18:15 V.O., 20:00 V.O.
 
 Godzilla Minus Zero
 Azione, avventura, fantasy. 119 min. Al cinema dal 12 novembre
   The Space
-    gio 19: 15:15, 18:50, 21:30, 22:10
+    gio 19: 21:30
     ven 20: 15:15
     sab 21: 00:05, 13:35
     dom 22: 12:00, 15:30, 22:25
   Arlecchino
-    gio 19: 19:05 V.O., 21:30 V.O.
-    ven 20: 19:00 V.O.
-    sab 21: 16:45 V.O.
-    dom 22: 21:30 V.O.
-    lun 23: 16:30 V.O.
-    mar 24–mer 25: 14:00 V.O.
+    gio 19: 21:30
+    ven 20: 19:00
+    sab 21: 16:45
+    dom 22: 21:30
+    lun 23: 16:30
+    mar 24–mer 25: 14:00
 
-Look Back (Rukku Bakku)
-Drammatico. 100 min. Al cinema dal 12 novembre
-  The Space
-    gio 19: 15:35, 19:20
-    sab 21: 00:40
+Minotaur
+Drammatico, thriller. 140 min. Al cinema dal 29 ottobre
   Lumière
-    gio 19: 10:00 V.O., 15:45 V.O., 17:30 V.O., 19:45 V.O., 22:00 V.O.
-    sab 21–dom 22: 17:15 V.O., 21:30 V.O.
-    lun 23: 18:00 V.O.
-    mar 24: 15:45 V.O.
-    mer 25: 18:00 V.O.
-  Roma d'Essai
-    gio 19: 16:30, 18:45, 21:00
+    gio 19: 18:45 V.O.
+    sab 21–dom 22: 19:00 V.O.
+    lun 23: 16:15 V.O.
+    mar 24: 18:45 V.O.
+    mer 25: 21:00 V.O.
+  Rialto
+    gio 19–mer 25: 21:00
+
+La Gradiva
+Drammatico. 145 min. Al cinema dal 12 novembre
+  Sala Cervi
+    gio 19: 17:30 V.O.
+    sab 21: 17:30 V.O., 21:45 V.O.
+    dom 22–mer 25: 15:30 V.O., 21:30 V.O.
 
 Il Gatto col Cappello (The Cat in the Hat)
 Animazione, commedia, family. 114 min. Al cinema dal 5 novembre
   The Space
-    gio 19: 15:45, 16:20
+    gio 19: 15:45
     ven 20: 16:50
     sab 21: 11:00, 14:40, 16:15
     dom 22: 11:25, 15:00
     lun 23: 16:50
     mar 24: 17:05
-  Arlecchino
-    gio 19: 14:45
-
-Minotaur
-Drammatico, thriller. 140 min. Al cinema dal 29 ottobre
-  Rialto
-    gio 19: 15:30, 18:15, 21:00
-    ven 20–mer 25: 21:00
-  Sala Cervi
-    gio 19: 17:15 V.O., 21:30 V.O.
 
 Un Tranquillo Funerale di Famiglia
 Commedia. Al cinema dal 29 ottobre
   Odeon
     gio 19–mer 25: 15:15
 
+Ragione e Sentimento (Sense and Sensibility)
+Drammatico. 131 min. Al cinema dal 22 ottobre
+  Chaplin
+    gio 19–ven 20: 18:15, 21:00
+    sab 21–dom 22: 21:00
+
+Shaun, Vita da Pecora: Operazione Z.U.C.C.A. (Shaun the Sheep: The Beast of Mossy Bottom)
+Animazione, commedia, azione, family. 91 min. Al cinema dal 28 ottobre
+  The Space
+    gio 19: 15:30
+    sab 21: 11:40
+    dom 22: 13:55
+    lun 23–mar 24: 15:00
+
 Je So' Pazzo
 Biografico. 105 min. Al cinema dal 15 ottobre
   Odeon
-    gio 19: 15:30, 19:20
-    ven 20–dom 22: 15:30
-
-Come Rapinare una Banca (How to Rob a Bank)
-Azione, thriller. 122 min. Al cinema dal 12 novembre
-  The Space
-    gio 19: 22:30
-    sab 21: 11:30
-    dom 22: 11:05
+    gio 19–dom 22: 15:30
 
 Primetime
 Biografico, thriller, drammatico. 107 min. Al cinema dal 15 ottobre
   Arlecchino
-    gio 19: 15:00, 19:15, 21:30
+    gio 19: 15:00, 19:15 V.O.
 
 It Ends
 Drammatico, fantascienza, horror. 89 min. Al cinema dal 28 ottobre
   Arlecchino
-    gio 19: 17:00, 17:10
+    gio 19: 17:10
 
-La Gradiva
-Drammatico. 145 min. Al cinema dal 12 novembre
-  Lumière
-    gio 19: 16:15 V.O., 19:00 V.O.
-
-Elon Musk Unveiled. The tesla Experiment
-Documentario. 90 min. Al cinema dal 28 ottobre
+Naza
+Documentario. 80 min. Al cinema dal 28 settembre
   Galliera
-    gio 19: 21:30 V.O.
+    gio 19: 17:00
 
-Hope
-Azione, thriller, horror. 157 min. Al cinema dal 5 novembre
-  Lumière
-    gio 19: 21:45 V.O.
-
-Il Canto della Foresta (Le Chant des Forêts)
-Documentario. 95 min. Al cinema dal 12 novembre
+Obsession
+Horror. 108 min. Al cinema dal 14 maggio
   Galliera
-    gio 19: 19:00
+    gio 19: 21:00
 
-Odissea (The Odyssey)
-Avventura, azione, storico, drammatico. 172 min. Al cinema dal 16 luglio
-  The Space
-    gio 19: 18:10
-
-Ragione e Sentimento (Sense and Sensibility)
-Drammatico. 131 min. Al cinema dal 22 ottobre
-  Odeon
-    gio 19: 15:15
-
-Zustissia
-Drammatico. 111 min. Al cinema dal 15 ottobre
-  Odeon
-    gio 19: 19:15
+Wax & Gold
+Documentario. 97 min
+  Galliera
+    gio 19: 19:00 V.O.
 
 == In uscita dal 26 novembre (17) ==
 Uscite in tutta Italia: non tutti i film arrivano nei cinema di Bologna.
