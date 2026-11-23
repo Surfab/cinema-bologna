@@ -3,143 +3,6 @@
  "source": "https://www.comingsoon.it/cinema/calendariouscite/",
  "weeks": [
   {
-   "from": "2026-11-19",
-   "films": [
-    {
-     "cs_id": 565,
-     "title": "2001: Odissea nello spazio",
-     "original_title": "2001: A Space Odyssey",
-     "genres": [
-      "Fantascienza"
-     ],
-     "year": "1968",
-     "director": "Stanley Kubrick",
-     "distributor": "Warner Bros., Nexo...",
-     "release_date": "2026-11-16",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/565.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/2001-odissea-nello-spazio/565/scheda/"
-    },
-    {
-     "cs_id": 69463,
-     "title": "In un Battito",
-     "original_title": "",
-     "genres": [
-      "Documentario"
-     ],
-     "year": "2026",
-     "director": "Giovanni Troilo",
-     "distributor": "01 Distribution",
-     "release_date": "2026-11-16",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69463.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/in-un-battito/69463/scheda/"
-    },
-    {
-     "cs_id": 5853,
-     "title": "La Storia Infinita",
-     "original_title": "Die unendliche Geschichte",
-     "genres": [
-      "Fantasy"
-     ],
-     "year": "1984",
-     "director": "Wolfgang Petersen",
-     "distributor": "Adler Entertainment...",
-     "release_date": "2026-11-16",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/5853.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/la-storia-infinita/5853/scheda/"
-    },
-    {
-     "cs_id": 67491,
-     "title": "Fjord",
-     "original_title": "",
-     "genres": [
-      "Drammatico"
-     ],
-     "year": "2026",
-     "director": "Cristian Mungiu",
-     "distributor": "BIM Distribuzione",
-     "release_date": "2026-11-19",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67491.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/fjord/67491/scheda/"
-    },
-    {
-     "cs_id": 66957,
-     "title": "Hunger Games: L'Alba sulla Mietitura",
-     "original_title": "The Hunger Games: Sunrise on the Reaping",
-     "genres": [
-      "Azione",
-      "Avventura",
-      "Fantasy"
-     ],
-     "year": "2026",
-     "director": "Francis Lawrence",
-     "distributor": "Notorious Pictures",
-     "release_date": "2026-11-19",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/66957.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/hunger-games-l-alba-sulla-mietitura/66957/scheda/"
-    },
-    {
-     "cs_id": 69567,
-     "title": "Il Destino Dell'Ape",
-     "original_title": "",
-     "genres": [
-      "Drammatico",
-      "Sentimentale"
-     ],
-     "year": "2026",
-     "director": "Toni Trupia",
-     "distributor": "RS Production",
-     "release_date": "2026-11-19",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69567.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/il-destino-dell-ape/69567/scheda/"
-    },
-    {
-     "cs_id": 68650,
-     "title": "Il Fuoco che ti Porti Dentro",
-     "original_title": "",
-     "genres": [
-      "Drammatico"
-     ],
-     "year": "2026",
-     "director": "Edoardo De Angelis",
-     "distributor": "01 Distribution",
-     "release_date": "2026-11-19",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68650.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/il-fuoco-che-ti-porti-dentro/68650/scheda/"
-    },
-    {
-     "cs_id": 68825,
-     "title": "La Ballata Del Re Delle Api",
-     "original_title": "The Rivals of Amziah King",
-     "genres": [
-      "Drammatico",
-      "Thriller"
-     ],
-     "year": "2025",
-     "director": "Andrew Patterson",
-     "distributor": "I Wonder Pictures",
-     "release_date": "2026-11-19",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68825.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/la-ballata-del-re-delle-api/68825/scheda/"
-    },
-    {
-     "cs_id": 69514,
-     "title": "Ramayana: La Nascita di una Leggenda",
-     "original_title": "Ramayana Part 1",
-     "genres": [
-      "Avventura",
-      "Azione",
-      "Fantasy"
-     ],
-     "year": "2026",
-     "director": "Nitesh Tiwari",
-     "distributor": "Eagle Pictures",
-     "release_date": "2026-11-19",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69514.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/ramayana-la-nascita-di-una-leggenda/69514/scheda/"
-    }
-   ]
-  },
-  {
    "from": "2026-11-26",
    "films": [
     {
@@ -272,7 +135,7 @@
      "director": "David Fincher",
      "distributor": "Netflix",
      "release_date": "2026-11-26",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/ico/def.jpg",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68391.jpg",
      "scheda_url": "https://www.comingsoon.it/film/le-nuove-disavventure-di-cliff-booth/68391/scheda/"
     },
     {
@@ -321,23 +184,6 @@
      "scheda_url": "https://www.comingsoon.it/film/storie-parallele/68687/scheda/"
     },
     {
-     "cs_id": 69163,
-     "title": "Un Talento per il Crimine",
-     "original_title": "A Talent for Murder",
-     "genres": [
-      "Thriller",
-      "Giallo",
-      "Drammatico",
-      "Biografico"
-     ],
-     "year": "2026",
-     "director": "Anton Corbijn",
-     "distributor": "Lucky Red",
-     "release_date": "2026-11-26",
-     "poster": "https://mr.comingsoon.it/imgdb/locandine/ico/def.jpg",
-     "scheda_url": "https://www.comingsoon.it/film/un-talento-per-il-crimine/69163/scheda/"
-    },
-    {
      "cs_id": 68256,
      "title": "È Andata Così",
      "original_title": "",
@@ -367,6 +213,20 @@
      "scheda_url": "https://www.comingsoon.it/film/you-can-see-everything/69544/scheda/"
     },
     {
+     "cs_id": 69681,
+     "title": "Tutto l'Universo",
+     "original_title": "",
+     "genres": [
+      "Drammatico"
+     ],
+     "year": "2026",
+     "director": "Matteo Damiani",
+     "distributor": "Movie Factory",
+     "release_date": "2026-11-28",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69681.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/tutto-l-universo/69681/scheda/"
+    },
+    {
      "cs_id": 69670,
      "title": "Alice nel Paese dei Coloni",
      "original_title": "Alice au pays des colons",
@@ -393,6 +253,204 @@
      "release_date": "2026-11-29",
      "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/63762.jpg",
      "scheda_url": "https://www.comingsoon.it/film/werner-herzog-radical-dreamer/63762/scheda/"
+    }
+   ]
+  },
+  {
+   "from": "2026-12-03",
+   "films": [
+    {
+     "cs_id": 66153,
+     "title": "Ken Il Guerriero - Il Film",
+     "original_title": "Hokuto no Ken",
+     "genres": [
+      "Anime",
+      "Azione"
+     ],
+     "year": "1986",
+     "director": "Toyoo Ashida",
+     "distributor": "Nexo Studios",
+     "release_date": "2026-11-30",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/66153.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/ken-il-guerriero-il-film/66153/scheda/"
+    },
+    {
+     "cs_id": 69595,
+     "title": "Buddy",
+     "original_title": "",
+     "genres": [
+      "Horror"
+     ],
+     "year": "2026",
+     "director": "Casper Kelly",
+     "distributor": "Be Water Film in...",
+     "release_date": "2026-12-02",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69595.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/buddy/69595/scheda/"
+    },
+    {
+     "cs_id": 69642,
+     "title": "Ray Gunn",
+     "original_title": "",
+     "genres": [
+      "Animazione",
+      "Poliziesco",
+      "Fantascienza"
+     ],
+     "year": "2026",
+     "director": "Brad Bird",
+     "distributor": "Netflix",
+     "release_date": "2026-12-02",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69642.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/ray-gunn/69642/scheda/"
+    },
+    {
+     "cs_id": 69122,
+     "title": "Behemoth! Una Vita. Da Ricomporre.",
+     "original_title": "Behemoth!",
+     "genres": [
+      "Drammatico"
+     ],
+     "year": "2026",
+     "director": "Tony Gilroy",
+     "distributor": "The Walt Disney Company...",
+     "release_date": "2026-12-03",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69122.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/behemoth-una-vita-da-ricomporre/69122/scheda/"
+    },
+    {
+     "cs_id": 68868,
+     "title": "Butterfly Jam",
+     "original_title": "",
+     "genres": [
+      "Drammatico"
+     ],
+     "year": "2026",
+     "director": "Kantemir Balagov",
+     "distributor": "Europictures",
+     "release_date": "2026-12-03",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68868.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/butterfly-jam/68868/scheda/"
+    },
+    {
+     "cs_id": 68715,
+     "title": "Club Kid",
+     "original_title": "",
+     "genres": [
+      "Commedia",
+      "Drammatico"
+     ],
+     "year": "2026",
+     "director": "Jordan Firstman",
+     "distributor": "I Wonder Pictures",
+     "release_date": "2026-12-03",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68715.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/club-kid/68715/scheda/"
+    },
+    {
+     "cs_id": 67984,
+     "title": "Il Re Dei Re. La Più Grande Storia Mai Raccontata",
+     "original_title": "The King of Kings",
+     "genres": [
+      "Animazione",
+      "Family"
+     ],
+     "year": "2025",
+     "director": "Seong-ho Jang",
+     "distributor": "Nexo Studios",
+     "release_date": "2026-12-03",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67984.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/il-re-dei-re-la-piu-grande-storia-mai-raccontata/67984/scheda/"
+    },
+    {
+     "cs_id": 47093,
+     "title": "Kiki - Consegne a domicilio",
+     "original_title": "Majo No Takkyubin",
+     "genres": [
+      "Animazione",
+      "Avventura",
+      "Fantasy"
+     ],
+     "year": "1989",
+     "director": "Hayao Miyazaki",
+     "distributor": "Lucky Red",
+     "release_date": "2026-12-03",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/47093.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/kiki-consegne-a-domicilio/47093/scheda/"
+    },
+    {
+     "cs_id": 67183,
+     "title": "Lei che Brilla nella Battaglia",
+     "original_title": "Qui Brille au Combat",
+     "genres": [
+      "Drammatico"
+     ],
+     "year": "2025",
+     "director": "Josephine Japy",
+     "distributor": "Wanted Cinema",
+     "release_date": "2026-12-03",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67183.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/lei-che-brilla-nella-battaglia/67183/scheda/"
+    },
+    {
+     "cs_id": 69135,
+     "title": "Novembre 1963 - L'Assassinio di J. F. Kennedy",
+     "original_title": "November 1963",
+     "genres": [
+      "Thriller"
+     ],
+     "year": "2026",
+     "director": "Roland Joffé",
+     "distributor": "Eagle Pictures",
+     "release_date": "2026-12-03",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69135.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/novembre-1963-l-assassinio-di-j-f-kennedy/69135/scheda/"
+    },
+    {
+     "cs_id": 66984,
+     "title": "Spider-Man: Brand New Day",
+     "original_title": "",
+     "genres": [
+      "Azione",
+      "Avventura",
+      "Fantasy"
+     ],
+     "year": "2026",
+     "director": "Destin Daniel Cretton",
+     "distributor": "Eagle Pictures",
+     "release_date": "2026-12-03",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/66984.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/spider-man-brand-new-day/66984/scheda/"
+    },
+    {
+     "cs_id": 67475,
+     "title": "Succederà Questa Notte",
+     "original_title": "",
+     "genres": [
+      "Drammatico"
+     ],
+     "year": "2026",
+     "director": "Nanni Moretti",
+     "distributor": "01Distribution",
+     "release_date": "2026-12-03",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67475.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/succedera-questa-notte/67475/scheda/"
+    },
+    {
+     "cs_id": 67336,
+     "title": "Un'altra Notte Violenta e Silenziosa",
+     "original_title": "Violent Night 2",
+     "genres": [
+      "Azione",
+      "Thriller",
+      "Commedia"
+     ],
+     "year": "2026",
+     "director": "Tommy Wirkola",
+     "distributor": "Universal Pictures...",
+     "release_date": "2026-12-03",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67336.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/un-altra-notte-violenta-e-silenziosa/67336/scheda/"
     }
    ]
   }
