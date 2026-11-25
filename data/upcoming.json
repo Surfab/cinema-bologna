@@ -394,7 +394,7 @@
     },
     {
      "cs_id": 69135,
-     "title": "Novembre 1963 - L'Assassinio di J. F. Kennedy",
+     "title": "Novembre 1963 - L'Assassinio di J.F. Kennedy",
      "original_title": "November 1963",
      "genres": [
       "Thriller"
@@ -451,6 +451,21 @@
      "release_date": "2026-12-03",
      "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67336.jpg",
      "scheda_url": "https://www.comingsoon.it/film/un-altra-notte-violenta-e-silenziosa/67336/scheda/"
+    },
+    {
+     "cs_id": 69696,
+     "title": "Hans Clemer. Biografia non autorizzata",
+     "original_title": "",
+     "genres": [
+      "Documentario",
+      "Biografico"
+     ],
+     "year": "2026",
+     "director": "Fredo Valla, Fabio Ferrero",
+     "distributor": "OpenDDB",
+     "release_date": "2026-12-04",
+     "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69696.jpg",
+     "scheda_url": "https://www.comingsoon.it/film/hans-clemer-biografia-non-autorizzata/69696/scheda/"
     },
     {
      "cs_id": 33777,
