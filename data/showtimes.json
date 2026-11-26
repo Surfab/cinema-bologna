@@ -17,7 +17,7 @@
    "short": "Bellinzona",
    "address": "Via Bellinzona, 6",
    "url": "https://www.comingsoon.it/cinema/bologna/bellinzona-d-essai/153/",
-   "active": true
+   "active": false
   },
   {
    "id": 181,
@@ -25,7 +25,7 @@
    "short": "Chaplin",
    "address": "Piazza di Porta Saragozza, 5/a",
    "url": "https://www.comingsoon.it/cinema/bologna/chaplin/181/",
-   "active": false
+   "active": true
   },
   {
    "id": 177,
@@ -33,7 +33,7 @@
    "short": "Perla",
    "address": "Via S. Donato, 34/2",
    "url": "https://www.comingsoon.it/cinema/bologna/cinema-perla/177/",
-   "active": false
+   "active": true
   },
   {
    "id": 182,
@@ -174,6 +174,112 @@
  ],
  "films": [
   {
+   "idf": "21162",
+   "cs_id": 68256,
+   "title": "È Andata Così",
+   "original_title": "",
+   "genres": [
+    "Drammatico",
+    "Commedia"
+   ],
+   "duration": null,
+   "release_date": "2026-11-26",
+   "cast": [
+    "Michele Riondino",
+    "Valentina Lodovini",
+    "Valerio Mastandrea",
+    "Indri Shiroka"
+   ],
+   "rating": 4.7,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68256.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/e-andata-cosi/68256/scheda/",
+   "trailer_url": "https://www.comingsoon.it/film/e-andata-cosi/68256/video/"
+  },
+  {
+   "idf": "22542",
+   "cs_id": 68687,
+   "title": "Storie Parallele",
+   "original_title": "Histoires parallèles",
+   "genres": [
+    "Drammatico",
+    "Thriller"
+   ],
+   "duration": 139,
+   "release_date": "2026-11-26",
+   "cast": [
+    "Vincent Cassel",
+    "Virginie Efira",
+    "Isabelle Huppert",
+    "Catherine Deneuve"
+   ],
+   "rating": 3.0,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68687.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/storie-parallele/68687/scheda/",
+   "trailer_url": "https://www.comingsoon.it/film/storie-parallele/68687/video/"
+  },
+  {
+   "idf": "22752",
+   "cs_id": 69161,
+   "title": "Lorenzo - L'Incredibile Avventura di Jovanotti",
+   "original_title": "",
+   "genres": [
+    "Documentario",
+    "Musicale"
+   ],
+   "duration": null,
+   "release_date": "2026-11-26",
+   "cast": [],
+   "rating": 3.5,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69161.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/lorenzo-l-incredibile-avventura-di-jovanotti/69161/scheda/",
+   "trailer_url": "https://www.comingsoon.it/film/lorenzo-l-incredibile-avventura-di-jovanotti/69161/video/"
+  },
+  {
+   "idf": "22883",
+   "cs_id": 68935,
+   "title": "La Notte delle Fragole",
+   "original_title": "",
+   "genres": [
+    "Commedia"
+   ],
+   "duration": 92,
+   "release_date": "2026-11-26",
+   "cast": [
+    "Salvo Ficarra",
+    "Valentino Picone",
+    "Anna Foglietta",
+    "Vittoria Puccini"
+   ],
+   "rating": 3.7,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68935.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/la-notte-delle-fragole/68935/scheda/",
+   "trailer_url": "https://www.comingsoon.it/film/la-notte-delle-fragole/68935/video/"
+  },
+  {
+   "idf": "22983",
+   "cs_id": 67718,
+   "title": "Hexe: Il Regno delle Streghe",
+   "original_title": "Hexed",
+   "genres": [
+    "Animazione",
+    "Avventura",
+    "Commedia",
+    "Fantasy"
+   ],
+   "duration": 109,
+   "release_date": "2026-11-26",
+   "cast": [
+    "Hailee Steinfeld",
+    "Rashida Jones",
+    "Stephen Fry",
+    "Tracey Ullman"
+   ],
+   "rating": 3.6,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67718.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/hexe-il-regno-delle-streghe/67718/scheda/",
+   "trailer_url": "https://www.comingsoon.it/film/hexe-il-regno-delle-streghe/67718/video/"
+  },
+  {
    "idf": "23028",
    "cs_id": 66975,
    "title": "Ti Presento i Fotter",
@@ -196,23 +302,6 @@
    "trailer_url": "https://www.comingsoon.it/film/ti-presento-i-fotter/66975/video/"
   },
   {
-   "idf": "11805",
-   "cs_id": 53675,
-   "title": "Your Name",
-   "original_title": "Kimi no na wa",
-   "genres": [
-    "Animazione",
-    "Anime"
-   ],
-   "duration": 106,
-   "release_date": "2026-11-23",
-   "cast": [],
-   "rating": 4.7,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/53675.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/your-name/53675/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/your-name/53675/video/"
-  },
-  {
    "idf": "22796",
    "cs_id": 69142,
    "title": "Mustang",
@@ -223,33 +312,10 @@
    "duration": null,
    "release_date": "2026-11-23",
    "cast": [],
-   "rating": 3.5,
+   "rating": 3.8,
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69142.jpg",
    "scheda_url": "https://www.comingsoon.it/film/mustang/69142/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/mustang/69142/video/"
-  },
-  {
-   "idf": "22994",
-   "cs_id": 69514,
-   "title": "Ramayana: La Nascita di una Leggenda",
-   "original_title": "Ramayana Part 1",
-   "genres": [
-    "Avventura",
-    "Azione",
-    "Fantasy"
-   ],
-   "duration": 208,
-   "release_date": "2026-11-19",
-   "cast": [
-    "Ranbir Kapoor",
-    "Yash",
-    "Sai Pallavi",
-    "Ravie Dubey"
-   ],
-   "rating": 4.5,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69514.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/ramayana-la-nascita-di-una-leggenda/69514/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/ramayana-la-nascita-di-una-leggenda/69514/video/"
   },
   {
    "idf": "22879",
@@ -466,27 +532,20 @@
    "trailer_url": "https://www.comingsoon.it/film/il-rumore-delle-cose-nuove/68017/video/"
   },
   {
-   "idf": "22751",
-   "cs_id": 68697,
-   "title": "Godzilla Minus Zero",
-   "original_title": "",
+   "idf": "22091",
+   "cs_id": 67900,
+   "title": "Il Canto della Foresta",
+   "original_title": "Le Chant des Forêts",
    "genres": [
-    "Azione",
-    "Avventura",
-    "Fantasy"
+    "Documentario"
    ],
-   "duration": 119,
+   "duration": 95,
    "release_date": "2026-11-12",
-   "cast": [
-    "Ryunosuke Kamiki",
-    "Minami Hamabe",
-    "Miou Tanaka",
-    "Sakura Ando"
-   ],
-   "rating": 4.0,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68697.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/godzilla-minus-zero/68697/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/godzilla-minus-zero/68697/video/"
+   "cast": [],
+   "rating": 3.7,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67900.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/il-canto-della-foresta/67900/scheda/",
+   "trailer_url": "https://www.comingsoon.it/film/il-canto-della-foresta/67900/video/"
   },
   {
    "idf": "22287",
@@ -533,49 +592,6 @@
    "trailer_url": "https://www.comingsoon.it/film/se-domani-non-torno/68243/video/"
   },
   {
-   "idf": "22736",
-   "cs_id": 68729,
-   "title": "Un Tranquillo Funerale di Famiglia",
-   "original_title": "",
-   "genres": [
-    "Commedia"
-   ],
-   "duration": null,
-   "release_date": "2026-10-29",
-   "cast": [
-    "Claudia Pandolfi",
-    "Pietro Sermonti",
-    "Diego Abatantuono",
-    "Stefania Sandrelli"
-   ],
-   "rating": 3.6,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68729.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/un-tranquillo-funerale-di-famiglia/68729/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/un-tranquillo-funerale-di-famiglia/68729/video/"
-  },
-  {
-   "idf": "22777",
-   "cs_id": 68680,
-   "title": "Minotaur",
-   "original_title": "",
-   "genres": [
-    "Drammatico",
-    "Thriller"
-   ],
-   "duration": 140,
-   "release_date": "2026-10-29",
-   "cast": [
-    "Anatoliy Beliy",
-    "Juris Zagars",
-    "Varvara Shmykova",
-    "Vladimir Friedman"
-   ],
-   "rating": 3.9,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68680.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/minotaur/68680/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/minotaur/68680/video/"
-  },
-  {
    "idf": "22281",
    "cs_id": 69130,
    "title": "Dio Ride",
@@ -597,48 +613,6 @@
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69130.jpg",
    "scheda_url": "https://www.comingsoon.it/film/dio-ride/69130/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/dio-ride/69130/video/"
-  },
-  {
-   "idf": "22626",
-   "cs_id": 69397,
-   "title": "Il Canto di Alina",
-   "original_title": "",
-   "genres": [
-    "Drammatico"
-   ],
-   "duration": 73,
-   "release_date": "2026-10-22",
-   "cast": [
-    "Caterina Truci",
-    "Adriana Papana",
-    "Cristiano Caldironi",
-    "Viktorija Portnova"
-   ],
-   "rating": 3.7,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69397.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/il-canto-di-alina/69397/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/il-canto-di-alina/69397/video/"
-  },
-  {
-   "idf": "22713",
-   "cs_id": 68676,
-   "title": "Fatherland",
-   "original_title": "",
-   "genres": [
-    "Drammatico"
-   ],
-   "duration": 82,
-   "release_date": "2026-10-16",
-   "cast": [
-    "Sandra Hüller",
-    "Hanns Zischler",
-    "August Diehl",
-    "Anna Madeley"
-   ],
-   "rating": 3.6,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/68676.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/fatherland/68676/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/fatherland/68676/video/"
   },
   {
    "idf": "22259",
@@ -663,129 +637,65 @@
    "trailer_url": "https://www.comingsoon.it/film/l-estranea/68142/video/"
   },
   {
-   "idf": "22255",
-   "cs_id": 69205,
-   "title": "Serpenti",
-   "original_title": "",
+   "idf": "22263",
+   "cs_id": 69276,
+   "title": "Un Giorno Senza Donne",
+   "original_title": "The Day Iceland Stood Still",
    "genres": [
-    "Commedia",
-    "Drammatico"
+    "Documentario"
    ],
-   "duration": 88,
+   "duration": 70,
    "release_date": "2026-09-10",
-   "cast": [
-    "Leonardo Lidi",
-    "Alessandro Borghi",
-    "Pietro Castellitto",
-    "Valeria Golino"
-   ],
-   "rating": 3.4,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69205.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/serpenti/69205/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/serpenti/69205/video/"
+   "cast": [],
+   "rating": 3.3,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69276.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/un-giorno-senza-donne/69276/scheda/",
+   "trailer_url": "https://www.comingsoon.it/film/un-giorno-senza-donne/69276/video/"
   },
   {
-   "idf": "20918",
-   "cs_id": 67294,
-   "title": "Sorry, Baby",
+   "idf": "21289",
+   "cs_id": 67096,
+   "title": "Nouvelle Vague",
    "original_title": "",
    "genres": [
-    "Commedia",
-    "Drammatico"
+    "Commedia"
    ],
-   "duration": 103,
-   "release_date": "2026-01-15",
+   "duration": 105,
+   "release_date": "2026-03-05",
    "cast": [
-    "Eva Victor",
-    "Naomi Ackie",
-    "Louis Cancelmi",
-    "Kelly McCormack"
-   ],
-   "rating": 3.3,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67294.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/sorry-baby/67294/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/sorry-baby/67294/video/"
-  },
-  {
-   "idf": "21015",
-   "cs_id": 16061,
-   "title": "Qualcuno volò sul nido del cuculo",
-   "original_title": "One Flew Over the Cuckoo's Nest",
-   "genres": [
-    "Drammatico"
-   ],
-   "duration": 133,
-   "release_date": "2026-01-12",
-   "cast": [
-    "Jack Nicholson",
-    "Louise Fletcher",
-    "William Redfield",
-    "Michael Berryman"
-   ],
-   "rating": 4.6,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/16061.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/qualcuno-volo-sul-nido-del-cuculo/16061/scheda/",
-   "trailer_url": "https://www.comingsoon.it/film/qualcuno-volo-sul-nido-del-cuculo/16061/video/"
-  },
-  {
-   "idf": "22975",
-   "cs_id": 17599,
-   "title": "Cenere e diamanti",
-   "original_title": "Popiól i diament",
-   "genres": [
-    "Drammatico",
-    "Guerra"
-   ],
-   "duration": 108,
-   "release_date": null,
-   "cast": [
-    "Zbigniew Cybulski",
-    "Ewa Krzyzanowska",
-    "Adam Pawlikowski",
-    "Bogumil Kobiela"
+    "Zoey Deutch",
+    "Alix Bénézech",
+    "Guillaume Marbeck",
+    "Aubry Dullin"
    ],
    "rating": 3.7,
-   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/17599.jpg",
-   "scheda_url": "https://www.comingsoon.it/film/cenere-e-diamanti/17599/scheda/",
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/67096.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/nouvelle-vague/67096/scheda/",
+   "trailer_url": "https://www.comingsoon.it/film/nouvelle-vague/67096/video/"
+  },
+  {
+   "idf": "3852",
+   "cs_id": 7215,
+   "title": "Minnie e Moskowitz",
+   "original_title": "Minnie and Moskowitz",
+   "genres": [
+    "Commedia"
+   ],
+   "duration": 118,
+   "release_date": "1976-12-03",
+   "cast": [
+    "Gena Rowlands",
+    "Seymour Cassel",
+    "Val Avery",
+    "Timothy Carey"
+   ],
+   "rating": 0.0,
+   "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/7215.jpg",
+   "scheda_url": "https://www.comingsoon.it/film/minnie-e-moskowitz/7215/scheda/",
    "trailer_url": null
   }
  ],
  "shows": [
-  {
-   "film": "22751",
-   "cinema": 152,
-   "date": "2026-11-26",
-   "time": "14:00",
-   "sala": "Sala 1",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 5.0,
-   "url": null
-  },
-  {
-   "film": "22281",
-   "cinema": 167,
-   "date": "2026-11-26",
-   "time": "14:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 8.5,
-   "url": null
-  },
-  {
-   "film": "22778",
-   "cinema": 171,
-   "date": "2026-11-26",
-   "time": "15:00",
-   "sala": "Sala 4",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
   {
    "film": "22941",
    "cinema": 171,
@@ -794,41 +704,45 @@
    "sala": "EPIC",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60855?SC_CMP=TSC_comingsoon"
   },
   {
-   "film": "22360",
+   "film": "22542",
+   "cinema": 5075,
+   "date": "2026-11-26",
+   "time": "15:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780286#sala"
+  },
+  {
+   "film": "22778",
+   "cinema": 5075,
+   "date": "2026-11-26",
+   "time": "15:00",
+   "sala": "Sala Off. / Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": 7.5,
+   "url": null
+  },
+  {
+   "film": "22752",
    "cinema": 171,
    "date": "2026-11-26",
    "time": "15:05",
-   "sala": "Sala 2",
+   "sala": "Sala 9",
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22994",
-   "cinema": 171,
-   "date": "2026-11-26",
-   "time": "15:10",
-   "sala": "Sala 5",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22189",
-   "cinema": 171,
-   "date": "2026-11-26",
-   "time": "15:15",
-   "sala": "Sala 8",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/60922?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22780",
@@ -838,8 +752,19 @@
    "sala": "Sala 8",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003866/60918?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-11-26",
+   "time": "15:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": 10.0,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868441#sala"
   },
   {
    "film": "22392",
@@ -849,19 +774,8 @@
    "sala": "Odeon D",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://odeon.ccb.18tickets.it/film/il-fuoco-che-ti-porti-dentro_2026/868575#sala"
-  },
-  {
-   "film": "22736",
-   "cinema": 174,
-   "date": "2026-11-26",
-   "time": "15:15",
-   "sala": "Sala D",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": null
   },
   {
    "film": "22850",
@@ -871,63 +785,19 @@
    "sala": "Odeon C",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/868644#sala"
   },
   {
-   "film": "22269",
-   "cinema": 178,
-   "date": "2026-11-26",
-   "time": "15:15",
-   "sala": "Sala 2",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": null
-  },
-  {
-   "film": "22941",
-   "cinema": 170,
-   "date": "2026-11-26",
-   "time": "15:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22780",
+   "film": "22287",
    "cinema": 171,
    "date": "2026-11-26",
    "time": "15:30",
-   "sala": "Sala 9",
+   "sala": "Sala 3",
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22796",
-   "cinema": 174,
-   "date": "2026-11-26",
-   "time": "15:30",
-   "sala": "Sala B",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": null
-  },
-  {
-   "film": "22991",
-   "cinema": 174,
-   "date": "2026-11-26",
-   "time": "15:30",
-   "sala": "Sala C",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": null
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60893?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22269",
@@ -937,7 +807,7 @@
    "sala": "Rialto 2",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 8.0,
    "url": "http://rialto.ccb.18tickets.it/film/look-back_2026/868330#sala"
   },
   {
@@ -952,41 +822,26 @@
    "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868314#sala"
   },
   {
-   "film": "22713",
-   "cinema": 4587,
-   "date": "2026-11-26",
-   "time": "15:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": null
-  },
-  {
-   "film": "22842",
-   "cinema": 5480,
-   "date": "2026-11-26",
-   "time": "15:30",
-   "sala": "Sala 1",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": null
-  },
-  {
-   "film": "22287",
-   "cinema": 5075,
+   "film": "22983",
+   "cinema": 171,
    "date": "2026-11-26",
    "time": "15:45",
-   "sala": "Sala Off. / Mastroianni",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": null
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": 10.9,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60887?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-11-26",
+   "time": "15:45",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": 10.0,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868616#sala"
   },
   {
    "film": "22281",
@@ -996,19 +851,30 @@
    "sala": "Sala 3",
    "vo": false,
    "tags": [],
-   "price": 6.0,
+   "price": null,
    "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1020471#sala"
   },
   {
-   "film": "22941",
+   "film": "22879",
    "cinema": 171,
    "date": "2026-11-26",
    "time": "16:00",
-   "sala": "Sala 3",
+   "sala": "Sala 6",
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": null
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003953/60906?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-11-26",
+   "time": "16:00",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": 10.0,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868344#sala"
   },
   {
    "film": "22778",
@@ -1020,7 +886,7 @@
    "tags": [
     "V.O."
    ],
-   "price": 7.5,
+   "price": null,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/fiord_2026/780111#sala"
   },
   {
@@ -1031,19 +897,8 @@
    "sala": "Sala1",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 9.0,
    "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1020451#sala"
-  },
-  {
-   "film": "22850",
-   "cinema": 174,
-   "date": "2026-11-26",
-   "time": "16:15",
-   "sala": "Sala A",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": null
   },
   {
    "film": "22287",
@@ -1057,37 +912,39 @@
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/868669#sala"
   },
   {
-   "film": "23028",
+   "film": "22542",
+   "cinema": 5075,
+   "date": "2026-11-26",
+   "time": "16:15",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": 7.5,
+   "url": null
+  },
+  {
+   "film": "22883",
    "cinema": 171,
    "date": "2026-11-26",
-   "time": "16:20",
-   "sala": "Sala 6",
+   "time": "16:30",
+   "sala": "Sala 5",
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22879",
-   "cinema": 152,
-   "date": "2026-11-26",
-   "time": "16:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 5.0,
-   "url": null
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60902?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22189",
-   "cinema": 167,
+   "cinema": 152,
    "date": "2026-11-26",
    "time": "16:45",
-   "sala": "Sala 1",
+   "sala": "ARLECCHINO",
    "vo": false,
    "tags": [],
-   "price": 8.5,
-   "url": null
+   "price": 8.0,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/867932#sala"
   },
   {
    "film": "23028",
@@ -1097,7 +954,7 @@
    "sala": "Sala 7",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003596/60911?SC_CMP=TSC_comingsoon"
   },
   {
@@ -1108,8 +965,30 @@
    "sala": "Sala 4",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60898?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-11-26",
+   "time": "17:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": 9.0,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37832"
+  },
+  {
+   "film": "22983",
+   "cinema": 170,
+   "date": "2026-11-26",
+   "time": "17:05",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/hexe-il-regno-delle-streghe_2026-ed22b454-f69c-465c-869b-eddd47430f49/868063#sala"
   },
   {
    "film": "22259",
@@ -1119,52 +998,41 @@
    "sala": "Odeon D",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/868691#sala"
   },
   {
-   "film": "22259",
-   "cinema": 174,
+   "film": "22883",
+   "cinema": 167,
    "date": "2026-11-26",
-   "time": "17:10",
-   "sala": "Sala D",
+   "time": "17:15",
+   "sala": "Jolly",
    "vo": false,
    "tags": [],
-   "price": 10.0,
-   "url": null
+   "price": 8.5,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867879#sala"
   },
   {
-   "film": "22269",
-   "cinema": 178,
-   "date": "2026-11-26",
-   "time": "17:10",
-   "sala": "Sala 2",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22189",
-   "cinema": 4587,
-   "date": "2026-11-26",
-   "time": "17:10",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22941",
+   "film": "22983",
    "cinema": 171,
    "date": "2026-11-26",
-   "time": "17:20",
-   "sala": "Sala 1",
+   "time": "17:15",
+   "sala": "Sala 9",
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": null
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60396?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-11-26",
+   "time": "17:25",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": 10.0,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868442#sala"
   },
   {
    "film": "22392",
@@ -1185,25 +1053,27 @@
    "sala": "Rialto 2",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://rialto.ccb.18tickets.it/film/look-back_2026/868331#sala"
   },
   {
-   "film": "22850",
-   "cinema": 171,
-   "date": "2026-11-26",
-   "time": "17:45",
-   "sala": "Sala 8",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22269",
+   "film": "22542",
    "cinema": 5075,
    "date": "2026-11-26",
-   "time": "18:00",
+   "time": "17:30",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780216#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 5075,
+   "date": "2026-11-26",
+   "time": "17:45",
    "sala": "Sala Off. / Mastroianni",
    "vo": true,
    "tags": [
@@ -1211,6 +1081,17 @@
    ],
    "price": 7.5,
    "url": null
+  },
+  {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-11-26",
+   "time": "17:55",
+   "sala": "Sala 8",
+   "vo": false,
+   "tags": [],
+   "price": 10.9,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/60919?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22842",
@@ -1222,7 +1103,7 @@
    "tags": [
     "V.O."
    ],
-   "price": null,
+   "price": 7.5,
    "url": "http://cervi.cinetecabologna.18tickets.it/film/la-gradiva_2026/780079#sala"
   },
   {
@@ -1233,30 +1114,19 @@
    "sala": "Sala 3",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60894?SC_CMP=TSC_comingsoon"
   },
   {
-   "film": "22941",
-   "cinema": 171,
-   "date": "2026-11-26",
-   "time": "18:15",
-   "sala": "Sala 9",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
    "film": "22991",
-   "cinema": 174,
+   "cinema": 161,
    "date": "2026-11-26",
    "time": "18:15",
-   "sala": "Sala C",
+   "sala": "Sala 3",
    "vo": false,
    "tags": [],
-   "price": 10.0,
-   "url": null
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-essere-amato_2026-8b4f00ae-de77-4d43-8d7d-05bd26778e35/1020479#sala"
   },
   {
    "film": "22778",
@@ -1270,19 +1140,6 @@
    "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868315#sala"
   },
   {
-   "film": "22713",
-   "cinema": 5480,
-   "date": "2026-11-26",
-   "time": "18:15",
-   "sala": "Sala 1",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.15,
-   "url": null
-  },
-  {
    "film": "22189",
    "cinema": 171,
    "date": "2026-11-26",
@@ -1290,41 +1147,41 @@
    "sala": "Sala 2",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/60888?SC_CMP=TSC_comingsoon"
   },
   {
-   "film": "22281",
-   "cinema": 161,
-   "date": "2026-11-26",
-   "time": "18:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 6.0,
-   "url": null
-  },
-  {
-   "film": "22287",
-   "cinema": 170,
-   "date": "2026-11-26",
-   "time": "18:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22780",
+   "film": "22983",
    "cinema": 171,
    "date": "2026-11-26",
    "time": "18:30",
-   "sala": "Sala 4",
+   "sala": "EPIC",
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": null
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60856?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-11-26",
+   "time": "18:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": 10.0,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868617#sala"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-11-26",
+   "time": "18:30",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": 10.0,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868356#sala"
   },
   {
    "film": "22850",
@@ -1334,30 +1191,8 @@
    "sala": "Sala1",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 9.0,
    "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1020452#sala"
-  },
-  {
-   "film": "23028",
-   "cinema": 171,
-   "date": "2026-11-26",
-   "time": "18:45",
-   "sala": "Sala 5",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22850",
-   "cinema": 174,
-   "date": "2026-11-26",
-   "time": "18:45",
-   "sala": "Sala A",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
   },
   {
    "film": "22287",
@@ -1378,7 +1213,7 @@
    "sala": "Bristol",
    "vo": false,
    "tags": [],
-   "price": 5.0,
+   "price": 8.0,
    "url": "http://bristol.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/867907#sala"
   },
   {
@@ -1402,7 +1237,7 @@
    "sala": "Sala 6",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003596/60907?SC_CMP=TSC_comingsoon"
   },
   {
@@ -1411,34 +1246,12 @@
    "date": "2026-11-26",
    "time": "18:55",
    "sala": "ARLECCHINO",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api-original-version_2025-fb2bd85a-d884-4dbb-95ac-6def0dd2fd60/867950#sala"
-  },
-  {
-   "film": "20918",
-   "cinema": 152,
-   "date": "2026-11-26",
-   "time": "19:00",
-   "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
-   "price": 5.0,
-   "url": null
-  },
-  {
-   "film": "22281",
-   "cinema": 167,
-   "date": "2026-11-26",
-   "time": "19:00",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 8.5,
-   "url": null
+   "price": 8.0,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api-original-version_2025-fb2bd85a-d884-4dbb-95ac-6def0dd2fd60/867950#sala"
   },
   {
    "film": "22941",
@@ -1452,15 +1265,15 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60865?SC_CMP=TSC_comingsoon"
   },
   {
-   "film": "22281",
-   "cinema": 5085,
+   "film": "22883",
+   "cinema": 181,
    "date": "2026-11-26",
    "time": "19:00",
-   "sala": "Sala Berti",
+   "sala": "SALA CHAPLIN",
    "vo": false,
    "tags": [],
-   "price": 8.0,
-   "url": null
+   "price": 9.0,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37833"
   },
   {
    "film": "22287",
@@ -1474,15 +1287,37 @@
    "url": "http://cinema.nosadella.18tickets.it/film/wild-horse-nine_2026/779236#sala"
   },
   {
-   "film": "22269",
-   "cinema": 178,
+   "film": "22983",
+   "cinema": 5085,
    "date": "2026-11-26",
-   "time": "19:05",
-   "sala": "Sala 2",
+   "time": "19:00",
+   "sala": "Sala Berti",
    "vo": false,
    "tags": [],
-   "price": 10.0,
-   "url": null
+   "price": 8.0,
+   "url": "http://cinema.nosadella.18tickets.it/film/hexe-il-regno-delle-streghe_2026-72c1129d-a8e9-4ca5-b82f-415d2e3a4531/777150#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-11-26",
+   "time": "19:15",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": 8.5,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867880#sala"
+  },
+  {
+   "film": "22752",
+   "cinema": 170,
+   "date": "2026-11-26",
+   "time": "19:15",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/lorenzo-l-incredibile-avventura-di-jovanotti_2026-acb93216-5fc6-4a7f-894b-f201fd90c376/868076#sala"
   },
   {
    "film": "22850",
@@ -1492,22 +1327,22 @@
    "sala": "Odeon D",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/868647#sala"
   },
   {
    "film": "22189",
-   "cinema": 4587,
+   "cinema": 174,
    "date": "2026-11-26",
-   "time": "19:20",
-   "sala": "Sala 1",
+   "time": "19:25",
+   "sala": "Odeon C",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": null
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868443#sala"
   },
   {
-   "film": "11805",
+   "film": "22883",
    "cinema": 171,
    "date": "2026-11-26",
    "time": "19:30",
@@ -1515,18 +1350,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22941",
-   "cinema": 171,
-   "date": "2026-11-26",
-   "time": "19:30",
-   "sala": "Sala 3",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60912?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22392",
@@ -1540,39 +1364,39 @@
    "url": "http://odeon.ccb.18tickets.it/film/il-fuoco-che-ti-porti-dentro_2026/868573#sala"
   },
   {
-   "film": "22975",
-   "cinema": 5817,
+   "film": "22796",
+   "cinema": 178,
    "date": "2026-11-26",
    "time": "19:30",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": 10.0,
+   "url": "http://rialto.ccb.18tickets.it/film/mustang_2026-60aa132c-8eab-448d-a544-5dfd481b4df7/868709#sala"
+  },
+  {
+   "film": "22263",
+   "cinema": 163,
+   "date": "2026-11-26",
+   "time": "19:45",
    "sala": "Sala 1",
    "vo": true,
    "tags": [
     "V.O."
    ],
-   "price": 6.0,
-   "url": null
-  },
-  {
-   "film": "22626",
-   "cinema": 163,
-   "date": "2026-11-26",
-   "time": "19:45",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
    "price": 5.5,
    "url": null
   },
   {
-   "film": "22941",
+   "film": "22983",
    "cinema": 171,
    "date": "2026-11-26",
    "time": "20:00",
-   "sala": "Sala 2",
+   "sala": "Sala 9",
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": null
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60397?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22287",
@@ -1588,19 +1412,6 @@
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/780057#sala"
   },
   {
-   "film": "22713",
-   "cinema": 5480,
-   "date": "2026-11-26",
-   "time": "20:00",
-   "sala": "Sala 1",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.15,
-   "url": null
-  },
-  {
    "film": "22941",
    "cinema": 171,
    "date": "2026-11-26",
@@ -1608,18 +1419,18 @@
    "sala": "Sala 8",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60920?SC_CMP=TSC_comingsoon"
   },
   {
-   "film": "22796",
-   "cinema": 171,
+   "film": "21289",
+   "cinema": 177,
    "date": "2026-11-26",
    "time": "20:30",
-   "sala": "Sala 8",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
-   "price": 10.9,
+   "price": 7.0,
    "url": null
   },
   {
@@ -1630,19 +1441,8 @@
    "sala": "Sala 4",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/60899?SC_CMP=TSC_comingsoon"
-  },
-  {
-   "film": "22287",
-   "cinema": 153,
-   "date": "2026-11-26",
-   "time": "21:00",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 6.5,
-   "url": null
   },
   {
    "film": "22281",
@@ -1652,54 +1452,19 @@
    "sala": "Sala 3",
    "vo": false,
    "tags": [],
-   "price": 6.0,
+   "price": null,
    "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1020472#sala"
   },
   {
-   "film": "22941",
-   "cinema": 170,
-   "date": "2026-11-26",
-   "time": "21:00",
-   "sala": "Sala 1",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22941",
+   "film": "22752",
    "cinema": 171,
-   "date": "2026-11-26",
-   "time": "21:00",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 10.9,
-   "url": null
-  },
-  {
-   "film": "22796",
-   "cinema": 174,
-   "date": "2026-11-26",
-   "time": "21:00",
-   "sala": "Sala C",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22777",
-   "cinema": 178,
    "date": "2026-11-26",
    "time": "21:00",
    "sala": "Sala 2",
    "vo": false,
    "tags": [],
-   "price": 10.0,
-   "url": null
+   "price": 10.9,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/59727?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22778",
@@ -1713,61 +1478,61 @@
    "url": "http://roma.ccb.18tickets.it/film/fjord_2026-ba66c4a6-183a-47d8-9c80-53e6b6cd21f8/865963#sala"
   },
   {
-   "film": "22281",
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-11-26",
+   "time": "21:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": 9.0,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37834"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-11-26",
+   "time": "21:00",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": 10.0,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868367#sala"
+  },
+  {
+   "film": "22879",
    "cinema": 5074,
    "date": "2026-11-26",
    "time": "21:00",
-   "sala": "Sala 1",
+   "sala": "Bristol",
    "vo": false,
    "tags": [],
-   "price": 5.0,
-   "url": null
+   "price": 8.0,
+   "url": "http://bristol.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api_2025-7d62e575-9c75-47c0-8e9c-eb5d3882531c/867913#sala"
   },
   {
-   "film": "22777",
-   "cinema": 5075,
+   "film": "22780",
+   "cinema": 5085,
    "date": "2026-11-26",
    "time": "21:00",
-   "sala": "DAMSLab/Auditorium",
+   "sala": "Sala Scalo",
+   "vo": false,
+   "tags": [],
+   "price": 8.0,
+   "url": "http://cinema.nosadella.18tickets.it/film/scrooge-e-gli-spiriti-del-natale-ebenezer-_2026-a705e33e-491c-45fc-a89c-23c9af3ed130/779163#sala"
+  },
+  {
+   "film": "22269",
+   "cinema": 5480,
+   "date": "2026-11-26",
+   "time": "21:00",
+   "sala": "Cervi",
    "vo": true,
    "tags": [
     "V.O."
    ],
    "price": 7.5,
-   "url": null
-  },
-  {
-   "film": "22780",
-   "cinema": 5085,
-   "date": "2026-11-26",
-   "time": "21:00",
-   "sala": "Sala Scalo",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://cinema.nosadella.18tickets.it/film/scrooge-e-gli-spiriti-del-natale-ebenezer-_2026-a705e33e-491c-45fc-a89c-23c9af3ed130/779163#sala"
-  },
-  {
-   "film": "22287",
-   "cinema": 5085,
-   "date": "2026-11-26",
-   "time": "21:10",
-   "sala": "Sala Scalo",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": null
-  },
-  {
-   "film": "22780",
-   "cinema": 5085,
-   "date": "2026-11-26",
-   "time": "21:10",
-   "sala": "Sala Berti",
-   "vo": false,
-   "tags": [],
-   "price": 8.0,
-   "url": null
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/780104#sala"
   },
   {
    "film": "22850",
@@ -1777,19 +1542,19 @@
    "sala": "Sala1",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 9.0,
    "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1020453#sala"
   },
   {
-   "film": "22189",
+   "film": "22883",
    "cinema": 167,
    "date": "2026-11-26",
    "time": "21:15",
-   "sala": "Sala 1",
+   "sala": "Jolly",
    "vo": false,
    "tags": [],
    "price": 8.5,
-   "url": null
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867881#sala"
   },
   {
    "film": "22941",
@@ -1810,19 +1575,21 @@
    "sala": "EPIC",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60857?SC_CMP=TSC_comingsoon"
   },
   {
-   "film": "22850",
+   "film": "22542",
    "cinema": 174,
    "date": "2026-11-26",
    "time": "21:15",
-   "sala": "Sala A",
-   "vo": false,
-   "tags": [],
+   "sala": "Odeon B",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
    "price": 10.0,
-   "url": null
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026-69355280-300d-48d4-b645-b15da3c30cf2/868634#sala"
   },
   {
    "film": "22287",
@@ -1838,15 +1605,15 @@
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026-e31f5ef5-fb22-4912-8834-4f256667200a/868686#sala"
   },
   {
-   "film": "22189",
-   "cinema": 171,
+   "film": "22091",
+   "cinema": 5085,
    "date": "2026-11-26",
-   "time": "21:20",
-   "sala": "Sala 4",
+   "time": "21:15",
+   "sala": "Sala Berti",
    "vo": false,
    "tags": [],
-   "price": 10.9,
-   "url": null
+   "price": 8.0,
+   "url": "http://cinema.nosadella.18tickets.it/film/il-canto-della-foresta-le-chant-des-forets-_2025-9c72a8e6-356a-4e1c-abec-8050bd5b0f76/775302#sala"
   },
   {
    "film": "22879",
@@ -1854,23 +1621,10 @@
    "date": "2026-11-26",
    "time": "21:30",
    "sala": "ARLECCHINO",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 5.0,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api_2025-7d62e575-9c75-47c0-8e9c-eb5d3882531c/867939#sala"
-  },
-  {
-   "film": "22255",
-   "cinema": 163,
-   "date": "2026-11-26",
-   "time": "21:30",
-   "sala": "Sala 1",
    "vo": false,
    "tags": [],
-   "price": 5.5,
-   "url": null
+   "price": 8.0,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api_2025-7d62e575-9c75-47c0-8e9c-eb5d3882531c/867939#sala"
   },
   {
    "film": "23028",
@@ -1913,7 +1667,7 @@
    "sala": "Odeon D",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.0,
    "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/868648#sala"
   },
   {
@@ -1922,24 +1676,15 @@
    "date": "2026-11-26",
    "time": "21:30",
    "sala": "Rialto 2",
-   "vo": false,
-   "tags": [],
-   "price": null,
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": 10.0,
    "url": "http://rialto.ccb.18tickets.it/film/look-back_2026-75e53b30-b2eb-4365-8a82-fca5f1a663dc/868357#sala"
   },
   {
-   "film": "22189",
-   "cinema": 4587,
-   "date": "2026-11-26",
-   "time": "21:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": 10.0,
-   "url": null
-  },
-  {
-   "film": "22778",
+   "film": "22542",
    "cinema": 5075,
    "date": "2026-11-26",
    "time": "21:30",
@@ -1949,55 +1694,29 @@
     "V.O."
    ],
    "price": 7.5,
-   "url": null
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780121#sala"
   },
   {
-   "film": "22842",
-   "cinema": 5480,
-   "date": "2026-11-26",
-   "time": "21:30",
-   "sala": "Sala 1",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": 7.5,
-   "url": null
-  },
-  {
-   "film": "21015",
-   "cinema": 5817,
-   "date": "2026-11-26",
-   "time": "21:30",
-   "sala": "Sala 1",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": null,
-   "url": null
-  },
-  {
-   "film": "22941",
+   "film": "22983",
    "cinema": 171,
    "date": "2026-11-26",
    "time": "21:45",
-   "sala": "Sala 9",
+   "sala": "Sala 3",
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": null
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60895?SC_CMP=TSC_comingsoon"
   },
   {
-   "film": "22780",
+   "film": "22883",
    "cinema": 171,
    "date": "2026-11-26",
-   "time": "22:10",
+   "time": "22:00",
    "sala": "Sala 7",
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": null
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60913?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22287",
@@ -2013,6 +1732,19 @@
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/780058#sala"
   },
   {
+   "film": "3852",
+   "cinema": 5817,
+   "date": "2026-11-26",
+   "time": "22:15",
+   "sala": "Modernissimo",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": 7.5,
+   "url": "http://modernissimo.cinetecabologna.18tickets.it/film/minnie-moskowitz-minnie-and-moskowitz-ried-_1971/759264#sala"
+  },
+  {
    "film": "22780",
    "cinema": 171,
    "date": "2026-11-26",
@@ -2020,7 +1752,7 @@
    "sala": "Sala 5",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003866/60903?SC_CMP=TSC_comingsoon"
   },
   {
@@ -2031,7 +1763,7 @@
    "sala": "Sala 9",
    "vo": false,
    "tags": [],
-   "price": null,
+   "price": 10.9,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003902/60923?SC_CMP=TSC_comingsoon"
   },
   {
@@ -2057,6 +1789,28 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/60900?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22189",
+   "cinema": 152,
+   "date": "2026-11-27",
+   "time": "14:30",
+   "sala": "ARLECCHINO",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/867933#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-27",
+   "time": "14:30",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60393?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22941",
    "cinema": 171,
    "date": "2026-11-27",
@@ -2066,6 +1820,85 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60852?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-11-27",
+   "time": "14:50",
+   "sala": "Sala 8",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/60914?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22983",
+   "cinema": 170,
+   "date": "2026-11-27",
+   "time": "15:00",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/hexe-il-regno-delle-streghe_2026-ed22b454-f69c-465c-869b-eddd47430f49/868064#sala"
+  },
+  {
+   "film": "22542",
+   "cinema": 5075,
+   "date": "2026-11-27",
+   "time": "15:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780122#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 171,
+   "date": "2026-11-27",
+   "time": "15:10",
+   "sala": "Sala 6",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60904?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-11-27",
+   "time": "15:15",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867885#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-11-27",
+   "time": "15:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60889?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-11-27",
+   "time": "15:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868444#sala"
   },
   {
    "film": "22392",
@@ -2123,6 +1956,28 @@
    "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868316#sala"
   },
   {
+   "film": "22879",
+   "cinema": 171,
+   "date": "2026-11-27",
+   "time": "15:35",
+   "sala": "Sala 4",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003953/60896?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-11-27",
+   "time": "15:45",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868619#sala"
+  },
+  {
    "film": "22281",
    "cinema": 161,
    "date": "2026-11-27",
@@ -2132,6 +1987,17 @@
    "tags": [],
    "price": null,
    "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1020473#sala"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-11-27",
+   "time": "16:00",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868348#sala"
   },
   {
    "film": "22778",
@@ -2193,6 +2059,17 @@
    "url": "http://cervi.cinetecabologna.18tickets.it/film/la-gradiva_2026/780318#sala"
   },
   {
+   "film": "22189",
+   "cinema": 152,
+   "date": "2026-11-27",
+   "time": "16:45",
+   "sala": "ARLECCHINO",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/867934#sala"
+  },
+  {
    "film": "22941",
    "cinema": 171,
    "date": "2026-11-27",
@@ -2204,6 +2081,28 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60901?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-11-27",
+   "time": "17:00",
+   "sala": "Sala 8",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/60915?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-11-27",
+   "time": "17:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37835"
+  },
+  {
    "film": "22259",
    "cinema": 174,
    "date": "2026-11-27",
@@ -2213,6 +2112,50 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/868693#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-11-27",
+   "time": "17:15",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867886#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 170,
+   "date": "2026-11-27",
+   "time": "17:15",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/hexe-il-regno-delle-streghe_2026-ed22b454-f69c-465c-869b-eddd47430f49/868065#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-27",
+   "time": "17:15",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60394?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-11-27",
+   "time": "17:25",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868445#sala"
   },
   {
    "film": "22392",
@@ -2235,6 +2178,17 @@
    "tags": [],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/look-back_2026/868333#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-11-27",
+   "time": "17:40",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60890?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22287",
@@ -2272,15 +2226,15 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003596/60885?SC_CMP=TSC_comingsoon"
   },
   {
-   "film": "22287",
-   "cinema": 153,
+   "film": "22991",
+   "cinema": 161,
    "date": "2026-11-27",
    "time": "18:15",
-   "sala": "Sala 1",
+   "sala": "Sala 3",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "https://ticket.cinebot.it/bellinzona/evento/2239"
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-essere-amato_2026-8b4f00ae-de77-4d43-8d7d-05bd26778e35/1020480#sala"
   },
   {
    "film": "22778",
@@ -2292,6 +2246,39 @@
    "tags": [],
    "price": null,
    "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868317#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-27",
+   "time": "18:20",
+   "sala": "EPIC",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60853?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-11-27",
+   "time": "18:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868620#sala"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-11-27",
+   "time": "18:30",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868362#sala"
   },
   {
    "film": "22850",
@@ -2316,15 +2303,17 @@
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/868672#sala"
   },
   {
-   "film": "22281",
-   "cinema": 5074,
+   "film": "22542",
+   "cinema": 5075,
    "date": "2026-11-27",
    "time": "18:45",
-   "sala": "Bristol",
-   "vo": false,
-   "tags": [],
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
    "price": null,
-   "url": "http://bristol.popupcinema.18tickets.it/film/dio-ride_2026-1a55a128-2cfe-44c0-8c70-63a6da37600f/867910#sala"
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780156#sala"
   },
   {
    "film": "22879",
@@ -2332,8 +2321,10 @@
    "date": "2026-11-27",
    "time": "18:55",
    "sala": "ARLECCHINO",
-   "vo": false,
-   "tags": [],
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
    "price": null,
    "url": "http://arlecchino.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api_2025-7d62e575-9c75-47c0-8e9c-eb5d3882531c/867943#sala"
   },
@@ -2349,15 +2340,61 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60871?SC_CMP=TSC_comingsoon"
   },
   {
-   "film": "22281",
-   "cinema": 5085,
+   "film": "22883",
+   "cinema": 181,
    "date": "2026-11-27",
    "time": "19:00",
-   "sala": "Sala Scalo",
+   "sala": "SALA CHAPLIN",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://cinema.nosadella.18tickets.it/film/dio-ride_2026/779240#sala"
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37836"
+  },
+  {
+   "film": "22983",
+   "cinema": 5085,
+   "date": "2026-11-27",
+   "time": "19:00",
+   "sala": "Sala Berti",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cinema.nosadella.18tickets.it/film/hexe-il-regno-delle-streghe_2026-72c1129d-a8e9-4ca5-b82f-415d2e3a4531/779229#sala"
+  },
+  {
+   "film": "22269",
+   "cinema": 5480,
+   "date": "2026-11-27",
+   "time": "19:00",
+   "sala": "Cervi",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/780105#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-11-27",
+   "time": "19:15",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867887#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-11-27",
+   "time": "19:15",
+   "sala": "Sala 8",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60916?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22850",
@@ -2371,6 +2408,17 @@
    "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/868650#sala"
   },
   {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-11-27",
+   "time": "19:25",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868446#sala"
+  },
+  {
    "film": "22392",
    "cinema": 174,
    "date": "2026-11-27",
@@ -2380,6 +2428,28 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/il-fuoco-che-ti-porti-dentro_2026/868594#sala"
+  },
+  {
+   "film": "22796",
+   "cinema": 178,
+   "date": "2026-11-27",
+   "time": "19:30",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/mustang_2026-60aa132c-8eab-448d-a544-5dfd481b4df7/868710#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-27",
+   "time": "20:00",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60395?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22287",
@@ -2406,17 +2476,6 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/60891?SC_CMP=TSC_comingsoon"
   },
   {
-   "film": "22287",
-   "cinema": 153,
-   "date": "2026-11-27",
-   "time": "21:00",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "https://ticket.cinebot.it/bellinzona/evento/2240"
-  },
-  {
    "film": "22281",
    "cinema": 161,
    "date": "2026-11-27",
@@ -2428,6 +2487,17 @@
    "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1020474#sala"
   },
   {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-11-27",
+   "time": "21:00",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/59726?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22778",
    "cinema": 179,
    "date": "2026-11-27",
@@ -2437,6 +2507,39 @@
    "tags": [],
    "price": null,
    "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868318#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-11-27",
+   "time": "21:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37837"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-11-27",
+   "time": "21:00",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868368#sala"
+  },
+  {
+   "film": "22879",
+   "cinema": 5074,
+   "date": "2026-11-27",
+   "time": "21:00",
+   "sala": "Bristol",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://bristol.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api_2025-7d62e575-9c75-47c0-8e9c-eb5d3882531c/867914#sala"
   },
   {
    "film": "22287",
@@ -2485,6 +2588,17 @@
    "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1020464#sala"
   },
   {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-11-27",
+   "time": "21:15",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867888#sala"
+  },
+  {
    "film": "22941",
    "cinema": 171,
    "date": "2026-11-27",
@@ -2494,6 +2608,19 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60854?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-11-27",
+   "time": "21:15",
+   "sala": "Odeon B",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868621#sala"
   },
   {
    "film": "22287",
@@ -2514,10 +2641,8 @@
    "date": "2026-11-27",
    "time": "21:30",
    "sala": "ARLECCHINO",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
+   "vo": false,
+   "tags": [],
    "price": null,
    "url": "http://arlecchino.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api-original-version_2025-fb2bd85a-d884-4dbb-95ac-6def0dd2fd60/867951#sala"
   },
@@ -2571,8 +2696,10 @@
    "date": "2026-11-27",
    "time": "21:30",
    "sala": "Rialto 2",
-   "vo": false,
-   "tags": [],
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/look-back_2026/868345#sala"
   },
@@ -2588,6 +2715,17 @@
    ],
    "price": null,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/fiord_2026/780077#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-27",
+   "time": "21:45",
+   "sala": "Sala 8",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60917?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22780",
@@ -2625,6 +2763,17 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60921?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-11-27",
+   "time": "22:45",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60910?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22360",
    "cinema": 171,
    "date": "2026-11-27",
@@ -2636,6 +2785,17 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003902/60892?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-11-27",
+   "time": "23:15",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/60886?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22780",
    "cinema": 171,
    "date": "2026-11-28",
@@ -2645,6 +2805,30 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003866/60936?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-11-28",
+   "time": "00:30",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60931?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "3852",
+   "cinema": 5817,
+   "date": "2026-11-28",
+   "time": "10:30",
+   "sala": "Modernissimo",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://modernissimo.cinetecabologna.18tickets.it/film/il-volto-del-mostro-m-e-le-belve-umane-del-cinema_2026-cfefd230-9c3a-4380-adfa-61d4cb4a5728/759271#sala"
   },
   {
    "film": "22360",
@@ -2669,15 +2853,39 @@
    "url": "http://arlecchino.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api-original-version_2025-fb2bd85a-d884-4dbb-95ac-6def0dd2fd60/867952#sala"
   },
   {
-   "film": "22281",
-   "cinema": 5074,
+   "film": "22983",
+   "cinema": 171,
    "date": "2026-11-28",
    "time": "14:30",
-   "sala": "Bristol",
+   "sala": "Sala 9",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://bristol.popupcinema.18tickets.it/film/dio-ride_2026-1a55a128-2cfe-44c0-8c70-63a6da37600f/867911#sala"
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60390?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22542",
+   "cinema": 5075,
+   "date": "2026-11-28",
+   "time": "14:30",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780199#sala"
+  },
+  {
+   "film": "22879",
+   "cinema": 171,
+   "date": "2026-11-28",
+   "time": "14:45",
+   "sala": "Sala 5",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003953/60934?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22778",
@@ -2704,6 +2912,28 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60932?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-11-28",
+   "time": "15:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37838"
+  },
+  {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-11-28",
+   "time": "15:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868447#sala"
+  },
+  {
    "film": "22392",
    "cinema": 174,
    "date": "2026-11-28",
@@ -2726,15 +2956,15 @@
    "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/868652#sala"
   },
   {
-   "film": "22287",
-   "cinema": 153,
+   "film": "22983",
+   "cinema": 171,
    "date": "2026-11-28",
    "time": "15:30",
-   "sala": "Sala 1",
+   "sala": "EPIC",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "https://ticket.cinebot.it/bellinzona/evento/2241"
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60849?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22269",
@@ -2759,6 +2989,28 @@
    "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868319#sala"
   },
   {
+   "film": "22983",
+   "cinema": 5085,
+   "date": "2026-11-28",
+   "time": "15:30",
+   "sala": "Sala Berti",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cinema.nosadella.18tickets.it/film/hexe-il-regno-delle-streghe_2026-72c1129d-a8e9-4ca5-b82f-415d2e3a4531/779230#sala"
+  },
+  {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-11-28",
+   "time": "15:45",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868623#sala"
+  },
+  {
    "film": "22780",
    "cinema": 171,
    "date": "2026-11-28",
@@ -2779,6 +3031,39 @@
    "tags": [],
    "price": null,
    "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1020475#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-11-28",
+   "time": "16:00",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867889#sala"
+  },
+  {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-11-28",
+   "time": "16:00",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/60924?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-11-28",
+   "time": "16:00",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868349#sala"
   },
   {
    "film": "22850",
@@ -2827,6 +3112,17 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003596/60928?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-11-28",
+   "time": "16:45",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60941?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22189",
    "cinema": 5074,
    "date": "2026-11-28",
@@ -2836,6 +3132,17 @@
    "tags": [],
    "price": null,
    "url": "http://bristol.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/867908#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-11-28",
+   "time": "17:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37839"
   },
   {
    "film": "22778",
@@ -2871,6 +3178,28 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/868695#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-28",
+   "time": "17:15",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60391?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-11-28",
+   "time": "17:25",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868448#sala"
   },
   {
    "film": "22392",
@@ -2919,15 +3248,59 @@
    "url": "http://cinema.nosadella.18tickets.it/film/scrooge-e-gli-spiriti-del-natale-ebenezer-_2026-a705e33e-491c-45fc-a89c-23c9af3ed130/779165#sala"
   },
   {
-   "film": "22287",
-   "cinema": 153,
+   "film": "22983",
+   "cinema": 5085,
    "date": "2026-11-28",
-   "time": "18:15",
-   "sala": "Sala 1",
+   "time": "17:30",
+   "sala": "Sala Berti",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "https://ticket.cinebot.it/bellinzona/evento/2242"
+   "url": "http://cinema.nosadella.18tickets.it/film/hexe-il-regno-delle-streghe_2026-72c1129d-a8e9-4ca5-b82f-415d2e3a4531/779231#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 171,
+   "date": "2026-11-28",
+   "time": "17:40",
+   "sala": "Sala 5",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60935?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-11-28",
+   "time": "18:00",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867890#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-11-28",
+   "time": "18:10",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60925?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22991",
+   "cinema": 161,
+   "date": "2026-11-28",
+   "time": "18:15",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-essere-amato_2026-8b4f00ae-de77-4d43-8d7d-05bd26778e35/1020481#sala"
   },
   {
    "film": "22778",
@@ -2950,6 +3323,28 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60850?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-11-28",
+   "time": "18:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868624#sala"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-11-28",
+   "time": "18:30",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868363#sala"
   },
   {
    "film": "22850",
@@ -2985,6 +3380,17 @@
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/868674#sala"
   },
   {
+   "film": "22879",
+   "cinema": 5074,
+   "date": "2026-11-28",
+   "time": "18:55",
+   "sala": "Bristol",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://bristol.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api_2025-7d62e575-9c75-47c0-8e9c-eb5d3882531c/867915#sala"
+  },
+  {
    "film": "22941",
    "cinema": 171,
    "date": "2026-11-28",
@@ -2994,6 +3400,30 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60870?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-11-28",
+   "time": "19:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37840"
+  },
+  {
+   "film": "22269",
+   "cinema": 5480,
+   "date": "2026-11-28",
+   "time": "19:00",
+   "sala": "Cervi",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/780200#sala"
   },
   {
    "film": "23028",
@@ -3018,6 +3448,17 @@
    "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/868653#sala"
   },
   {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-11-28",
+   "time": "19:25",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868449#sala"
+  },
+  {
    "film": "22392",
    "cinema": 174,
    "date": "2026-11-28",
@@ -3029,15 +3470,26 @@
    "url": "http://odeon.ccb.18tickets.it/film/il-fuoco-che-ti-porti-dentro_2026/868598#sala"
   },
   {
-   "film": "22281",
-   "cinema": 5085,
+   "film": "22796",
+   "cinema": 178,
    "date": "2026-11-28",
    "time": "19:30",
-   "sala": "Sala Scalo",
+   "sala": "Rialto 2",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://cinema.nosadella.18tickets.it/film/dio-ride_2026/779241#sala"
+   "url": "http://rialto.ccb.18tickets.it/film/mustang_2026-60aa132c-8eab-448d-a544-5dfd481b4df7/868711#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 5085,
+   "date": "2026-11-28",
+   "time": "19:30",
+   "sala": "Sala Berti",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cinema.nosadella.18tickets.it/film/hexe-il-regno-delle-streghe_2026-72c1129d-a8e9-4ca5-b82f-415d2e3a4531/779232#sala"
   },
   {
    "film": "22287",
@@ -3053,15 +3505,39 @@
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/780194#sala"
   },
   {
-   "film": "22287",
-   "cinema": 153,
+   "film": "22542",
+   "cinema": 5075,
    "date": "2026-11-28",
-   "time": "21:00",
-   "sala": "Sala 1",
+   "time": "19:45",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780198#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 170,
+   "date": "2026-11-28",
+   "time": "20:00",
+   "sala": "Medica",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "https://ticket.cinebot.it/bellinzona/evento/2243"
+   "url": "http://medica.popupcinema.18tickets.it/film/hexe-il-regno-delle-streghe_2026-ed22b454-f69c-465c-869b-eddd47430f49/868066#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-28",
+   "time": "20:00",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60392?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22281",
@@ -3075,6 +3551,17 @@
    "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1020476#sala"
   },
   {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-11-28",
+   "time": "21:00",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/59725?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22778",
    "cinema": 179,
    "date": "2026-11-28",
@@ -3084,6 +3571,28 @@
    "tags": [],
    "price": null,
    "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868321#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-11-28",
+   "time": "21:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37841"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-11-28",
+   "time": "21:00",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868369#sala"
   },
   {
    "film": "22842",
@@ -3108,6 +3617,19 @@
    "tags": [],
    "price": null,
    "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1020467#sala"
+  },
+  {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-11-28",
+   "time": "21:15",
+   "sala": "Odeon B",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868622#sala"
   },
   {
    "film": "22287",
@@ -3172,10 +3694,23 @@
    "date": "2026-11-28",
    "time": "21:30",
    "sala": "Rialto 2",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/look-back_2026/868346#sala"
+  },
+  {
+   "film": "22879",
+   "cinema": 5074,
+   "date": "2026-11-28",
+   "time": "21:30",
+   "sala": "Bristol",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://rialto.ccb.18tickets.it/film/look-back_2026/868346#sala"
+   "url": "http://bristol.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api_2025-7d62e575-9c75-47c0-8e9c-eb5d3882531c/867916#sala"
   },
   {
    "film": "22287",
@@ -3198,6 +3733,17 @@
    "tags": [],
    "price": null,
    "url": "http://cinema.nosadella.18tickets.it/film/scrooge-e-gli-spiriti-del-natale-ebenezer-_2026-a705e33e-491c-45fc-a89c-23c9af3ed130/779166#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-28",
+   "time": "21:45",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60930?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22941",
@@ -3259,6 +3805,17 @@
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/780193#sala"
   },
   {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-11-28",
+   "time": "22:30",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60942?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22360",
    "cinema": 171,
    "date": "2026-11-28",
@@ -3294,6 +3851,30 @@
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/fiord_2026/780078#sala"
   },
   {
+   "film": "22542",
+   "cinema": 5075,
+   "date": "2026-11-29",
+   "time": "11:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780153#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-29",
+   "time": "11:30",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/61019?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22941",
    "cinema": 171,
    "date": "2026-11-29",
@@ -3305,15 +3886,15 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60869?SC_CMP=TSC_comingsoon"
   },
   {
-   "film": "22994",
+   "film": "22983",
    "cinema": 171,
    "date": "2026-11-29",
-   "time": "12:00",
-   "sala": "Sala 4",
+   "time": "12:30",
+   "sala": "EPIC",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00004018/60953?SC_CMP=TSC_comingsoon"
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60944?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22780",
@@ -3338,6 +3919,28 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003902/60950?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-11-29",
+   "time": "14:00",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/60946?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-29",
+   "time": "14:30",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60387?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22189",
    "cinema": 5074,
    "date": "2026-11-29",
@@ -3349,6 +3952,50 @@
    "url": "http://bristol.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/867909#sala"
   },
   {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-11-29",
+   "time": "15:00",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867891#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 170,
+   "date": "2026-11-29",
+   "time": "15:00",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/hexe-il-regno-delle-streghe_2026-ed22b454-f69c-465c-869b-eddd47430f49/868067#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-11-29",
+   "time": "15:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37842"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-29",
+   "time": "15:10",
+   "sala": "EPIC",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60846?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22879",
    "cinema": 152,
    "date": "2026-11-29",
@@ -3358,6 +4005,28 @@
    "tags": [],
    "price": null,
    "url": "http://arlecchino.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api_2025-7d62e575-9c75-47c0-8e9c-eb5d3882531c/867945#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 171,
+   "date": "2026-11-29",
+   "time": "15:15",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60962?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-11-29",
+   "time": "15:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868450#sala"
   },
   {
    "film": "22392",
@@ -3380,17 +4049,6 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/868655#sala"
-  },
-  {
-   "film": "22287",
-   "cinema": 153,
-   "date": "2026-11-29",
-   "time": "15:30",
-   "sala": "Sala 1",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "https://ticket.cinebot.it/bellinzona/evento/2244"
   },
   {
    "film": "22941",
@@ -3439,6 +4097,39 @@
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/780062#sala"
   },
   {
+   "film": "22983",
+   "cinema": 5085,
+   "date": "2026-11-29",
+   "time": "15:30",
+   "sala": "Sala Berti",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cinema.nosadella.18tickets.it/film/hexe-il-regno-delle-streghe_2026-72c1129d-a8e9-4ca5-b82f-415d2e3a4531/779235#sala"
+  },
+  {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-11-29",
+   "time": "15:40",
+   "sala": "Sala 5",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/60957?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-11-29",
+   "time": "15:45",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868626#sala"
+  },
+  {
    "film": "23028",
    "cinema": 171,
    "date": "2026-11-29",
@@ -3459,6 +4150,17 @@
    "tags": [],
    "price": null,
    "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1020477#sala"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-11-29",
+   "time": "16:00",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-5f0dd93d-6b0b-4a92-9760-ee3c5013ce9f/866919#sala"
   },
   {
    "film": "22778",
@@ -3496,6 +4198,17 @@
    "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1020468#sala"
   },
   {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-11-29",
+   "time": "16:15",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60947?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22287",
    "cinema": 178,
    "date": "2026-11-29",
@@ -3505,6 +4218,19 @@
    "tags": [],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/868675#sala"
+  },
+  {
+   "film": "22542",
+   "cinema": 5075,
+   "date": "2026-11-29",
+   "time": "16:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780158#sala"
   },
   {
    "film": "22842",
@@ -3520,6 +4246,50 @@
    "url": "http://cervi.cinetecabologna.18tickets.it/film/la-gradiva_2026/780092#sala"
   },
   {
+   "film": "22879",
+   "cinema": 5074,
+   "date": "2026-11-29",
+   "time": "16:40",
+   "sala": "Bristol",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://bristol.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api_2025-7d62e575-9c75-47c0-8e9c-eb5d3882531c/867917#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-11-29",
+   "time": "17:00",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867892#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-11-29",
+   "time": "17:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37843"
+  },
+  {
+   "film": "22983",
+   "cinema": 170,
+   "date": "2026-11-29",
+   "time": "17:05",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/hexe-il-regno-delle-streghe_2026-ed22b454-f69c-465c-869b-eddd47430f49/868068#sala"
+  },
+  {
    "film": "22259",
    "cinema": 174,
    "date": "2026-11-29",
@@ -3529,6 +4299,28 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/868697#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-29",
+   "time": "17:15",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60388?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-11-29",
+   "time": "17:25",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868451#sala"
   },
   {
    "film": "22392",
@@ -3562,6 +4354,17 @@
    "tags": [],
    "price": null,
    "url": "http://cinema.nosadella.18tickets.it/film/scrooge-e-gli-spiriti-del-natale-ebenezer-_2026-a705e33e-491c-45fc-a89c-23c9af3ed130/779197#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 5085,
+   "date": "2026-11-29",
+   "time": "17:30",
+   "sala": "Sala Berti",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cinema.nosadella.18tickets.it/film/hexe-il-regno-delle-streghe_2026-72c1129d-a8e9-4ca5-b82f-415d2e3a4531/779234#sala"
   },
   {
    "film": "22287",
@@ -3599,15 +4402,26 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003596/60958?SC_CMP=TSC_comingsoon"
   },
   {
-   "film": "22287",
-   "cinema": 153,
+   "film": "22991",
+   "cinema": 161,
    "date": "2026-11-29",
    "time": "18:15",
-   "sala": "Sala 1",
+   "sala": "Sala 3",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "https://ticket.cinebot.it/bellinzona/evento/2245"
+   "url": "http://fossolo.ccroma.18tickets.it/film/l-essere-amato_2026-8b4f00ae-de77-4d43-8d7d-05bd26778e35/1020482#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-29",
+   "time": "18:15",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60963?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22778",
@@ -3619,6 +4433,28 @@
    "tags": [],
    "price": null,
    "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868323#sala"
+  },
+  {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-11-29",
+   "time": "18:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868625#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-11-29",
+   "time": "18:40",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60948?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22850",
@@ -3641,6 +4477,30 @@
    "tags": [],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/868676#sala"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-11-29",
+   "time": "18:45",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868372#sala"
+  },
+  {
+   "film": "22542",
+   "cinema": 5075,
+   "date": "2026-11-29",
+   "time": "18:45",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780159#sala"
   },
   {
    "film": "22778",
@@ -3667,6 +4527,17 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/60961?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-11-29",
+   "time": "19:00",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867893#sala"
+  },
+  {
    "film": "22941",
    "cinema": 171,
    "date": "2026-11-29",
@@ -3676,6 +4547,52 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60868?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-11-29",
+   "time": "19:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37844"
+  },
+  {
+   "film": "22269",
+   "cinema": 5480,
+   "date": "2026-11-29",
+   "time": "19:00",
+   "sala": "Cervi",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/780107#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 170,
+   "date": "2026-11-29",
+   "time": "19:10",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/hexe-il-regno-delle-streghe_2026-ed22b454-f69c-465c-869b-eddd47430f49/868069#sala"
+  },
+  {
+   "film": "22879",
+   "cinema": 5074,
+   "date": "2026-11-29",
+   "time": "19:10",
+   "sala": "Bristol",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://bristol.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api_2025-7d62e575-9c75-47c0-8e9c-eb5d3882531c/867918#sala"
   },
   {
    "film": "22850",
@@ -3689,6 +4606,17 @@
    "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/868656#sala"
   },
   {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-11-29",
+   "time": "19:25",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868452#sala"
+  },
+  {
    "film": "22392",
    "cinema": 174,
    "date": "2026-11-29",
@@ -3700,15 +4628,37 @@
    "url": "http://odeon.ccb.18tickets.it/film/il-fuoco-che-ti-porti-dentro_2026/868602#sala"
   },
   {
-   "film": "22281",
-   "cinema": 5085,
+   "film": "22796",
+   "cinema": 178,
    "date": "2026-11-29",
    "time": "19:30",
-   "sala": "Sala Scalo",
+   "sala": "Rialto 2",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://cinema.nosadella.18tickets.it/film/dio-ride_2026/779242#sala"
+   "url": "http://rialto.ccb.18tickets.it/film/mustang_2026-60aa132c-8eab-448d-a544-5dfd481b4df7/868712#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 5085,
+   "date": "2026-11-29",
+   "time": "19:30",
+   "sala": "Sala Berti",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://cinema.nosadella.18tickets.it/film/hexe-il-regno-delle-streghe_2026-72c1129d-a8e9-4ca5-b82f-415d2e3a4531/779233#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-29",
+   "time": "20:00",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60389?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22287",
@@ -3724,15 +4674,15 @@
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/780064#sala"
   },
   {
-   "film": "22287",
-   "cinema": 153,
+   "film": "22883",
+   "cinema": 171,
    "date": "2026-11-29",
-   "time": "21:00",
-   "sala": "Sala 1",
+   "time": "20:50",
+   "sala": "Sala 7",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "https://ticket.cinebot.it/bellinzona/evento/2246"
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60964?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22281",
@@ -3746,6 +4696,28 @@
    "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1020478#sala"
   },
   {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-11-29",
+   "time": "21:00",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867894#sala"
+  },
+  {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-11-29",
+   "time": "21:00",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/59724?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22778",
    "cinema": 179,
    "date": "2026-11-29",
@@ -3755,6 +4727,17 @@
    "tags": [],
    "price": null,
    "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-896db6fe-7cf3-452b-8430-8ffbfed886fc/868347#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-11-29",
+   "time": "21:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37845"
   },
   {
    "film": "22842",
@@ -3803,6 +4786,19 @@
    "url": "http://medica.popupcinema.18tickets.it/film/hunger-games-l-alba-sulla-mietitura_2026-fe7da56e-8df3-4b8a-ab88-211c45ceed6f/868082#sala"
   },
   {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-11-29",
+   "time": "21:15",
+   "sala": "Odeon B",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026-69355280-300d-48d4-b645-b15da3c30cf2/868635#sala"
+  },
+  {
    "film": "22287",
    "cinema": 178,
    "date": "2026-11-29",
@@ -3814,6 +4810,30 @@
    ],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026-e31f5ef5-fb22-4912-8834-4f256667200a/868687#sala"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-11-29",
+   "time": "21:15",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868373#sala"
+  },
+  {
+   "film": "22542",
+   "cinema": 5075,
+   "date": "2026-11-29",
+   "time": "21:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780160#sala"
   },
   {
    "film": "22941",
@@ -3876,8 +4896,10 @@
    "date": "2026-11-29",
    "time": "21:30",
    "sala": "Rialto 2",
-   "vo": false,
-   "tags": [],
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/look-back_2026-75e53b30-b2eb-4365-8a82-fca5f1a663dc/868358#sala"
   },
@@ -3917,17 +4939,6 @@
    "url": "http://cinema.nosadella.18tickets.it/film/scrooge-e-gli-spiriti-del-natale-ebenezer-_2026-a705e33e-491c-45fc-a89c-23c9af3ed130/779196#sala"
   },
   {
-   "film": "22281",
-   "cinema": 5074,
-   "date": "2026-11-29",
-   "time": "21:40",
-   "sala": "Bristol",
-   "vo": false,
-   "tags": [],
-   "price": null,
-   "url": "http://bristol.popupcinema.18tickets.it/film/dio-ride_2026-1a55a128-2cfe-44c0-8c70-63a6da37600f/867912#sala"
-  },
-  {
    "film": "22780",
    "cinema": 171,
    "date": "2026-11-29",
@@ -3952,6 +4963,17 @@
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/780065#sala"
   },
   {
+   "film": "22879",
+   "cinema": 171,
+   "date": "2026-11-29",
+   "time": "22:25",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003953/60952?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22941",
    "cinema": 171,
    "date": "2026-11-29",
@@ -3974,6 +4996,61 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/60977?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-11-30",
+   "time": "14:20",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/60991?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22189",
+   "cinema": 152,
+   "date": "2026-11-30",
+   "time": "14:30",
+   "sala": "ARLECCHINO",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/867935#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-30",
+   "time": "14:30",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60384?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-11-30",
+   "time": "15:00",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867895#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 170,
+   "date": "2026-11-30",
+   "time": "15:00",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/hexe-il-regno-delle-streghe_2026-ed22b454-f69c-465c-869b-eddd47430f49/868070#sala"
+  },
+  {
    "film": "22941",
    "cinema": 171,
    "date": "2026-11-30",
@@ -3983,6 +5060,17 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60843?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-11-30",
+   "time": "15:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868453#sala"
   },
   {
    "film": "22392",
@@ -4007,6 +5095,17 @@
    "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/868658#sala"
   },
   {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-30",
+   "time": "15:20",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60971?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22269",
    "cinema": 178,
    "date": "2026-11-30",
@@ -4029,6 +5128,50 @@
    "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868324#sala"
   },
   {
+   "film": "22879",
+   "cinema": 171,
+   "date": "2026-11-30",
+   "time": "15:35",
+   "sala": "Sala 6",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003953/60986?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-11-30",
+   "time": "15:45",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868627#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-11-30",
+   "time": "15:50",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60967?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-11-30",
+   "time": "16:00",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868350#sala"
+  },
+  {
    "film": "22778",
    "cinema": 5075,
    "date": "2026-11-30",
@@ -4043,6 +5186,17 @@
   },
   {
    "film": "22287",
+   "cinema": 171,
+   "date": "2026-11-30",
+   "time": "16:10",
+   "sala": "Sala 5",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60982?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22287",
    "cinema": 178,
    "date": "2026-11-30",
    "time": "16:15",
@@ -4051,6 +5205,19 @@
    "tags": [],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/868677#sala"
+  },
+  {
+   "film": "22542",
+   "cinema": 5075,
+   "date": "2026-11-30",
+   "time": "16:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780161#sala"
   },
   {
    "film": "22842",
@@ -4099,6 +5266,28 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60978?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-11-30",
+   "time": "17:00",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867896#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 170,
+   "date": "2026-11-30",
+   "time": "17:05",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/hexe-il-regno-delle-streghe_2026-ed22b454-f69c-465c-869b-eddd47430f49/868071#sala"
+  },
+  {
    "film": "22259",
    "cinema": 174,
    "date": "2026-11-30",
@@ -4108,6 +5297,28 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/868699#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-30",
+   "time": "17:15",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60385?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-11-30",
+   "time": "17:25",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868454#sala"
   },
   {
    "film": "22392",
@@ -4156,6 +5367,17 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/60972?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-11-30",
+   "time": "18:15",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60968?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22778",
    "cinema": 179,
    "date": "2026-11-30",
@@ -4167,6 +5389,39 @@
    "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868325#sala"
   },
   {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-11-30",
+   "time": "18:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868628#sala"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-11-30",
+   "time": "18:30",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868364#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-30",
+   "time": "18:35",
+   "sala": "EPIC",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60844?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22287",
    "cinema": 178,
    "date": "2026-11-30",
@@ -4176,6 +5431,19 @@
    "tags": [],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/868678#sala"
+  },
+  {
+   "film": "22542",
+   "cinema": 5075,
+   "date": "2026-11-30",
+   "time": "18:45",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780162#sala"
   },
   {
    "film": "22778",
@@ -4202,6 +5470,17 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003596/60987?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-11-30",
+   "time": "19:00",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867897#sala"
+  },
+  {
    "film": "22941",
    "cinema": 171,
    "date": "2026-11-30",
@@ -4211,6 +5490,30 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60864?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22269",
+   "cinema": 5480,
+   "date": "2026-11-30",
+   "time": "19:00",
+   "sala": "Cervi",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/780108#sala"
+  },
+  {
+   "film": "22752",
+   "cinema": 170,
+   "date": "2026-11-30",
+   "time": "19:15",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/lorenzo-l-incredibile-avventura-di-jovanotti_2026-acb93216-5fc6-4a7f-894b-f201fd90c376/868077#sala"
   },
   {
    "film": "22850",
@@ -4224,6 +5527,17 @@
    "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/868659#sala"
   },
   {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-11-30",
+   "time": "19:25",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868455#sala"
+  },
+  {
    "film": "22392",
    "cinema": 174,
    "date": "2026-11-30",
@@ -4233,6 +5547,28 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/il-fuoco-che-ti-porti-dentro_2026/868606#sala"
+  },
+  {
+   "film": "22796",
+   "cinema": 178,
+   "date": "2026-11-30",
+   "time": "19:30",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/mustang_2026-60aa132c-8eab-448d-a544-5dfd481b4df7/868713#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-11-30",
+   "time": "20:00",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60386?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22287",
@@ -4257,6 +5593,39 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60979?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-11-30",
+   "time": "20:45",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60973?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-11-30",
+   "time": "21:00",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867898#sala"
+  },
+  {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-11-30",
+   "time": "21:00",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/59723?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22778",
@@ -4305,6 +5674,19 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60845?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-11-30",
+   "time": "21:15",
+   "sala": "Odeon B",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026-69355280-300d-48d4-b645-b15da3c30cf2/868636#sala"
+  },
+  {
    "film": "22287",
    "cinema": 178,
    "date": "2026-11-30",
@@ -4318,15 +5700,26 @@
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026-e31f5ef5-fb22-4912-8834-4f256667200a/868688#sala"
   },
   {
+   "film": "22542",
+   "cinema": 5075,
+   "date": "2026-11-30",
+   "time": "21:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780163#sala"
+  },
+  {
    "film": "22879",
    "cinema": 152,
    "date": "2026-11-30",
    "time": "21:30",
    "sala": "ARLECCHINO",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
+   "vo": false,
+   "tags": [],
    "price": null,
    "url": "http://arlecchino.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api_2025-7d62e575-9c75-47c0-8e9c-eb5d3882531c/867946#sala"
   },
@@ -4380,8 +5773,10 @@
    "date": "2026-11-30",
    "time": "21:30",
    "sala": "Rialto 2",
-   "vo": false,
-   "tags": [],
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/look-back_2026-75e53b30-b2eb-4365-8a82-fca5f1a663dc/868359#sala"
   },
@@ -4445,6 +5840,28 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003902/60999?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-12-01",
+   "time": "14:05",
+   "sala": "Sala 6",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/60988?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22189",
+   "cinema": 152,
+   "date": "2026-12-01",
+   "time": "14:10",
+   "sala": "ARLECCHINO",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/867936#sala"
+  },
+  {
    "film": "22189",
    "cinema": 171,
    "date": "2026-12-01",
@@ -4456,6 +5873,39 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/60995?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-12-01",
+   "time": "14:30",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60401?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-12-01",
+   "time": "15:00",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867899#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 170,
+   "date": "2026-12-01",
+   "time": "15:00",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/hexe-il-regno-delle-streghe_2026-ed22b454-f69c-465c-869b-eddd47430f49/868072#sala"
+  },
+  {
    "film": "22941",
    "cinema": 171,
    "date": "2026-12-01",
@@ -4465,6 +5915,41 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60861?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22542",
+   "cinema": 5075,
+   "date": "2026-12-01",
+   "time": "15:00",
+   "sala": "Mastroianni",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780155#sala"
+  },
+  {
+   "film": "22879",
+   "cinema": 171,
+   "date": "2026-12-01",
+   "time": "15:15",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003953/60969?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-12-01",
+   "time": "15:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868456#sala"
   },
   {
    "film": "22392",
@@ -4522,6 +6007,39 @@
    "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868326#sala"
   },
   {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-12-01",
+   "time": "15:45",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868630#sala"
+  },
+  {
+   "film": "22287",
+   "cinema": 171,
+   "date": "2026-12-01",
+   "time": "16:00",
+   "sala": "Sala 5",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60984?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-12-01",
+   "time": "16:00",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868351#sala"
+  },
+  {
    "film": "22778",
    "cinema": 5075,
    "date": "2026-12-01",
@@ -4570,6 +6088,17 @@
    "url": "http://arlecchino.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api_2025-7d62e575-9c75-47c0-8e9c-eb5d3882531c/867948#sala"
   },
   {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-12-01",
+   "time": "16:25",
+   "sala": "Sala 6",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60989?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22941",
    "cinema": 171,
    "date": "2026-12-01",
@@ -4581,6 +6110,50 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60980?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-12-01",
+   "time": "17:00",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867900#sala"
+  },
+  {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-12-01",
+   "time": "17:00",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/60996?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-12-01",
+   "time": "17:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37846"
+  },
+  {
+   "film": "22983",
+   "cinema": 170,
+   "date": "2026-12-01",
+   "time": "17:05",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/hexe-il-regno-delle-streghe_2026-ed22b454-f69c-465c-869b-eddd47430f49/868073#sala"
+  },
+  {
    "film": "22259",
    "cinema": 174,
    "date": "2026-12-01",
@@ -4590,6 +6163,28 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/868701#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-12-01",
+   "time": "17:15",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60402?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-12-01",
+   "time": "17:25",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868457#sala"
   },
   {
    "film": "22392",
@@ -4627,6 +6222,17 @@
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/wild-horse-nine_2026-348b1da7-0d90-4a92-b1a3-3368c4315c7f/780070#sala"
   },
   {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-12-01",
+   "time": "18:05",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60975?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22778",
    "cinema": 179,
    "date": "2026-12-01",
@@ -4649,6 +6255,39 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003596/60970?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-12-01",
+   "time": "18:30",
+   "sala": "EPIC",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60862?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-12-01",
+   "time": "18:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868629#sala"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-12-01",
+   "time": "18:30",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868365#sala"
+  },
+  {
    "film": "22287",
    "cinema": 178,
    "date": "2026-12-01",
@@ -4658,6 +6297,19 @@
    "tags": [],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/868680#sala"
+  },
+  {
+   "film": "22542",
+   "cinema": 5075,
+   "date": "2026-12-01",
+   "time": "18:45",
+   "sala": "Scorsese",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780157#sala"
   },
   {
    "film": "22189",
@@ -4676,10 +6328,23 @@
    "date": "2026-12-01",
    "time": "18:55",
    "sala": "ARLECCHINO",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api-original-version_2025-fb2bd85a-d884-4dbb-95ac-6def0dd2fd60/867955#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-12-01",
+   "time": "19:00",
+   "sala": "Jolly",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://arlecchino.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api-original-version_2025-fb2bd85a-d884-4dbb-95ac-6def0dd2fd60/867955#sala"
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867901#sala"
   },
   {
    "film": "22941",
@@ -4693,6 +6358,41 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60867?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-12-01",
+   "time": "19:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37847"
+  },
+  {
+   "film": "22269",
+   "cinema": 5480,
+   "date": "2026-12-01",
+   "time": "19:00",
+   "sala": "Cervi",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/780109#sala"
+  },
+  {
+   "film": "22752",
+   "cinema": 170,
+   "date": "2026-12-01",
+   "time": "19:15",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/lorenzo-l-incredibile-avventura-di-jovanotti_2026-acb93216-5fc6-4a7f-894b-f201fd90c376/868078#sala"
+  },
+  {
    "film": "22850",
    "cinema": 174,
    "date": "2026-12-01",
@@ -4704,6 +6404,17 @@
    "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/868662#sala"
   },
   {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-12-01",
+   "time": "19:25",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868458#sala"
+  },
+  {
    "film": "22392",
    "cinema": 174,
    "date": "2026-12-01",
@@ -4713,6 +6424,28 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/il-fuoco-che-ti-porti-dentro_2026/868610#sala"
+  },
+  {
+   "film": "22796",
+   "cinema": 178,
+   "date": "2026-12-01",
+   "time": "19:30",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/mustang_2026-60aa132c-8eab-448d-a544-5dfd481b4df7/868714#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-12-01",
+   "time": "20:00",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60403?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22287",
@@ -4739,6 +6472,39 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60981?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-12-01",
+   "time": "20:30",
+   "sala": "Sala 3",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/60976?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-12-01",
+   "time": "21:00",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867902#sala"
+  },
+  {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-12-01",
+   "time": "21:00",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/59729?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22778",
    "cinema": 179,
    "date": "2026-12-01",
@@ -4748,6 +6514,28 @@
    "tags": [],
    "price": null,
    "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-896db6fe-7cf3-452b-8430-8ffbfed886fc/868354#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-12-01",
+   "time": "21:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37848"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-12-01",
+   "time": "21:00",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868370#sala"
   },
   {
    "film": "22842",
@@ -4783,6 +6571,19 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60863?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-12-01",
+   "time": "21:15",
+   "sala": "Odeon B",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026-69355280-300d-48d4-b645-b15da3c30cf2/868637#sala"
   },
   {
    "film": "22287",
@@ -4847,8 +6648,10 @@
    "date": "2026-12-01",
    "time": "21:30",
    "sala": "Rialto 2",
-   "vo": false,
-   "tags": [],
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/look-back_2026-75e53b30-b2eb-4365-8a82-fca5f1a663dc/868360#sala"
   },
@@ -4912,6 +6715,28 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003902/61000?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-12-02",
+   "time": "14:00",
+   "sala": "Sala 5",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/61009?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22287",
+   "cinema": 171,
+   "date": "2026-12-02",
+   "time": "14:10",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/61014?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22189",
    "cinema": 171,
    "date": "2026-12-02",
@@ -4923,6 +6748,50 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003580/61005?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22189",
+   "cinema": 152,
+   "date": "2026-12-02",
+   "time": "14:30",
+   "sala": "ARLECCHINO",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://arlecchino.popupcinema.18tickets.it/film/se-domani-non-torno_2026-040aa954-b925-4a23-bf79-e49a4f766aae/867937#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-12-02",
+   "time": "14:30",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60398?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-12-02",
+   "time": "15:00",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867903#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 170,
+   "date": "2026-12-02",
+   "time": "15:00",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/hexe-il-regno-delle-streghe_2026-ed22b454-f69c-465c-869b-eddd47430f49/868074#sala"
+  },
+  {
    "film": "22941",
    "cinema": 171,
    "date": "2026-12-02",
@@ -4932,6 +6801,17 @@
    "tags": [],
    "price": null,
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60858?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-12-02",
+   "time": "15:15",
+   "sala": "Odeon A",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868459#sala"
   },
   {
    "film": "22392",
@@ -4989,6 +6869,39 @@
    "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868328#sala"
   },
   {
+   "film": "22879",
+   "cinema": 171,
+   "date": "2026-12-02",
+   "time": "15:45",
+   "sala": "Sala 6",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003953/61012?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-12-02",
+   "time": "15:45",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868631#sala"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-12-02",
+   "time": "16:00",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868352#sala"
+  },
+  {
    "film": "22778",
    "cinema": 5075,
    "date": "2026-12-02",
@@ -5002,6 +6915,17 @@
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/fiord_2026/780101#sala"
   },
   {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-12-02",
+   "time": "16:15",
+   "sala": "Sala 5",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/61010?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22287",
    "cinema": 178,
    "date": "2026-12-02",
@@ -5011,6 +6935,19 @@
    "tags": [],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/868681#sala"
+  },
+  {
+   "film": "22542",
+   "cinema": 5075,
+   "date": "2026-12-02",
+   "time": "16:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780164#sala"
   },
   {
    "film": "22842",
@@ -5048,6 +6985,61 @@
    "url": "http://arlecchino.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api_2025-7d62e575-9c75-47c0-8e9c-eb5d3882531c/867949#sala"
   },
   {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-12-02",
+   "time": "16:50",
+   "sala": "Sala 7",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/61015?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-12-02",
+   "time": "17:00",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867904#sala"
+  },
+  {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-12-02",
+   "time": "17:00",
+   "sala": "Sala 4",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/61006?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-12-02",
+   "time": "17:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37849"
+  },
+  {
+   "film": "22983",
+   "cinema": 170,
+   "date": "2026-12-02",
+   "time": "17:05",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/hexe-il-regno-delle-streghe_2026-ed22b454-f69c-465c-869b-eddd47430f49/868075#sala"
+  },
+  {
    "film": "22259",
    "cinema": 174,
    "date": "2026-12-02",
@@ -5057,6 +7049,28 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/868703#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-12-02",
+   "time": "17:15",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60399?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-12-02",
+   "time": "17:25",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868460#sala"
   },
   {
    "film": "22392",
@@ -5116,6 +7130,39 @@
    "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868329#sala"
   },
   {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-12-02",
+   "time": "18:30",
+   "sala": "EPIC",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60859?SC_CMP=TSC_comingsoon"
+  },
+  {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-12-02",
+   "time": "18:30",
+   "sala": "Odeon B",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868632#sala"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-12-02",
+   "time": "18:30",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868366#sala"
+  },
+  {
    "film": "22189",
    "cinema": 171,
    "date": "2026-12-02",
@@ -5138,6 +7185,19 @@
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/868682#sala"
   },
   {
+   "film": "22542",
+   "cinema": 5075,
+   "date": "2026-12-02",
+   "time": "18:45",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780165#sala"
+  },
+  {
    "film": "22778",
    "cinema": 5075,
    "date": "2026-12-02",
@@ -5151,6 +7211,17 @@
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/fiord_2026/780102#sala"
   },
   {
+   "film": "22883",
+   "cinema": 167,
+   "date": "2026-12-02",
+   "time": "19:00",
+   "sala": "Jolly",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867905#sala"
+  },
+  {
    "film": "22941",
    "cinema": 171,
    "date": "2026-12-02",
@@ -5162,6 +7233,63 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60866?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-12-02",
+   "time": "19:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37850"
+  },
+  {
+   "film": "22269",
+   "cinema": 5480,
+   "date": "2026-12-02",
+   "time": "19:00",
+   "sala": "Cervi",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://cervi.cinetecabologna.18tickets.it/film/look-back-v-o-_2026-7f045c90-f01d-4102-84de-2ac92d1c0ad3/780110#sala"
+  },
+  {
+   "film": "22752",
+   "cinema": 170,
+   "date": "2026-12-02",
+   "time": "19:15",
+   "sala": "Medica",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://medica.popupcinema.18tickets.it/film/lorenzo-l-incredibile-avventura-di-jovanotti_2026-acb93216-5fc6-4a7f-894b-f201fd90c376/868079#sala"
+  },
+  {
+   "film": "22189",
+   "cinema": 174,
+   "date": "2026-12-02",
+   "time": "19:25",
+   "sala": "Odeon C",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868461#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-12-02",
+   "time": "19:30",
+   "sala": "Sala 4",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/61007?SC_CMP=TSC_comingsoon"
+  },
+  {
    "film": "22392",
    "cinema": 174,
    "date": "2026-12-02",
@@ -5171,6 +7299,28 @@
    "tags": [],
    "price": null,
    "url": "http://odeon.ccb.18tickets.it/film/il-fuoco-che-ti-porti-dentro_2026/868614#sala"
+  },
+  {
+   "film": "22796",
+   "cinema": 178,
+   "date": "2026-12-02",
+   "time": "19:30",
+   "sala": "Rialto 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://rialto.ccb.18tickets.it/film/mustang_2026-60aa132c-8eab-448d-a544-5dfd481b4df7/868715#sala"
+  },
+  {
+   "film": "22983",
+   "cinema": 171,
+   "date": "2026-12-02",
+   "time": "20:00",
+   "sala": "Sala 9",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60400?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22287",
@@ -5197,15 +7347,26 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/61004?SC_CMP=TSC_comingsoon"
   },
   {
-   "film": "22287",
-   "cinema": 153,
+   "film": "22883",
+   "cinema": 167,
    "date": "2026-12-02",
    "time": "21:00",
-   "sala": "Sala 1",
+   "sala": "Jolly",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "https://ticket.cinebot.it/bellinzona/evento/2238"
+   "url": "http://jolly.popupcinema.18tickets.it/film/la-notte-delle-fragole_2026-5783c5bd-19dc-4de6-874b-0fed6a47b6db/867906#sala"
+  },
+  {
+   "film": "22752",
+   "cinema": 171,
+   "date": "2026-12-02",
+   "time": "21:00",
+   "sala": "Sala 2",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/59728?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22778",
@@ -5217,6 +7378,28 @@
    "tags": [],
    "price": null,
    "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-896db6fe-7cf3-452b-8430-8ffbfed886fc/868355#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 181,
+   "date": "2026-12-02",
+   "time": "21:00",
+   "sala": "SALA CHAPLIN",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://secure.webtic.it/angwt/webtic.aspx?lid=5373&kid=51&tpl=blue#/shoppingmode/it/25/5373/1854/37851"
+  },
+  {
+   "film": "21162",
+   "cinema": 4587,
+   "date": "2026-12-02",
+   "time": "21:00",
+   "sala": "Europa Cinema",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868371#sala"
   },
   {
    "film": "22842",
@@ -5254,6 +7437,19 @@
    "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60860?SC_CMP=TSC_comingsoon"
   },
   {
+   "film": "22542",
+   "cinema": 174,
+   "date": "2026-12-02",
+   "time": "21:15",
+   "sala": "Odeon B",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026-69355280-300d-48d4-b645-b15da3c30cf2/868638#sala"
+  },
+  {
    "film": "22287",
    "cinema": 178,
    "date": "2026-12-02",
@@ -5267,15 +7463,26 @@
    "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026-e31f5ef5-fb22-4912-8834-4f256667200a/868690#sala"
   },
   {
+   "film": "22542",
+   "cinema": 5075,
+   "date": "2026-12-02",
+   "time": "21:15",
+   "sala": "DAMSLab",
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
+   "price": null,
+   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780166#sala"
+  },
+  {
    "film": "22879",
    "cinema": 152,
    "date": "2026-12-02",
    "time": "21:30",
    "sala": "ARLECCHINO",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
+   "vo": false,
+   "tags": [],
    "price": null,
    "url": "http://arlecchino.popupcinema.18tickets.it/film/la-ballata-del-re-delle-api-original-version_2025-fb2bd85a-d884-4dbb-95ac-6def0dd2fd60/867956#sala"
   },
@@ -5329,8 +7536,10 @@
    "date": "2026-12-02",
    "time": "21:30",
    "sala": "Rialto 2",
-   "vo": false,
-   "tags": [],
+   "vo": true,
+   "tags": [
+    "V.O."
+   ],
    "price": null,
    "url": "http://rialto.ccb.18tickets.it/film/look-back_2026-75e53b30-b2eb-4365-8a82-fca5f1a663dc/868361#sala"
   },
@@ -5346,6 +7555,17 @@
    ],
    "price": null,
    "url": "http://lumiere.cinetecabologna.18tickets.it/film/fiord_2026/780103#sala"
+  },
+  {
+   "film": "22883",
+   "cinema": 171,
+   "date": "2026-12-02",
+   "time": "21:50",
+   "sala": "Sala 4",
+   "vo": false,
+   "tags": [],
+   "price": null,
+   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003833/61008?SC_CMP=TSC_comingsoon"
   },
   {
    "film": "22780",
