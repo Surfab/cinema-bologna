@@ -1,5 +1,5 @@
 Cinema a Bologna, da giovedì 26 novembre a mercoledì 2 dicembre
-Orari aggiornati giovedì 26 novembre alle 10:46.
+Orari aggiornati giovedì 26 novembre alle 16:12.
 
 == Nuovi questa settimana (7) ==
 
@@ -46,7 +46,7 @@ Animazione, avventura, commedia, fantasy. 109 min. Al cinema dal 26 novembre
 Storie Parallele (Histoires parallèles)
 Drammatico, thriller. 139 min. Al cinema dal 26 novembre
   Lumière
-    gio 26: 15:00 V.O., 16:15 V.O., 17:30 V.O., 21:30 V.O.
+    gio 26: 16:15 V.O., 17:30 V.O., 21:30 V.O.
     ven 27: 15:00 V.O., 18:45 V.O.
     sab 28: 14:30 V.O., 19:45 V.O.
     dom 29: 11:00 V.O., 16:15 V.O., 18:45 V.O., 21:15 V.O.
@@ -158,7 +158,7 @@ Drammatico, biografico. Al cinema dal 5 novembre
 Fjord
 Drammatico. 126 min. Al cinema dal 19 novembre
   Lumière
-    gio 26: 15:00 V.O., 16:00 V.O., 18:45 V.O.
+    gio 26: 15:00 V.O., 18:45 V.O.
     ven 27: 16:00 V.O., 21:30 V.O.
     sab 28: 14:45 V.O., 17:00 V.O., 22:00 V.O.
     dom 29: 10:30 V.O., 16:00 V.O., 18:45 V.O., 21:30 V.O.
@@ -276,7 +276,7 @@ Documentario. 70 min. Al cinema dal 10 settembre
   Galliera
     gio 26: 19:45 V.O.
 
-== In uscita dal 3 dicembre (15) ==
+== In uscita dal 3 dicembre (16) ==
 Uscite in tutta Italia: non tutti i film arrivano nei cinema di Bologna.
 
 Lunedì 30 novembre
@@ -290,6 +290,7 @@ Giovedì 3 dicembre
   Behemoth! Una Vita. Da Ricomporre. (Behemoth!). Drammatico. Regia di Tony Gilroy
   Butterfly Jam. Drammatico. Regia di Kantemir Balagov
   Club Kid. Commedia, drammatico. Regia di Jordan Firstman
+  Fuksas - Da Tutta la Vita. Documentario. Regia di Elisa Fuksas
   Il Re Dei Re. La Più Grande Storia Mai Raccontata (The King of Kings). Animazione, family. Regia di Seong-ho Jang
   Kiki - Consegne a domicilio (Majo No Takkyubin). Animazione, avventura, fantasy. Regia di Hayao Miyazaki
   Lei che Brilla nella Battaglia (Qui Brille au Combat). Drammatico. Regia di Josephine Japy

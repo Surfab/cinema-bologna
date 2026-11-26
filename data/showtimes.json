@@ -312,7 +312,7 @@
    "duration": null,
    "release_date": "2026-11-23",
    "cast": [],
-   "rating": 3.8,
+   "rating": 3.9,
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/69142.jpg",
    "scheda_url": "https://www.comingsoon.it/film/mustang/69142/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/mustang/69142/video/"
@@ -378,7 +378,7 @@
     "Elle Fanning",
     "Ralph Fiennes"
    ],
-   "rating": 3.4,
+   "rating": 3.5,
    "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/66957.jpg",
    "scheda_url": "https://www.comingsoon.it/film/hunger-games-l-alba-sulla-mietitura/66957/scheda/",
    "trailer_url": "https://www.comingsoon.it/film/hunger-games-l-alba-sulla-mietitura/66957/video/"
@@ -701,24 +701,11 @@
    "cinema": 171,
    "date": "2026-11-26",
    "time": "15:00",
-   "sala": "EPIC",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003465/60855?SC_CMP=TSC_comingsoon"
-  },
-  {
-   "film": "22542",
-   "cinema": 5075,
-   "date": "2026-11-26",
-   "time": "15:00",
-   "sala": "Mastroianni",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": null,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/storie-parallele-histoires-paralleles-v-o-_2026-00b6a2ed-5612-4701-a7c8-adccf7683d93/780286#sala"
+   "url": null
   },
   {
    "film": "22778",
@@ -742,7 +729,7 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003848/60922?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22780",
@@ -753,40 +740,40 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003866/60918?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22189",
    "cinema": 174,
    "date": "2026-11-26",
    "time": "15:15",
-   "sala": "Odeon A",
+   "sala": "Sala C",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868441#sala"
+   "url": null
   },
   {
    "film": "22392",
    "cinema": 174,
    "date": "2026-11-26",
    "time": "15:15",
-   "sala": "Odeon D",
+   "sala": "Sala A",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/il-fuoco-che-ti-porti-dentro_2026/868575#sala"
+   "url": null
   },
   {
    "film": "22850",
    "cinema": 174,
    "date": "2026-11-26",
    "time": "15:15",
-   "sala": "Odeon C",
+   "sala": "Sala D",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/868644#sala"
+   "url": null
   },
   {
    "film": "22287",
@@ -797,29 +784,29 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003652/60893?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22269",
    "cinema": 178,
    "date": "2026-11-26",
    "time": "15:30",
-   "sala": "Rialto 2",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://rialto.ccb.18tickets.it/film/look-back_2026/868330#sala"
+   "url": null
   },
   {
    "film": "22778",
    "cinema": 179,
    "date": "2026-11-26",
    "time": "15:30",
-   "sala": "Roma D'Essai",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868314#sala"
+   "url": null
   },
   {
    "film": "22983",
@@ -830,29 +817,29 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003604/60887?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "22542",
    "cinema": 174,
    "date": "2026-11-26",
    "time": "15:45",
-   "sala": "Odeon B",
+   "sala": "Sala B",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868616#sala"
+   "url": null
   },
   {
    "film": "22281",
    "cinema": 161,
    "date": "2026-11-26",
    "time": "16:00",
-   "sala": "Sala 3",
+   "sala": "Sala 2",
    "vo": false,
    "tags": [],
    "price": null,
-   "url": "http://fossolo.ccroma.18tickets.it/film/dio-ride_2026-a6c58b38-5e01-49cf-a869-53bbe5d4b63d/1020471#sala"
+   "url": null
   },
   {
    "film": "22879",
@@ -863,53 +850,40 @@
    "vo": false,
    "tags": [],
    "price": 10.9,
-   "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1003/HO00003953/60906?SC_CMP=TSC_comingsoon"
+   "url": null
   },
   {
    "film": "21162",
    "cinema": 4587,
    "date": "2026-11-26",
    "time": "16:00",
-   "sala": "Europa Cinema",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 10.0,
-   "url": "http://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868344#sala"
-  },
-  {
-   "film": "22778",
-   "cinema": 5075,
-   "date": "2026-11-26",
-   "time": "16:00",
-   "sala": "Scorsese",
-   "vo": true,
-   "tags": [
-    "V.O."
-   ],
-   "price": null,
-   "url": "http://lumiere.cinetecabologna.18tickets.it/film/fiord_2026/780111#sala"
+   "url": null
   },
   {
    "film": "22850",
    "cinema": 161,
    "date": "2026-11-26",
    "time": "16:15",
-   "sala": "Sala1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 9.0,
-   "url": "http://fossolo.ccroma.18tickets.it/film/il-rumore-delle-cose-nuove_2026-fed7f1bb-47ac-402a-b8ae-0e1fafec93e8/1020451#sala"
+   "url": null
   },
   {
    "film": "22287",
    "cinema": 178,
    "date": "2026-11-26",
    "time": "16:15",
-   "sala": "Rialto 1",
+   "sala": "Sala 1",
    "vo": false,
    "tags": [],
    "price": 8.0,
-   "url": "http://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/868669#sala"
+   "url": null
   },
   {
    "film": "22542",
